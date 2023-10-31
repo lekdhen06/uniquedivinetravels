@@ -1,5 +1,5 @@
 baseurl = "https://uniquedivinetravels-bt.com//" 
-title = "UDT"
+title = "Unique Divine Travels"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -76,27 +76,15 @@ pluralizelisttitles = false
     parent     = "section.Bhutan"
 
 [[menu.main]]
-    name       = "Horizontal Blocks"
+    name       = "Culture & Traditions"
     url        = ""
     weight     = 5
     parent     = "section.Bhutan"
 
 [[menu.main]]
-    name       = "Pagination"
+    name       = "Bhutan at a glance"
     url        = ""
     weight     = 6
-    parent     = "section.Bhutan"
-
-[[menu.main]]
-    name       = "Tabs"
-    url        = ""
-    weight     = 7
-    parent     = "section.Bhutan"
-
-[[menu.main]]
-    name       = "Typography"
-    url        = ""
-    weight     = 8
     parent     = "section.Bhutan"
 
 [[menu.main]]
@@ -122,198 +110,106 @@ pluralizelisttitles = false
     url        = ""
     weight     = 4
     parent     = "section.Destinations"
+    
+[[menu.main]]
+    name       = "Punakha"
+    url        = ""
+    weight     = 5
+    parent     = "section.Destinations"
+    
+[[menu.main]]
+    name       = "Trongsa"
+    url        = ""
+    weight     = 6
+    parent     = "section.Destinations"
+    
+[[menu.main]]
+    name       = "Wangdiphodrang"
+    url        = ""
+    weight     = 7
+    parent     = "section.Destinations"
 
 [[menu.main]]
-    name       = "Portfolio"
-    identifier = "menu.portfolio"
+    name       = "Travel Guide"
+    identifier = "menu.Travel Guide"
     url        = "/img/template-homepage.png"
     weight     = 3
 
 [[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.portfolio"
+    name       = "Planning Trip"
+    identifier = "section.Planning Trip"
     url        = ""
     weight     = 1
-    parent     = "menu.portfolio"
+    parent     = "menu.Travel Guide"
     post       = 1
 
 [[menu.main]]
-    name       = "2 Columns"
+    name       = "VISA"
     url        = ""
     weight     = 1
-    parent     = "section.portfolio"
+    parent     = "section.Planning Trip"
 
 [[menu.main]]
-    name       = "2 Columns With Negative Space"
+    name       = "Tariff"
     url        = ""
     weight     = 2
-    parent     = "section.portfolio"
+    parent     = "section.Planning Trip"
 
 [[menu.main]]
-    name       = "3 Columns"
+    name       = "Flight"
     url        = ""
     weight     = 3
-    parent     = "section.portfolio"
+    parent     = "section.Planning Trip"
 
 [[menu.main]]
-    name       = "3 Columns With Negative Space"
+    name       = "Accomodation"
     url        = ""
     weight     = 4
-    parent     = "section.portfolio"
+    parent     = "section.Planning Trip"
 
 [[menu.main]]
-    name       = "4 Columns"
+    name       = "FAQ"
     url        = ""
     weight     = 5
-    parent     = "section.portfolio"
+    parent     = "section.Planning Trip"
 
 [[menu.main]]
-    name       = "4 Columns With Negative Space"
+    name       = "Tour Packages"
+    identifier = "menu.Tour Packages"
     url        = ""
-    weight     = 6
-    parent     = "section.portfolio"
+    weight     = 4
 
 [[menu.main]]
-    name       = "Portfolio - detail"
+    name       = "Cultural Tours"
+    identifier = "section.ap-culturaltours"
     url        = ""
-    weight     = 7
-    parent     = "section.portfolio"
+    parent     = "menu.Tour Packages"
+    post       = 1
 
 [[menu.main]]
-    name       = "Portfolio - detail 2"
+    name       = "Festival Tours"
+    identifier = "section.ap-festival tours"
     url        = ""
-    weight     = 8
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "About"
-    identifier = "section.about"
-    url        = ""
-    weight     = 2
-    parent     = "menu.portfolio"
+    parent     = "menu.Tour Packages"
     post       = 2
+
+[[menu.main]]
+    name       = "Trekking Tours"
+    identifier = "section.trekkingtours"
+    url        = ""
+    parent     = "menu.Tour Packages"
+    post       = 3
+
+[[menu.main]]
+    name       = "Specail Tours"
+    identifier = "section.ap-specialtours"
+    url        = ""
+    parent     = "menu.Tour Packages"
+    post       = 4
 
 [[menu.main]]
     name       = "About Us"
-    url        = ""
-    weight     = 1
-    parent     = "section.about"
-
-[[menu.main]]
-    name       = "Our Team"
-    url        = ""
-    weight     = 2
-    parent     = "section.about"
-
-[[menu.main]]
-    name       = "Marketing"
-    identifier = "section.marketing"
-    url        = ""
-    weight     = 3
-    parent     = "menu.portfolio"
-    post       = 2
-
-[[menu.main]]
-    name       = "Packages"
-    url        = ""
-    weight     = 1
-    parent     = "section.marketing"
-
-[[menu.main]]
-    name       = "All Pages"
-    identifier = "menu.allpages"
-    url        = ""
-    weight     = 4
-
-[[menu.main]]
-    name       = "Home"
-    identifier = "section.ap-home"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "About"
-    identifier = "section.ap-about"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "Marketing"
-    identifier = "section.ap-marketing"
-    url        = ""
-    weight     = 3
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.ap-portfolio"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 2
-
-[[menu.main]]
-    name       = "User Pages"
-    identifier = "section.ap-userpages"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 2
-
-[[menu.main]]
-    name       = "Shop"
-    identifier = "section.ap-shop"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 3
-
-[[menu.main]]
-    name       = "Shop - Order Process"
-    identifier = "section.ap-shoporderprocess"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 3
-
-[[menu.main]]
-    name       = "Contact"
-    identifier = "section.ap-contact"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Pages"
-    identifier = "section.ap-pages"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Blog"
-    identifier = "section.ap-blog"
-    url        = "/blog/"
-    weight     = 3
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Blog Listing Big"
-    url        = "/blog/"
-    weight     = 1
-    parent     = "section.ap-blog"
-
-[[menu.main]]
-    name       = "Blog"
-    identifier = "menu.blog"
+    identifier = "menu.About Us"
     url        = "/blog/"
     weight     = 5
 
