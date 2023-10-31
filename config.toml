@@ -1,5 +1,5 @@
-baseurl = "//"
-title = "Unique Divine Travels"
+baseurl = "https://uniquedivinetravels-bt.com//" 
+title = "UDT"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -30,92 +30,98 @@ pluralizelisttitles = false
 
 
 [[menu.main]]
-    name       = "About Us"
-    identifier = "menu.About Us"
+    name       = "About Bhutan"
+    identifier = "menu.About Bhutan"
     url        = "/img/template-easy-customize.png"
     weight     = 3
 
 [[menu.main]]
-    name       = "Shortcodes"
-    identifier = "section.shortcodes"
+    name       = "Bhutan"
+    identifier = "section.Bhutan"
     url        = ""
     weight     = 1
-    parent     = "menu.features"
+    parent     = "menu.About Bhutan"
     post       = 1
 
 [[menu.main]]
-    name       = "Header variations"
-    identifier = "section.headervariations"
+    name       = "Destinations"
+    identifier = "section.Destinations"
     url        = ""
     weight     = 2
-    parent     = "menu.features"
+    parent     = "menu.About Bhutan"
     post       = 2
 
 [[menu.main]]
-    name       = "Accordions"
+    name       = "History of Bhutan"
     url        = ""
     weight     = 1
-    parent     = "section.shortcodes"
+    parent     = "section.Bhutan"
 
 [[menu.main]]
-    name       = "Alerts"
+    name       = "Gross National Happiness (GNH)"
     url        = ""
     weight     = 2
-    parent     = "section.shortcodes"
+    parent     = "section.Bhutan"
 
 [[menu.main]]
-    name       = "Buttons"
+    name       = "Climate in Bhutan"
     url        = ""
     weight     = 3
-    parent     = "section.shortcodes"
+    parent     = "section.Bhutan"
 
 [[menu.main]]
-    name       = "Content Boxes"
+    name       = "Festivals"
     url        = ""
     weight     = 4
-    parent     = "section.shortcodes"
+    parent     = "section.Bhutan"
 
 [[menu.main]]
     name       = "Horizontal Blocks"
     url        = ""
     weight     = 5
-    parent     = "section.shortcodes"
+    parent     = "section.Bhutan"
 
 [[menu.main]]
     name       = "Pagination"
     url        = ""
     weight     = 6
-    parent     = "section.shortcodes"
+    parent     = "section.Bhutan"
 
 [[menu.main]]
     name       = "Tabs"
     url        = ""
     weight     = 7
-    parent     = "section.shortcodes"
+    parent     = "section.Bhutan"
 
 [[menu.main]]
     name       = "Typography"
     url        = ""
     weight     = 8
-    parent     = "section.shortcodes"
+    parent     = "section.Bhutan"
 
 [[menu.main]]
-    name       = "Default Sticky Header"
+    name       = "Thimphu"
     url        = ""
     weight     = 1
-    parent     = "section.headervariations"
+    parent     = "section.Destinations"
 
 [[menu.main]]
-    name       = "No Sticky Header"
+    name       = "Paro"
     url        = ""
     weight     = 2
-    parent     = "section.headervariations"
+    parent     = "section.Destinations"
 
 [[menu.main]]
-    name       = "Light Header"
+    name       = "Bumthang"
     url        = ""
     weight     = 3
-    parent     = "section.headervariations"
+    parent     = "section.Destinations"
+    
+[[menu.main]]
+    name       = "Zhemgang"
+    url        = ""
+    weight     = 4
+    parent     = "section.Destinations"
 
 [[menu.main]]
     name       = "Portfolio"
@@ -124,8 +130,8 @@ pluralizelisttitles = false
     weight     = 3
 
 [[menu.main]]
-    name       = "About Bhutan"
-    identifier = "section.About Bhutan"
+    name       = "Portfolio"
+    identifier = "section.portfolio"
     url        = ""
     weight     = 1
     parent     = "menu.portfolio"
@@ -328,8 +334,8 @@ pluralizelisttitles = false
 
 [[menu.topbar]]
     weight = 1
-    name = "Mobile"
-    url = "Mobile #: +97577456292/+97577808834"
+    name = "Phone"
+    url = "tel:+12 34 567 89 01"
     pre = "<i class='fas fa-2x fa-phone'></i>"
 
 [[menu.topbar]]
@@ -353,7 +359,7 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 5
     name = "Email"
-    url = "mailto:06lekdhen@gmail.com"
+    url = "mailto:hello@universal.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
