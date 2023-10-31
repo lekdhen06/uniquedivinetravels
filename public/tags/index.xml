@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Universal</title>
-    <link>https://devcows.github.io/hugo-universal-theme/tags/</link>
-    <description>Recent content in Tags on Universal</description>
+    <title>Tags on Unique Divine Travels</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Unique Divine Travels</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://devcows.github.io/hugo-universal-theme/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>golang</title>
-      <link>https://devcows.github.io/hugo-universal-theme/tags/golang/</link>
+      <link>/tags/golang/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://devcows.github.io/hugo-universal-theme/tags/golang/</guid>
+      <guid>/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://devcows.github.io/hugo-universal-theme/tags/hugo/</link>
+      <link>/tags/hugo/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://devcows.github.io/hugo-universal-theme/tags/hugo/</guid>
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
-      <link>https://devcows.github.io/hugo-universal-theme/tags/programming/</link>
+      <link>/tags/programming/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://devcows.github.io/hugo-universal-theme/tags/programming/</guid>
+      <guid>/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theme</title>
-      <link>https://devcows.github.io/hugo-universal-theme/tags/theme/</link>
+      <link>/tags/theme/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://devcows.github.io/hugo-universal-theme/tags/theme/</guid>
+      <guid>/tags/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://devcows.github.io/hugo-universal-theme/tags/go/</link>
+      <link>/tags/go/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>https://devcows.github.io/hugo-universal-theme/tags/go/</guid>
+      <guid>/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ipsum</title>
-      <link>https://devcows.github.io/hugo-universal-theme/tags/ipsum/</link>
+      <link>/tags/ipsum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devcows.github.io/hugo-universal-theme/tags/ipsum/</guid>
+      <guid>/tags/ipsum/</guid>
       <description></description>
     </item>
     
