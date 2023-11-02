@@ -255,7 +255,7 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 5
     name = "Email"
-    url = "mailto:hello@universal.com"
+    url = "mailto:info@uniquedivinetravels.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
@@ -278,7 +278,7 @@ pluralizelisttitles = false
     longitude = "-77.028333"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "default"
+    style = "turquoise"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -315,7 +315,7 @@ pluralizelisttitles = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    copyright = "Copyright (c) 2023 Unique Divine Travels; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -344,7 +344,7 @@ pluralizelisttitles = false
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us on +975 77456292/77808834 or hello@universal.com.</p>
       <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
@@ -390,28 +390,28 @@ pluralizelisttitles = false
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
     title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    subtitle = "Wanna know about us? Hear it from our clients."
 
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    title = "Do you want to know more?"
+    subtitle = "Here are some quick glances of our services."
     link_url = "#"
-    link_text = "Check other homepages"
+    link_text = "Check it out!"
 
-[params.clients]
+[params.packages]
     enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more information take a look at the README.
-    title = "Our Clients"
+    title = "Our packages"
     subtitle = ""
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "Places you can visit"
+    subtitle = "Bhutan, also known as the last shangri-la is a country known for its unique culture and traditions. The country is also filled with tsunami of myraid flora and fauna along with some breathtaking sights to feast upon; you won't regret it. The people are kind, jovial and of course, happy which is attributed by Gross National Happiness(GNH). "
     hide_summary = false
 
 [params.footer.recent_posts]
