@@ -314,7 +314,7 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>Selfless quality services.</p>"
     copyright = "Copyright © 2023 Unique Divine Travels. All rights reserved."
 
     # Format dates with Go's time formatting
@@ -328,13 +328,11 @@ pluralizelisttitles = false
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
-    address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
+    address = """<p class="text-uppercase"><strong>Unique Divine Travels</strong>
+        <br>IT Park
+        <br>Babesa
+        <br>Thmiphu 
+        <strong>Bhutan</strong>
       </p>
       """
 
@@ -379,7 +377,7 @@ pluralizelisttitles = false
 
 [params.features]
     enable = true
-    cols = 3 # Default: 3, Available values 2,3,4,6
+    cols = 2 # Default: 3, Available values 2,3,4,6
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.
@@ -408,7 +406,7 @@ pluralizelisttitles = false
     title = "Our packages"
     subtitle = ""
 
-[params.recent_posts]
+[params.places_you_can_visit]
     enable = true
     title = "Places you can visit"
     subtitle = "Bhutan, also known as the last shangri-la is a country known for its unique culture and traditions. The country is also filled with tsunami of myraid flora and fauna along with some breathtaking sights to feast upon; you won't regret it. The people are kind, jovial and of course, happy which is attributed to Gross National Happiness(GNH). "
