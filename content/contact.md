@@ -1,10 +1,10 @@
-+++
-title = "Contact"
-id = "contact"
++++ 
+title = "Contact" 
+id = "contact" 
 +++
 
-# We are here to help you
+#We are here to assist you
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+Do you have any other queries related to our services? Is there anything we can do to help you? Drop your grievances, doubts, suggestions, feedback or opinions at any time.
 
 Please feel free to contact us, our customer service center is working for you 24/7.
