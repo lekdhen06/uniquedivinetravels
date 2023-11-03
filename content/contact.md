@@ -3,7 +3,7 @@ title = "Contact"
 id = "contact" 
 +++
 
-#We are here to assist you
+WE ARE HERE TO ASSIST YOU.
 
 Do you have any other queries related to our services? Is there anything we can do to help you? Drop your grievances, doubts, suggestions, feedback or opinions at any time.
 
