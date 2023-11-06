@@ -32,7 +32,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "About Bhutan"
     identifier = "menu.About Bhutan"
-    url        = "/img/template-easy-customize.png"
+    url        = "/img/Punakha-dzong.png"
     weight     = 3
 
 [[menu.main]]
