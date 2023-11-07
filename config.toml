@@ -53,7 +53,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "History of Bhutan"
-    url        = "/history-of-bhutan"
+    url        = "/history-of-bhutan/"
     weight     = 1
     parent     = "section.Bhutan"
 
