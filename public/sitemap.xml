@@ -2,16 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://uniquedivinetravels-bt.com//blog/</loc>
-    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://uniquedivinetravels-bt.com//blog/2023/11/07/2023-11-07-history-of-bhutan/</loc>
-    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://uniquedivinetravels-bt.com//</loc>
-    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://uniquedivinetravels-bt.com//authors/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+  </url><url>
+    <loc>https://uniquedivinetravels-bt.com//blog/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://uniquedivinetravels-bt.com//categories/</loc>
@@ -45,6 +39,9 @@
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://uniquedivinetravels-bt.com//tags/theme/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+  </url><url>
+    <loc>https://uniquedivinetravels-bt.com//</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://uniquedivinetravels-bt.com//authors/jane-doe/</loc>
