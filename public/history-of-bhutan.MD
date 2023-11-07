@@ -1,5 +1,5 @@
 ---
-title: "History-of-Bhutan"
+title: "History of Bhutan"
 author: "lekdhen06"
 date: "2023-11-07"
 output: html_document
