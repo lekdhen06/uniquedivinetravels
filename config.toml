@@ -53,7 +53,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "History of Bhutan"
-    url        = "/blog/2023-11-06-history-of-bhutan"
+    url        = "/blog/history-of-bhutan.rmd"
     weight     = 1
     parent     = "section.Bhutan"
 
