@@ -1,4 +1,4 @@
-baseurl = "https://uniquedivinetravels-bt.com//" 
+baseurl = "https://uniquedivinetravels-bt.com" 
 title = "Unique Divine Travels"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
@@ -53,19 +53,19 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "History of Bhutan"
-    url        = "/history-of-bhutan"
+    url        = "/history_of_bhutan/"
     weight     = 1
     parent     = "section.Bhutan"
 
 [[menu.main]]
     name       = "Gross National Happiness (GNH)"
-    url        = ""
+    url        = "/gross_national_happiness/"
     weight     = 2
     parent     = "section.Bhutan"
 
 [[menu.main]]
     name       = "Climate in Bhutan"
-    url        = ""
+    url        = "/climate_in_bhutan"
     weight     = 3
     parent     = "section.Bhutan"
 
