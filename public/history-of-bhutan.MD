@@ -1,8 +1,6 @@
 +++
-title: "History of Bhutan"
+title: "HISTORY OF BHUTAN"
 author: "lekdhen06"
-date: "2023-11-07"
-output: html_document
 +++
 
 ```{r setup, include=FALSE}
