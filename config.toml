@@ -132,7 +132,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Travel Guide"
     identifier = "menu.Travel Guide"
-    url        = "/img/template-homepage.png"
+    url        = "/img/bhutan-airlines.jpg"
     weight     = 3
 
 [[menu.main]]
