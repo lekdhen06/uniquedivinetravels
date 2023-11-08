@@ -175,29 +175,25 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Cultural Tours"
-    identifier = "section.ap-culturaltours"
     url        = "/cultural_tours"
     parent     = "menu.Tour Packages"
     post       = 1
 
 [[menu.main]]
     name       = "Festival Tours"
-    identifier = "section.ap-festival tours"
-    url        = ""
+    url        = "/festival_tours"
     parent     = "menu.Tour Packages"
     post       = 2
 
 [[menu.main]]
     name       = "Trekking Tours"
-    identifier = "section.trekkingtours"
-    url        = ""
+    url        = "/trekking_tours"
     parent     = "menu.Tour Packages"
     post       = 3
 
 [[menu.main]]
     name       = "Special Tours"
-    identifier = "section.ap-specialtours"
-    url        = ""
+    url        = "/special_tours"
     parent     = "menu.Tour Packages"
     post       = 4
 
