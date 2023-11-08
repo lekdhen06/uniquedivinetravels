@@ -145,31 +145,31 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "VISA"
-    url        = ""
+    url        = "/visa"
     weight     = 1
     parent     = "section.Planning Trip"
 
 [[menu.main]]
     name       = "Tariff"
-    url        = ""
+    url        = "/tariff"
     weight     = 2
     parent     = "section.Planning Trip"
 
 [[menu.main]]
     name       = "Flight"
-    url        = ""
+    url        = "/flight"
     weight     = 3
     parent     = "section.Planning Trip"
 
 [[menu.main]]
     name       = "Accomodation"
-    url        = ""
+    url        = "/accomodation"
     weight     = 4
     parent     = "section.Planning Trip"
 
 [[menu.main]]
     name       = "FAQ"
-    url        = ""
+    url        = "/FAQ"
     weight     = 5
     parent     = "section.Planning Trip"
 
