@@ -77,7 +77,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Culture & Traditions"
-    url        = "/culture_&_traditions"
+    url        = "/culture_and_traditions"
     weight     = 5
     parent     = "section.Bhutan"
 
