@@ -5,26 +5,46 @@ date: "2023-11-08"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+Tourism in Bhutan is regulated by a daily tariff system, which is designed to promote high-value, low-impact tourism and to protect Bhutan's environment and culture. The daily tariff for tourists in Bhutan covers a range of services and expenses and is set by the Bhutanese government. Here are the key points regarding the tourism tariff in Bhutan:
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+**Minimum Daily Tariff**
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+The minimum daily tariff for tourists visiting Bhutan is set at a fixed rate per person per day. This tariff typically includes the following services:
+-	Accommodation in 3-star hotels (upgrades to 4 or 5-star accommodations are available at an additional cost).
+-	All meals (breakfast, lunch, and dinner).
+-	Licensed tour guide for the duration of your stay.
+-	All internal transportation (excluding flights to/from Bhutan).
+-	Cultural program fees and entry fees to monuments and museums.
 
-```{r cars}
-summary(cars)
-```
 
-## Including Plots
+**Surcharges and Discounts** 
 
-You can also embed plots, for example:
+Depending on the size of your group, the time of year, and the duration of your stay, additional surcharges or discounts may apply to the daily tariff. For example, there may be surcharges for solo travelers or those in small groups, and discounts for larger groups or longer stays.
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+**Visa Fee**
+
+The Bhutanese government includes the cost of the Bhutanese tourist visa in the daily tariff. We will handle the visa application process on your behalf.
+
+
+**Excluded Costs**
+
+The daily tariff does not cover international airfare to and from Bhutan. It also does not include personal expenses such as beverages, shopping, and tips.
+
+
+**Tour Operator**
+
+To visit Bhutan, you must book your trip through a licensed Bhutanese tour operator. Unique Divine Travels will handle all arrangements, including the payment of the daily tariff.
+
+
+**High-Value Tourism**
+
+Bhutan's tourism policy focuses on attracting high-value, low-impact tourists who are interested in cultural experiences and the preservation of the country's unique heritage and environment. The daily tariff is part of this strategy.
+
+***Sustainable Development Fee***
+
+All the international visitors visiting Bhutan will have to pay Sustainable Development Fee of USD 100 per person per night.
+The sustainable development Fee for the Indian nationals is INR 1200 per person per night.
+The Sustainable Development Fee (SDF), however, exempts day tourists (Indian) who do not travel past the first designated location (Border town, Phuntsholing).
+Minors under the age of five is exempted and children between the ages of six and below twelve, pay a 50% sustainable development fund.

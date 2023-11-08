@@ -5,26 +5,40 @@ date: "2023-11-08"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+Obtaining a visa for Bhutan involves a specific process, and Bhutan has a unique approach to tourism to preserve its culture and environment. Tourists are required to book their travel through an authorized tour operator, and the tour operator will handle the visa application process on your behalf. Here's an overview of the visa processing procedure for Bhutan:
 
-## R Markdown
+**Choose a Licensed Tour Operator**
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+To visit Bhutan, you must book your trip through a licensed Bhutanese tour operator. You cannot travel to Bhutan independently; you must join a pre-arranged tour.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
-```
+**Plan Your Trip**
 
-## Including Plots
+Work with us to plan your itinerary, including the places you want to visit and the duration of your stay. Bhutan has a daily tariff, which includes accommodation, meals, a guide, and transportation. Ensure you understand the costs and the services included in the tariff.
 
-You can also embed plots, for example:
+**Visa Application**
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+Once your itinerary is finalized, we will apply for your Bhutanese visa on your behalf. You will need to provide your personal details and a copy of your passport. The visa application fee is included in the tour package cost.
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+**Visa Approval**
+
+After the Bhutanese government approves your visa application, you will receive a visa clearance letter. This letter is required for immigration clearance when you arrive in Bhutan.
+
+
+**Pay for Your Trip**
+
+You will need to pay the full tour package cost, which typically includes the daily tariff, before your trip to Bhutan.
+
+
+**Travel to Bhutan**
+
+We will provide you with the necessary documents, including your visa clearance letter, which you'll need when you board your flight to Bhutan.
+
+
+**Arrival in Bhutan**
+
+Upon your arrival in Bhutan, you will go through immigration and present your visa clearance letter and passport. The Bhutanese authorities will then grant you a visa stamp in your passport, allowing you to stay in Bhutan for the duration of your pre-arranged tour.
+
+
+It's essential to plan your trip to Bhutan well in advance, as visa processing and other arrangements may take some time. Work with us to ensure a smooth and enjoyable experience in Bhutan. Bhutan's government strictly regulates tourism to preserve the country's unique culture and environment, and the visa process is part of these efforts.
