@@ -168,12 +168,6 @@ pluralizelisttitles = false
     parent     = "section.Planning Trip"
 
 [[menu.main]]
-    name       = "FAQ"
-    url        = "/FAQ"
-    weight     = 5
-    parent     = "section.Planning Trip"
-
-[[menu.main]]
     name       = "Tour Packages"
     identifier = "menu.Tour Packages"
     url        = ""
