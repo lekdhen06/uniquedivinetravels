@@ -176,7 +176,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Cultural Tours"
     identifier = "section.ap-culturaltours"
-    url        = ""
+    url        = "/cultural_tours"
     parent     = "menu.Tour Packages"
     post       = 1
 
