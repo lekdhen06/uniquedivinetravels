@@ -298,13 +298,13 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Selfless quality services.</p>"
+    about_us = "<p>Selfless quality services</p>"
     copyright = "Copyright © 2023 Unique Divine Travels. All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    dropdown_mouse_over = false
+    dropdown_mouse_over = true
 
     disabled_logo = false
     logo_text = "Unique Divine Travels"
@@ -350,7 +350,7 @@ pluralizelisttitles = false
     slide_speed = 2000
     pagination_speed = 1000
 
-[params.carouselHomepage]
+[params.carousellHomepage]
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more information take a look at the README.
@@ -379,7 +379,7 @@ pluralizelisttitles = false
     icon = "far fa-file-alt"
     title = "Do you want to know more?"
     subtitle = "Here are some quick glances of our services."
-    link_url = "#"
+    link_url = ""
     link_text = "Check it out!"
 
 [params.packages]
