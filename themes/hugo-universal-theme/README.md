@@ -211,10 +211,7 @@ Now create additional menu items and use the above unique identifier as the valu
     weight     = 1
     parent     = "menu.home"
 
-[[menu.main]]
-    name       = "Option 2: Application"
-    url        = "/"
-    weight     = 2
+[[menu.main]]on
     parent     = "menu.home"
 ```
 
