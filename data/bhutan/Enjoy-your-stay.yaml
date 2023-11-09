@@ -1,0 +1,9 @@
+weight: 4
+title: "Enjoy your stay"
+description: >
+  <ul class="list-style-none">
+    <li>During your stay,</li>
+    <li>please don't forget to enjoy</li>
+  </ul>
+image: "img/bhutan/wangdue-dzong.jpg"
+href: "https://devcows.github.io/hugo-universal-theme/"
