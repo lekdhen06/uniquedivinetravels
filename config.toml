@@ -59,7 +59,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Gross National Happiness (GNH)"
-    url        = "/gross_national_happiness"
+    url        = ""
     weight     = 2
     parent     = "section.Bhutan"
 
