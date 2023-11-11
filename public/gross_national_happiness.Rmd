@@ -1,7 +1,7 @@
 ---
 title: "Gross National Happiness (GNH)"
 author: "lekdhen06"
-date: "2023-11-11"
+date: "2023-11-07"
 output: html_document
 ---
 
@@ -22,6 +22,7 @@ The focus is on both physical and mental well-being, and access to healthcare se
 
 
 **3. Education** 
+
 This involves not only formal education but also the promotion of cultural and spiritual values.
 
 
