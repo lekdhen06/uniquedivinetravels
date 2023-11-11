@@ -7,56 +7,44 @@ output: html_document
 
 **Gross National Happiness (GNH)** is a unique approach to measuring the well-being and development of a country, and it is associated with Bhutan. The concept was introduced by the Fourth King of Bhutan, King Jigme Singye Wangchuck, in the 1970s as a way to prioritize the overall happiness and well-being of the Bhutanese people over purely economic indicators.
 
-
 The GNH framework consists of nine domains, which are used to evaluate the overall happiness and well-being of the people of Bhutan:
 
-
-**1. Psychological well-being** 
+**1. Psychological well-being**
 
 This includes factors such as spirituality, mental health, and the overall happiness of individuals.
 
-
-**2. Health** 
+**2. Health**
 
 The focus is on both physical and mental well-being, and access to healthcare services.
 
-
-**3. Education** 
+**3. Education**
 
 This involves not only formal education but also the promotion of cultural and spiritual values.
 
-
-**4. Time use** 
+**4. Time use**
 
 This domain assesses the balance between work, leisure, and other activities.
 
-
-**5. Cultural diversity and resilience** 
+**5. Cultural diversity and resilience**
 
 Emphasizes the importance of preserving Bhutanese culture and traditions.
 
-
-**6. Good governance** 
+**6. Good governance**
 
 Evaluates the effectiveness and fairness of the government and other institutions.
 
-
-**7. Community vitality** 
+**7. Community vitality**
 
 Measures the strength of social and community networks.
-
 
 **8. Ecological diversity and resilience**
 
 Stresses the significance of environmental conservation and sustainable development.
 
-
-**9. Living standards** 
+**9. Living standards**
 
 This domain considers both material and non-material aspects of well-being, aiming for a balance between economic development and spiritual, cultural, and social values.
 
-
 Bhutan uses surveys and other mechanisms to assess the well-being of its citizens across these domains, and the government uses the results to guide policy decisions. The GNH framework has gained international attention as an alternative development model that prioritizes holistic well-being over purely economic growth.
-
 
 It's important to note that while Bhutan emphasizes Gross National Happiness, it does not mean that the country ignores economic development. The idea is to balance economic progress with the well-being of its citizens and the preservation of cultural and environmental values.
