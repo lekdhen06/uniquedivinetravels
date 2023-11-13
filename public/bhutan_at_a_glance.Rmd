@@ -15,7 +15,7 @@ output: html_document
 
 <img src="D:/R/R-4.3.1/library/Projects/uniqedivinetravels/public/img/Mountain.jpg" alt="Mountain" style="height: 400px; width:550px;"/>
 
-<img src="D:/R/R-4.3.1/library/Projects/uniqedivinetravels/public/img/Namling-waterfall.jpg" alt="Mountain" style="height: 400px; width:400px;"/>
+<img src="D:/R/R-4.3.1/library/Projects/uniqedivinetravels/public/img/Namling-waterfall.jpg" alt="Waterall in Namling cliff" style="height: 400px; width:400px;"/>
 
 <img src="D:/R/R-4.3.1/library/Projects/uniqedivinetravels/public/img/snow-mountains.jpg" alt="Snow mountains" style="height: 400px; width:550px;"/>
 

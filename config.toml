@@ -382,13 +382,13 @@ pluralizelisttitles = false
     link_url = ""
     link_text = "Check it out!"
 
-[params.packages]
+[params.clients]
     enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more information take a look at the README.
-    title = "Our packages"
-    subtitle = ""
+    title = "Our Clients"
+    subtitle = "We have proudly collaborated with the following organizations."
 
 [params.places_you_can_visit]
     enable = true
