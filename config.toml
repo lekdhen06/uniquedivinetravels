@@ -192,10 +192,16 @@ pluralizelisttitles = false
     post       = 3
 
 [[menu.main]]
+    name       = "Wildlife Tours"
+    url        = "/wildlife_tours"
+    parent     = "menu.Tour Packages"
+    post       = 4
+
+[[menu.main]]
     name       = "Special Tours"
     url        = "/special_tours"
     parent     = "menu.Tour Packages"
-    post       = 4
+    post       = 5
 
 [[menu.main]]
     name       = "About Us"

@@ -5,26 +5,83 @@ date: "2023-11-08"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+**Trekking Tour Package**
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Unique Divine Travels focus trekking in community-based tourism with an intention to offer opportunity for tourists who really are interested to experience rural and traditional socio-cultiural heritages. 
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
-```
+***Day 1: Arrive at Paro International Airport***
 
-## Including Plots
+-	Reception in the airport by Unique Divine Travels' guide and driver;
+-	Visit Ta Dzong (watch tower) which has been currently transformed into   a fascinating museum that showcases Bhutanese rich art and artifacts;
+-	Drive to Thimphu, if time permits visit Jigme Dorji National Park for   birding and wildlife sighting; 
+-	Stroll Thimphu city in the evening; and 
+-	Night halt in hotel.
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+***Day 2: Drive to Trongsa***
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+-	Visit Gangtey monastery and Phobjikjha valley; 
+-	Continue to Trongsa; and 
+-	Night halt at Trongsa.
+
+
+***Day 3: Drive to Langthil and start trekking from Tongtophy (950 masl) to Jangbi village (1350 masl) ***
+
+- The first day trek starts with a visit to Trongsa Dzong and then drive   to   Tongtophey - a start point of Nabji Trail. Keep an eye open for    deer and macaques along the way whilst also enjoying the beautiful      view over Mangde Valley as well. Distance from Tongtophey to Jangbi: 	  7-9.5km which is about 3-4 hours walk.
+- From Tongtophy the trek will be a mild descent of 500 meters and that   will bring you to the bridge crossing Mangde chhu. After that you need   to ascend a gentle slope and reach the base of the steep slope where    you will be received with the welcome tea by the community from         Jangbi. Thereafter, you will ascend a steep slope about 950 meters to   reach the destination. Here you will also find more information on the   Monpas and their Cane and Bamboo Project. Camp will be set near Jangbi   village with a beautiful view over the valley and Mangde Chhu.
+
+
+***Day 4: Jangbi to Kuda (1500m) via Phrumzur where you come across Phurpa Ney, Uzha Ney and Guru’s Zhabji at Ugyen Drak**
+
+
+***Total distance: 13-14 km; 7-8 hours walk***
+
+
+- From Jangbi, the hike continuous to Kuda village. After 15 minutes      walk you reach to the orchid garden. Then you have to descend 2000      meters down to the Rimdigang chhu. Right after it you have to face      steep climbing about 2500 meters to arrive at Phrumzur. Again traces    of Guru Rimpoche like imprint of spiritual dragger or Phurpa, hat or    Uzha, foot print or Zhabji can be found along the way (Story in box     1).
+- A brief visit will be paid to the small village of Phrumzur with its    temple (at 1,400m). From the site of the temple there’s a good view     over the valley, here lunch will be served. From Phrumzur your hike     will continue to the destination with mild climbing and descending. Be   careful at the slippery cliff called “Ugyen Drak” where you find the    foot imprint of Guru at your right handside.
+- Kuda only has 3 households, but Monpas living here are very happy to    welcome you at their campsite. You will see a beautiful view of         Nimshong village and Zhemgang town at the eastern site of the Mangde    chhu on the way to campsite at Kuda.
+
+
+***Day 5: Kudra to Nabji (1350 masl).  Kudra Penpo’s story (Story in box 2); Enroutes via Rangtha Ney and Zhug Thri (story in box 3)***
+
+
+***Total distance: 11-14 km; about 6-7 hours walk***
+
+
+- Our trek today starts on a trail to Nabji village. Nabji is situated    at an elevation of about 1,350m, around 6 - 7 hours walk from Kuda.     Along the way you’ll find traces of Guru Rimpoche. Similarly, varied    landmark of Guru Rimpoche such as imprint of his genetical organ on     the rock (Rangtha Ney) after 30 minutes walk from the campsite towards   Nabji will be encountered.
+- The habitat you traverse is very attractive for tigers, leopards and    sloth bear (though it is very rare to spot them, droppings and spores   can be found). Once you are in the campsite, you will be welcomed by    the tourism management committee. If you desire to experience hot       stone bath, facility is readily available in the campsite.
+- Nabji village consists of 55 households and an approximate population   of 400 people. The village is situated on a foothill above terraced     fields of rice. Early in the morning, the village guide, on the way to   Korphu, will take you to the local temple at Nabji. The temple of       Nabji –which means ‘promising’ or ‘oath’- harbours the stone pillar to   mark the peace between Bumthang and Assam Kings. In the village you     can find rock remains of a blacksmith (one of the reincarnations of     Pema Lingpa). Overnight at campsite surrounded by the rice fields of    Nabji.
+*
+
+***Day 6: Nabji to Korphu (1500 masl); Korphu origin (Story in box 4)***
+
+
+***Total distance: 9.5-13km; 4-5 hours walk***
+
+
+- From our base camp in Nabji, we will do a day hike to Korphu village    from where you will have the wonderful view of Naji village situated    right on top of beautiful terraces cultivated by the communities.  If   you desire to make halt in the Korphu campsite facility are available   as good as in rest of the campsites. 
+- Korphu is situated on a mountaintop at an altitude of 1,500m. The       village consists of 76 households, with an approximate population of    600 people. It is a spectacular hike uphill, and the view from the      clustered village of Korphu is breathtaking. It is possible to visit    Korphu’s temple, which houses the sacred relics of Pema Lingpa. A       packed lunch will be provided in the campsite village. In the           mid-afternoon, we hike back to Nabji or go for birding if you are       making a halt.
+
+
+***Day 7:	 Nabji to Nimshong (1310 masl)***
+
+
+***Total distance: about 13km; 5-6 hours walk***
+
+
+- Today’s hike from the Nabji/Korphu campsite to Nimshong will be easy    through a lush broadleaf forest alive with abundant bird and mammal     life, with possible sightings of Golden Langur and Rufous-necked        Hornbill. Nimshong is 2nd largest village enroute by the trail (circa   58-households) with a population of about 465 people. The villagers     welcome you with dance and songs while cooks are preparing diner. The   campsite is located at the top of the village.
+
+
+***Day 8: Nimshong to Reotala (1200 masl)***
+
+
+***Total distance:  about 6.5km; 3-4 hours walk***
+
+
+- The trek starts with a steep descent of about 4 km to the riverbed of   Mangde river. You will encounter with several birds especially the      barbets, Himalayan giant squirrel, golden langur, Rufous-necked horn    bill, etc. along the way under the thin canopy of forest. From the      other end of the bridge, the trail begins a steep climb for about one   hour or more to reach Reotala, the exit point of the trail. From here, the bus will bring you back to Trongsa for a real bed and shower. If time permits, you can visit the Kungarabten Palace and the Nunnery (on the way back to Trongsa). Overnight in Trongsa (or next destination)
+
+
+
+
