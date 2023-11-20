@@ -5,20 +5,20 @@ date: "2023-11-08"
 output: html_document
 ---
 
-![Dangchu Village](/img/Dangchu-village.JPG){width="550"}
+![Dangchu Village](/img/Dangchu-village.JPG){width="900"}
 
-![Himalayan mountain ranges](/img/Himalayan-mountain-ranges.JPG){alt="Himalayan mountain ranges" width="550" height="400"}
+![Himalayan mountain ranges](/img/Himalayan-mountain-ranges.JPG){width="900" height="676"}
 
-![Lake](/img/Lake.JPG){alt="Lake" width="550" height="400"}
+![Lake](/img/Lake.JPG){width="900"}
 
-![Merak village](/img/Merak.JPG){alt="Merak village" width="550" height="400"}
+![Merak village](/img/Merak.JPG){width="900"}
 
-![Mountain](/img/Mountain.JPG){alt="Mountain" width="550" height="400"}
+![Mountain](/img/Mountain.JPG){width="900"}
 
-![Waterall in Namling cliff](/img/Namling-waterfall.JPG){alt="Waterall in Namling cliff" width="500" height="500"}
+![Waterall in Namling cliff](/img/Namling-waterfall.JPG){width="900" height="900"}
 
-![Snow mountains](/img/snow-mountains.jpg){alt="Snow mountains" width="550" height="400"}
+![Snow mountains](/img/snow-mountains.jpg){width="900"}
 
-![Trees with snow resting atop in Ura, Bumthang](/img/Snow-on-trees.JPG){alt="Trees with snow resting atop in Ura, Bumthang" width="550" height="700"}
+![Trees with snow resting atop in Ura, Bumthang](/img/Snow-on-trees.JPG){width="750" height="900"}
 
-![Terrace](/img/Terrace.JPG){alt="Terrace" width="550" height="400"}
+![Terrace](/img/Terrace.JPG){width="900"}
