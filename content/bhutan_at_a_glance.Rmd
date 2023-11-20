@@ -5,7 +5,7 @@ date: "2023-11-08"
 output: html_document
 ---
 
-<img src="D:/R/R-4.3.1/library/Projects/uniqedivinetravels/static/img/Dangchu-village.jpg" alt="Dangchu Village" style="height:400px; width:550px;"/>
+![Dangchu Village](/img/Dangchu-village.JPG){alt="Dangchu Village"}
 
 <img src="D:/R/R-4.3.1/library/Projects/uniqedivinetravels/static/img/Himalayan-mountain-ranges.jpg" alt="Himalayan mountain ranges" style="height:400px; width:550px;"/>
 
