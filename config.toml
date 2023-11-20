@@ -86,6 +86,12 @@ pluralizelisttitles = false
     url        = "/bhutan_at_a_glance"
     weight     = 6
     parent     = "section.Bhutan"
+    
+[[menu.main]]
+    name       = "Test"
+    url        = "/test"
+    weight     = 7
+    parent     = "section.Bhutan"
 
 [[menu.main]]
     name       = "Thimphu"
