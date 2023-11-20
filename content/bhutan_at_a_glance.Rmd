@@ -5,20 +5,20 @@ date: "2023-11-08"
 output: html_document
 ---
 
-![Dangchu Village](/img/Dangchu-village.JPG){alt="Dangchu Village"}
+![Dangchu Village](/img/Dangchu-village.JPG){width="550"}
 
-<img src="D:/R/R-4.3.1/library/Projects/uniqedivinetravels/static/img/Himalayan-mountain-ranges.jpg" alt="Himalayan mountain ranges" style="height:400px; width:550px;"/>
+![Himalayan mountain ranges](/img/Himalayan-mountain-ranges.JPG){alt="Himalayan mountain ranges" width="550" height="400"}
 
-<img src="D:/R/R-4.3.1/library/Projects/uniqedivinetravels/static/img/Lake.jpg" alt="Lake" style="height: 400px; width:550px;"/>
+![Lake](/img/Lake.JPG){alt="Lake" width="550" height="400"}
 
-<img src="D:/R/R-4.3.1/library/Projects/uniqedivinetravels/static/img/Merak.jpg" alt="Merak village" style="height: 400px; width:550px;"/>
+![Merak village](/img/Merak.JPG){alt="Merak village" width="550" height="400"}
 
-<img src="D:/R/R-4.3.1/library/Projects/uniqedivinetravels/static/img/Mountain.jpg" alt="Mountain" style="height: 400px; width:550px;"/>
+![Mountain](/img/Mountain.JPG){alt="Mountain" width="550" height="400"}
 
-<img src="D:/R/R-4.3.1/library/Projects/uniqedivinetravels/static/img/Namling-waterfall.jpg" alt="Waterall in Namling cliff" style="height: 400px; width:400px;"/>
+![Waterall in Namling cliff](/img/Namling-waterfall.JPG){alt="Waterall in Namling cliff" width="500" height="500"}
 
-<img src="D:/R/R-4.3.1/library/Projects/uniqedivinetravels/static/img/snow-mountains.jpg" alt="Snow mountains" style="height: 400px; width:550px;"/>
+![Snow mountains](/img/snow-mountains.jpg){alt="Snow mountains" width="550" height="400"}
 
-<img src="D:/R/R-4.3.1/library/Projects/uniqedivinetravels/static/img/snow-on-trees.jpg" alt="Trees with snow resting atop in Ura, Bumthang" style="height: 300px; width:350px;"/>
+![Trees with snow resting atop in Ura, Bumthang](/img/Snow-on-trees.JPG){alt="Trees with snow resting atop in Ura, Bumthang" width="550" height="700"}
 
-<img src="D:/R/R-4.3.1/library/Projects/uniqedivinetravels/static/img/Terrace.jpg" alt="Terrace" style="height: 400px; width:550px;"/>
+![Terrace](/img/Terrace.JPG){alt="Terrace" width="550" height="400"}
