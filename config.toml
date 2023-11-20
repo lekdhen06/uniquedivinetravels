@@ -395,7 +395,7 @@ pluralizelisttitles = false
     # at 'exampleSite/data/clients'.
     # For more information take a look at the README.
     title = ""
-    subtitle = "We have proudly collaborated with the following organizations:"
+    subtitle = "We are registered with the following organizations:"
 
 [params.places_you_can_visit]
     enable = true
