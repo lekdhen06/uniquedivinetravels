@@ -1,5 +1,5 @@
 weight: 1
 name: "National bird"
 icon: "fas fa-dove" 
-url: "https://github.com/lekdhen06/uniquedivinetravels/tree/main/public/img/national-bird.jpg"
+url: "/img/national-bird.jpg"
 description: "Raven is the national bird of Bhutan. Legend has it that the Raven sits atop the crown of the king."
