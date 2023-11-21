@@ -379,11 +379,11 @@ pluralizelisttitles = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
-    title = "Testimonials"
-    subtitle = "Wanna know about us? Hear it from our clients."
+    title = "Wildlife in Bhutan"
+    subtitle = "Feast your eyes on some of the myriad, eye-catching wildlife in Bhutan."
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "far fa-file-alt"
     title = "Do you want to know more?"
     subtitle = "Here are some quick glances of our services."
