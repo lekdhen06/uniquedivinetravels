@@ -7,81 +7,89 @@ output: html_document
 
 **Trekking Tour Package**
 
-
-Unique Divine Travels focus trekking in community-based tourism with an intention to offer opportunity for tourists who really are interested to experience rural and traditional socio-cultiural heritages. 
-
+Unique Divine Travels focus trekking in community-based tourism with an intention to offer opportunity for tourists who really are interested to experience rural and traditional socio-cultiural heritages.
 
 ***Day 1: Arrive at Paro International Airport***
 
--	Reception in the airport by Unique Divine Travels' guide and driver;
--	Visit Ta Dzong (watch tower) which has been currently transformed into   a fascinating museum that showcases Bhutanese rich art and artifacts;
--	Drive to Thimphu, if time permits visit Jigme Dorji National Park for   birding and wildlife sighting; 
--	Stroll Thimphu city in the evening; and 
--	Night halt in hotel.
-
+-   Reception in the airport by Unique Divine Travels' guide and driver;
+-   Visit Ta Dzong (watch tower) which has been currently transformed into a fascinating museum that showcases Bhutanese rich art and artifacts;
+-   Drive to Thimphu, if time permits visit Jigme Dorji National Park for birding and wildlife sighting;
+-   Stroll Thimphu city in the evening; and
+-   Night halt in hotel.
 
 ***Day 2: Drive to Trongsa***
 
--	Visit Gangtey monastery and Phobjikjha valley; 
--	Continue to Trongsa; and 
--	Night halt at Trongsa.
+-   Visit Gangtey monastery and Phobjikjha valley;
+-   Continue to Trongsa; and
+-   Night halt at Trongsa.
 
+***Day 3: Drive to Langthil and start trekking from Tongtophy (950 masl) to Jangbi village (1350 masl)***
 
-***Day 3: Drive to Langthil and start trekking from Tongtophy (950 masl) to Jangbi village (1350 masl) ***
+-   The first day trek starts with a visit to Trongsa Dzong and then drive to Tongtophey - a start point of Nabji Trail. Keep an eye open for deer and macaques along the way whilst also enjoying the beautiful view over Mangde Valley as well. Distance from Tongtophey to Jangbi: 7-9.5km which is about 3-4 hours walk.
+-   From Tongtophy the trek will be a mild descent of 500 meters and that will bring you to the bridge crossing Mangde chhu. After that you need to ascend a gentle slope and reach the base of the steep slope where you will be received with the welcome tea by the community from Jangbi. Thereafter, you will ascend a steep slope about 950 meters to reach the destination. Here you will also find more information on the Monpas and their Cane and Bamboo Project. Camp will be set near Jangbi village with a beautiful view over the valley and Mangde Chhu.
 
-- The first day trek starts with a visit to Trongsa Dzong and then drive   to   Tongtophey - a start point of Nabji Trail. Keep an eye open for    deer and macaques along the way whilst also enjoying the beautiful      view over Mangde Valley as well. Distance from Tongtophey to Jangbi: 	  7-9.5km which is about 3-4 hours walk.
-- From Tongtophy the trek will be a mild descent of 500 meters and that   will bring you to the bridge crossing Mangde chhu. After that you need   to ascend a gentle slope and reach the base of the steep slope where    you will be received with the welcome tea by the community from         Jangbi. Thereafter, you will ascend a steep slope about 950 meters to   reach the destination. Here you will also find more information on the   Monpas and their Cane and Bamboo Project. Camp will be set near Jangbi   village with a beautiful view over the valley and Mangde Chhu.
-
-
-***Day 4: Jangbi to Kuda (1500m) via Phrumzur where you come across Phurpa Ney, Uzha Ney and Guru’s Zhabji at Ugyen Drak**
-
+\***Day 4: Jangbi to Kuda (1500m) via Phrumzur where you come across Phurpa Ney, Uzha Ney and Guru's Zhabji at Ugyen Drak**
 
 ***Total distance: 13-14 km; 7-8 hours walk***
 
+-   From Jangbi, the hike continuous to Kuda village. After 15 minutes walk you reach to the orchid garden. Then you have to descend 2000 meters down to the Rimdigang chhu. Right after it you have to face steep climbing about 2500 meters to arrive at Phrumzur. Again traces of Guru Rimpoche like imprint of spiritual dragger or Phurpa, hat or Uzha, foot print or Zhabji can be found along the way (Story in box 1).
 
-- From Jangbi, the hike continuous to Kuda village. After 15 minutes      walk you reach to the orchid garden. Then you have to descend 2000      meters down to the Rimdigang chhu. Right after it you have to face      steep climbing about 2500 meters to arrive at Phrumzur. Again traces    of Guru Rimpoche like imprint of spiritual dragger or Phurpa, hat or    Uzha, foot print or Zhabji can be found along the way (Story in box     1).
-- A brief visit will be paid to the small village of Phrumzur with its    temple (at 1,400m). From the site of the temple there’s a good view     over the valley, here lunch will be served. From Phrumzur your hike     will continue to the destination with mild climbing and descending. Be   careful at the slippery cliff called “Ugyen Drak” where you find the    foot imprint of Guru at your right handside.
-- Kuda only has 3 households, but Monpas living here are very happy to    welcome you at their campsite. You will see a beautiful view of         Nimshong village and Zhemgang town at the eastern site of the Mangde    chhu on the way to campsite at Kuda.
+``` {style="color: blue"}
+Phurpa, Uzha, Zhabji and Ugyen Drak (Box 1)                                                                                                           While Guru was coming from India via Reti and Nabji villages to go at Bumthang, the demons transformed into a huge black snakes to attack Guru. Right on the spot, he had killed the snake with help of his spiritual dragger and subdued the demons. This is where you can see the mark of dragger inserted into a rock. This place popularly known as 'Phurpa Ney' (Phurpa --Spiritual Dragger; Ney - Sacred place) is now set out for resting after a steep climb from Jangbi. Name of the village Phrumzur is derived from this sacred place. Originally, name of the village is believed to be known as Phurzur (Phur-Dragger and Zur means the Ridge). But people had mispronounced it as Phrumzur whih is being called as of now. Imprint of Guru's Uzha or Hat over the rock is located 20 meter uphill above the trail below Phrumzur village. It is believed to be the sacred place for meditation of Guru. After 20 minutes walk, you reach to another sacred place called Ugyen Drak (cliff of Guru named after he crossed it) where you can see the foot imprint of Guru. It is believed that no ordinary people could cross that huge cliff. But Guru could make it and left the sign of success to symbolize himself as super human being born to earth. Thereafter, he quoted a saying- "Nabji-Korphu is the land of enlightenment; Ugyen Drak is the tract of colossal obstacle."
+```
 
+-   A brief visit will be paid to the small village of Phrumzur with its temple (at 1,400m). From the site of the temple there's a good view over the valley, here lunch will be served. From Phrumzur your hike will continue to the destination with mild climbing and descending. Be careful at the slippery cliff called "Ugyen Drak" where you find the foot imprint of Guru at your right handside.
+-   Kuda only has 3 households, but Monpas living here are very happy to welcome you at their campsite. You will see a beautiful view of Nimshong village and Zhemgang town at the eastern site of the Mangde chhu on the way to campsite at Kuda.
 
-***Day 5: Kudra to Nabji (1350 masl).  Kudra Penpo’s story (Story in box 2); Enroutes via Rangtha Ney and Zhug Thri (story in box 3)***
-
+***Day 5: Kudra to Nabji (1350 masl). Kudra Penpo's story (Story in box 2); Enroutes via Rangtha Ney and Zhug Thri (story in box 3)***
 
 ***Total distance: 11-14 km; about 6-7 hours walk***
 
+-   Our trek today starts on a trail to Nabji village. Nabji is situated at an elevation of about 1,350m, around 6 - 7 hours walk from Kuda. Along the way you'll find traces of Guru Rimpoche. Similarly, varied landmark of Guru Rimpoche such as imprint of his genetical organ on the rock (Rangtha Ney) after 30 minutes walk from the campsite towards Nabji will be encountered.
 
-- Our trek today starts on a trail to Nabji village. Nabji is situated    at an elevation of about 1,350m, around 6 - 7 hours walk from Kuda.     Along the way you’ll find traces of Guru Rimpoche. Similarly, varied    landmark of Guru Rimpoche such as imprint of his genetical organ on     the rock (Rangtha Ney) after 30 minutes walk from the campsite towards   Nabji will be encountered.
-- The habitat you traverse is very attractive for tigers, leopards and    sloth bear (though it is very rare to spot them, droppings and spores   can be found). Once you are in the campsite, you will be welcomed by    the tourism management committee. If you desire to experience hot       stone bath, facility is readily available in the campsite.
-- Nabji village consists of 55 households and an approximate population   of 400 people. The village is situated on a foothill above terraced     fields of rice. Early in the morning, the village guide, on the way to   Korphu, will take you to the local temple at Nabji. The temple of       Nabji –which means ‘promising’ or ‘oath’- harbours the stone pillar to   mark the peace between Bumthang and Assam Kings. In the village you     can find rock remains of a blacksmith (one of the reincarnations of     Pema Lingpa). Overnight at campsite surrounded by the rice fields of    Nabji.
-*
+```         
+Kuda Penpo’s story (Box 2)
+
+On the way to Bumthang, he arrived to Kuda where he came across a poor two old aged couples. Since Guru was very hungry he asked them for a food and served him with a simple staple food in their miserable hut although the couples didn’t know he was a Guru. Then Guru in return gave a word of blessing for these two couples and they grew very wealthy thereafter within a very short span of that brought a big surprise to their neighbours. In curiosity, neighbour inquired the old couples about the witnessing prosperity. The innocent couples have narrated the cause effect of their existing situation to the neighbours.  This couple became very rich and powerful in the village and therefore appointed as “Penpo” (local king). But the sad thing was they had no even a single child to take over their wealth and remained in big worry. Out of haste and nervousness, the couple had planned to visit to Guru and make an appeal. On a fine day, Guru Rimpoche was seen passing by their hut and instantly invited him to their hut. The innocent couple said, “after your visit every day and night has been changing for us; the wealth ( in terms of money, crop yield, cattle, horses, etc.) have grown very rapidly. We could build a good house to live in. Since two us have no one to help at present and to take over these many wealth in the future it’s a big growing burden at present and thinking about the future is another growing worries that is beyond any solution. So, to solve this problem, please convert us into the previous situation. Now we don’t need anything as two us are in the verge of ending the breath.” 
+Guru laughed at them and said, “It’s nothing difficult to revert two of you into previous way of living”. Guru had then asked the old man to sit at the right handside and the old woman at either side of him and made them join for tea. Guru made duo to place their tea cups onto the mini table placed in front of him and drank the tea at a same time and ultimately said, “Hence forth, nothing could stop recede your wealth as you desire”.  Gradually, the wealth of these two old fellows were diminished and landed with nothing in the hand to make their survival. Therefore, monpas now believe that it is because of Guru who cursed them to be encircled by poverty throughout their live for rejecting the wealth that was blessed by him for these two old people.You find part of ruined stone walls of penpo’s house aside the campsite at Kuda.
+```
+
+-   The habitat you traverse is very attractive for tigers, leopards and sloth bear (though it is very rare to spot them, droppings and spores can be found). Once you are in the campsite, you will be welcomed by the tourism management committee. If you desire to experience hot stone bath, facility is readily available in the campsite.
+-   Nabji village consists of 55 households and an approximate population of 400 people. The village is situated on a foothill above terraced fields of rice. Early in the morning, the village guide, on the way to Korphu, will take you to the local temple at Nabji. The temple of Nabji --which means 'promising' or 'oath'- harbours the stone pillar to mark the peace between Bumthang and Assam Kings. In the village you can find rock remains of a blacksmith (one of the reincarnations of Pema Lingpa). Overnight at campsite surrounded by the rice fields of Nabji.
+
+
+```
+Rangtha Ney and Zhug Thri (Box 3)
+
+While Guru was on the way to Bumthang he arrived to a placer called Zhug Thri located at 45 minutes walking distance from campsite towards Nabji. Zhug Thri means literally the seating chair. The chair of this sacred place is made of stone where Guru Rimpoche had sat over it to relax himself after the long distance walk. While he was taking a rest he saw two angels coming to grind gold coins into flour. There he witnessed the grinding work of two angels and asked “What you really wants to do with this gold flour?” The duo replied, “This is basically to make offer as a token of gift for you, Lord”. Actually Guru knew that these two were demons who transformed themselves into angels to take his life and he had wisely replied, “Thank you very much for your kind offering, but it’s very impossible for me to carry such a bulky amount of gold flour along with me”. To his refusal, the demons had then pleaded Guru to have sexual intercourse with one of them as token of remembrance. To his acceptation, prior to having the affair, he had asked duo to first of all watch the demonstration. And began over a rock where you can see the imprint of genital organ which is about a foot deep. Observing the unconventional or extraordinary strength of Guru, the two demons were dead and immediately gold flour changed into charcoal and the ashes. Thus, the demons were subdued in this locality. 
+The seating stone chair, rock that bear imprint of genital organ and the huge grinding stones are in same spot.      
+```
+
 
 ***Day 6: Nabji to Korphu (1500 masl); Korphu origin (Story in box 4)***
 
-
 ***Total distance: 9.5-13km; 4-5 hours walk***
 
+-   From our base camp in Nabji, we will do a day hike to Korphu village from where you will have the wonderful view of Naji village situated right on top of beautiful terraces cultivated by the communities. If you desire to make halt in the Korphu campsite facility are available as good as in rest of the campsites.
+-   Korphu is situated on a mountaintop at an altitude of 1,500m. The village consists of 76 households, with an approximate population of 600 people. It is a spectacular hike uphill, and the view from the clustered village of Korphu is breathtaking. It is possible to visit Korphu's temple, which houses the sacred relics of Pema Lingpa. A packed lunch will be provided in the campsite village. In the mid-afternoon, we hike back to Nabji or go for birding if you are making a halt.
 
-- From our base camp in Nabji, we will do a day hike to Korphu village    from where you will have the wonderful view of Naji village situated    right on top of beautiful terraces cultivated by the communities.  If   you desire to make halt in the Korphu campsite facility are available   as good as in rest of the campsites. 
-- Korphu is situated on a mountaintop at an altitude of 1,500m. The       village consists of 76 households, with an approximate population of    600 people. It is a spectacular hike uphill, and the view from the      clustered village of Korphu is breathtaking. It is possible to visit    Korphu’s temple, which houses the sacred relics of Pema Lingpa. A       packed lunch will be provided in the campsite village. In the           mid-afternoon, we hike back to Nabji or go for birding if you are       making a halt.
+
+```
+Korphu origin (Box 4)
+
+Korphu is the biggest village under Korphu Geog with 79 households. It is located at the platform of a small knoll. The dialect spoken by the community is Khengkha which is commonly spoken in Zhemgang Dzongkhag.  The place was visited by the renowned treasure discoverer called Terton Pema Lingpa a Buddgist saint from Tibet in 14th century. During his visit to Korphu village, he had to face harsh weather condition with unconventional heavy hailstorm. For his safety, he had transformed into a small bird and took a refuge under a slat of small stone like cave.   The slat cave has a corn shell- like printed beneath it. It is believed that, based on this historic and sacred place of terton Pema Lingpa, name of this village was derived as “Gorphok” (Gor – means Stone; Phok – means cave) in accordance to the direct translation of their local dialect. With the inherited generations, the ordinary name Gorphok was mispronounced or misspelled by people and commonly known as Korphu as of now.  
+The stone slat cave is located in the Korphu Primary school compound below the village.
+```
 
 
-***Day 7:	 Nabji to Nimshong (1310 masl)***
-
+***Day 7: Nabji to Nimshong (1310 masl)***
 
 ***Total distance: about 13km; 5-6 hours walk***
 
-
-- Today’s hike from the Nabji/Korphu campsite to Nimshong will be easy    through a lush broadleaf forest alive with abundant bird and mammal     life, with possible sightings of Golden Langur and Rufous-necked        Hornbill. Nimshong is 2nd largest village enroute by the trail (circa   58-households) with a population of about 465 people. The villagers     welcome you with dance and songs while cooks are preparing diner. The   campsite is located at the top of the village.
-
+-   Today's hike from the Nabji/Korphu campsite to Nimshong will be easy through a lush broadleaf forest alive with abundant bird and mammal life, with possible sightings of Golden Langur and Rufous-necked Hornbill. Nimshong is 2nd largest village enroute by the trail (circa 58-households) with a population of about 465 people. The villagers welcome you with dance and songs while cooks are preparing diner. The campsite is located at the top of the village.
 
 ***Day 8: Nimshong to Reotala (1200 masl)***
 
+***Total distance: about 6.5km; 3-4 hours walk***
 
-***Total distance:  about 6.5km; 3-4 hours walk***
-
-
-- The trek starts with a steep descent of about 4 km to the riverbed of   Mangde river. You will encounter with several birds especially the      barbets, Himalayan giant squirrel, golden langur, Rufous-necked horn    bill, etc. along the way under the thin canopy of forest. From the      other end of the bridge, the trail begins a steep climb for about one   hour or more to reach Reotala, the exit point of the trail. From here, the bus will bring you back to Trongsa for a real bed and shower. If time permits, you can visit the Kungarabten Palace and the Nunnery (on the way back to Trongsa). Overnight in Trongsa (or next destination)
-
-
-
-
+-   The trek starts with a steep descent of about 4 km to the riverbed of Mangde river. You will encounter with several birds especially the barbets, Himalayan giant squirrel, golden langur, Rufous-necked horn bill, etc. along the way under the thin canopy of forest. From the other end of the bridge, the trail begins a steep climb for about one hour or more to reach Reotala, the exit point of the trail. From here, the bus will bring you back to Trongsa for a real bed and shower. If time permits, you can visit the Kungarabten Palace and the Nunnery (on the way back to Trongsa). Overnight in Trongsa (or next destination)
