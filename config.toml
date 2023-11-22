@@ -379,8 +379,8 @@ pluralizelisttitles = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
-    title = "Wildlife in Bhutan"
-    subtitle = "Feast your eyes on some of the myriad, eye-catching wildlife in Bhutan."
+    title = "Services we provide"
+    subtitle = "Here are some of the services we provide."
 
 [params.see_more]
     enable = false
