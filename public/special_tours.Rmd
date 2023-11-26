@@ -76,7 +76,7 @@ Unique Divine Travels organize special tour for the clients who really are inter
 -   Stroll Paro town; and
 -   Night halt in hotel.
 
-![Paro Taktshang - The tiger's nest](images/Paro-taktshang.jpg)
+![Paro Taktshang - The tiger's nest](/img/Paro-taktshang.jpg){width="1000"}
 
 **Day 11: Depart from Paro airport**
 
