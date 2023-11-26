@@ -187,8 +187,8 @@ pluralizelisttitles = false
     post       = 2
 
 [[menu.main]]
-    name       = "Trekking Tours"
-    url        = "/trekking_tours"
+    name       = "Community-based Ecotourism"
+    url        = "/community-based_ecotourism"
     parent     = "menu.Tour Packages"
     post       = 3
 
