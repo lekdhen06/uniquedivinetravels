@@ -318,7 +318,7 @@ pluralizelisttitles = false
     logo_text = "Unique Divine Travels"
 
     logo = "img/udt_logo.jpg"
-    logo_small = ""
+    logo_small = "img/udt_logo.jpg"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Unique Divine Travels</strong>
         <br>IT Park
