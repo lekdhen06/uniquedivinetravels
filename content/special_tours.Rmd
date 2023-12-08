@@ -5,76 +5,114 @@ date: "2023-11-08"
 output: html_document
 ---
 
+**……….“UD Travels Chases Excellence”…………**
+
+
 **Special Tour**
 
-Unique Divine Travels organize special tour for the clients who really are interested to experience adventurous expedition that consists of a mixture of cultural and natural heritages. This trip involves trekking, rafting, wildlife safari and showcases socio-cultural cultural integrity.
+Unique Divine Travels organizes a special tour for the clients who really are interested to experience adventurous expedition that consists of a mixture of cultural and natural heritages. This trip involves trekking, rafting, wildlife safari and showcases socio-cultural cultural integrity. 
+
 
 **Season: March to May and September through December**
 
+
 **Day 1: Arrive in Paro**
 
--   Reception at the Paro airport by our guide and driver;
--   Visit Ta Dzong (watch tower) which has been currently transformed into a fascinating museum that showcases Bhutanese rich art and artifacts; and
--   Night halt in hotel.
+-	Reception at the Paro airport by our guide and driver;
 
-**Day 2: Paro to Bumthang**
+-	Visit Ta Dzong (watch tower) which is currently transformed into a fascinating museum that showcases Bhutanese rich art and artifacts; and
 
--   Fly to Bumthang;
--   Biking between Latongla and Tharpaling;
--   Explore Chamkhar town; and
--   Night halt in hotel or home stay.
+-	Night halt in hotel.
 
-**Day 3: Trekking from Bumthang to Trongsa**
 
--   Trekking from Chumey (Bumthang) to Kunga Rabten, Trongsa (6 hours); and
--   Night halt in hotel at Trongsa.
+**Day 2:  Paro to Bumthang**
 
-**Day 4: Trongsa to Royal Manas National Park (RMNP, Zhemgang)**
+-	Fly to Bumthang; 
 
--   Drive to Royal Manas National Park;
--   Significant amount of wildlife sightings and panoramic views
--   Night halt at Pantang
+-	Biking between Latong La and Tharpaling;
+
+-	Explore Chamkhar town; and
+
+-	Night halt in hotel or home stay.
+
+
+**Day 3:  Trekking from Bumthang to Trongsa**
+
+-	Trekking from Chumey (Bumthang) to Kunga Rabten, Trongsa (6 hours); and
+
+-	Night halt in hotel at Trongsa. 
+
+
+**Day 4:  Trongsa to Royal Manas National Park (RMNP), Zhemgang**
+
+-	Drive to Royal Manas National Park;
+
+-	Enjoy significant amount of wildlife sightings and panoramic views; and
+
+-	Night halt at Pantang.
+
 
 **Day 5: Pantang to Panbang**
 
--   Drive to Panbang for rafting inside RMNP;
--   Explore the village and small town of Panbang;
--   Participate in traditional way of fishing in the evening; and
--   Night halt at Panbang.
+-	Drive to Panbang for rafting inside RMNP;
+
+-	Explore the village and small town of Panbang;
+
+-	Participate in traditional way of fishing in the evening; and
+
+-	Night halt at Panbang.
+
 
 **Day 6: Panbang to Trongsa**
 
--   Visit Zhemgang Dzong on the way;
--   Stop occasionally for wildlife photography and scenic landscape; and
--   Night halt in hotel at Trongsa.
+-	Visit Zhemgang Dzong on the way;
 
-**Day 7: Trongsa to Phobjikha, Wangduephodrang**
+-	Stop occasionally for wildlife photography and scenic landscape; and 
 
--   Short trekking from Trongsa Dzong to view point (1 hour walk);
--   Drop by Chendebji Chorten (popular stupa);
--   Continue the journey to Phobjikha crossing two majestic passes Pele La and Lawa La. Occasional break or stop for pictures of awesome landscape; and
--   Night halt in hotel or home stay.
+-	Night halt in hotel at Trongsa.
+
+
+**Day 7: Trongsa to Phobjikha, Wangdue**
+
+-	Short trekking from Trongsa Dzong to view point (1 and half  hours walk);
+
+-	Drop by Chendebji Chorten (popular stupa);
+
+-	Continue the journey to Phobjikha crossing two majestic passes Pele La and Lawa La. Occasional break or stop for pictures of awesome landscape; and
+
+-	Night halt in hotel or home stay.
+
 
 **Day 8: Phobjikha to Punakha**
 
--   Visit Black-necked Crane visitor information center followed by Gangtey monastery sits atop a knoll;
--   Visit to Wangduephodrang Dzong that is reconstructed after it was ravaged by fire in 2012;
--   Drive to Punakha and visit the Dzong charismatically situated in the confluence of Pho Chhu (Male River) and Mo Chhu (Female River); and
--   Night halt in hotel.
+-	Visit Black-necked Crane visitor information center followed by Gangtey monastery sits atop a knoll;
+
+-	Visit to Wangduephodrang Dzong that is reconstructed after it was ravaged by fire in 2012; 
+
+-	Drive to Punakha and visit the Dzong charismatically situated in the confluence of Pho Chhu (Male 
+River) and Mo Chhu (Female River); and
+
+-	Night halt in hotel.
+
 
 **Day 9: Punakha to Thimphu**
 
--   Visit Chimi Lhakhang, a sacred temple popularly revered for human fertility enrichment was blessed by Lama Dukpa Kunley who was known as Divine Madman;
--   Stop at Botanical Park at Lamperi if time permits, and also stop at Dochu La where there are 108 Chortens (stupas);
--   Visit Buddha Point where there sits a gigantic bronze statue of Buddha Shakyamuni;
--   Visit Takin preserve; and\
--   Night halt in hotel at Thimphu.
+-	Visit Chimi Lhakhang, a sacred temple popularly revered for human fertility enrichment was blessed by Lama Dukpa Kunley who was known as Divine Madman;
 
-**Day 10: Thimphu to Paro**
+-	Stop at Botanical Park at Lamperi if time permits, and also stop at Dochu La where there are 108 Chortens (stupas);
 
--   Drive to Paro and trek to Taktshang monastery (Tiger nest);
--   Stroll Paro town; and
--   Night halt in hotel.
+-	Visit Buddha Point where there sits a gigantic bronze statue of Buddha Shakyamuni;
+
+-	Visit Takin (Bhutan’s national animal) preserve; and  
+
+-	Night halt in hotel at Thimphu.
+
+
+**Day 10:  Thimphu to Paro** 
+-	Drive to Paro and trek to Taktshang monastery (Tiger nest);
+-	Stroll Paro town; and
+-	Night halt in hotel.
+
 
 ![Paro Taktshang - The tiger's nest](/img/Paro-taktshang.jpg){width="900"}
 
