@@ -307,6 +307,7 @@ pluralizelisttitles = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Selfless quality services</p>"
+    url = "/about_us/"
     copyright = "Copyright © 2023 Unique Divine Travels. All rights reserved."
 
     # Format dates with Go's time formatting
@@ -399,7 +400,7 @@ pluralizelisttitles = false
     subtitle = "We are registered with the following organizations:"
 
 [params.places_you_can_visit]
-    enable = true
+    enable = false
     title = "Places you can visit"
     subtitle = "Bhutan, also known as the last shangri-la is a country known for its unique culture and traditions. The country is also filled with tsunami of myraid flora and fauna along with some breathtaking sights to feast upon; you won't regret it. The people are kind, jovial and of course, happy which is attributed to Gross National Happiness(GNH). "
     hide_summary = false
