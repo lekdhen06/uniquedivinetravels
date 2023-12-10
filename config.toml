@@ -307,7 +307,6 @@ pluralizelisttitles = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Selfless quality services</p>"
-    url = "/about_us/"
     copyright = "Copyright © 2023 Unique Divine Travels. All rights reserved."
 
     # Format dates with Go's time formatting
