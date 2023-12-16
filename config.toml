@@ -335,7 +335,7 @@ pluralizelisttitles = false
 [params.topbar]
     enable = true
     text = """<p class="hidden-sm hidden-xs">Contact us on +975 77808834 or info@uniquedivinetravels-bt.com</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+      <p class="hidden-md hidden-lg"><a href="tel:+975 77808834" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="mailto:info@uniquedivinetravels-bt.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
