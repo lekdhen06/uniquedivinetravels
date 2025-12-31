@@ -163,8 +163,8 @@ pluralizelisttitles = false
     parent     = "section.Planning Trip"
 
 [[menu.main]]
-    name       = "Accomodation"
-    url        = "/accomodation"
+    name       = "Accommodation"
+    url        = "/accommodation"
     weight     = 4
     parent     = "section.Planning Trip"
 
@@ -228,7 +228,7 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 1
     name = "Phone"
-    url = "tel:+975 77456292"
+    url = "tel:+97577456292/+19179414374"
     pre = "<i class='fas fa-2x fa-phone'></i>"
 
 [[menu.topbar]]
@@ -239,9 +239,9 @@ pluralizelisttitles = false
 
 [[menu.topbar]]
     weight = 3
-    name = "Twitter"
+    name = "WhatsApp"
     url = "http://twitter.com"
-    pre = "<i class='fab fa-2x fa-twitter'></i>"
+    pre ="<i class='fa-brands fa-whatsapp'></i>"
 
 [[menu.topbar]]
     weight = 4
@@ -307,7 +307,7 @@ pluralizelisttitles = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Selfless quality services</p>"
-    copyright = "Copyright © 2023 Unique Divine Travels. All rights reserved."
+    copyright = "Copyright © 2025 Unique Divine Travels. All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -334,8 +334,8 @@ pluralizelisttitles = false
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +975 77456292 or info@uniquedivinetravels-bt.com</p>
-      <p class="hidden-md hidden-lg"><a href="Contact no.:+975 77456292" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+    text = """<p class="hidden-sm hidden-xs">Contact us on +97577456292 / +19179414374 or info@uniquedivinetravels-bt.com</p>
+      <p class="hidden-md hidden-lg"><a href="Contact no.:+975 77456292 / +19179414374" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="mailto:info@uniquedivinetravels-bt.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
@@ -362,10 +362,9 @@ pluralizelisttitles = false
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more information take a look at the README.
-    enable = true
-    auto_play = true
-    slide_speed = 2000
-    pagination_speed = 1000
+    enable = false
+    auto_play = false
+  
 
 [params.features]
     enable = true
@@ -411,3 +410,7 @@ pluralizelisttitles = false
   category = "categories"
   tag = "tags"
   author = "authors"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
