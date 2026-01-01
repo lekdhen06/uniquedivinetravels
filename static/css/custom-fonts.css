@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;600;700&display=swap');
+
+/* =============================
+   BASE TYPOGRAPHY
+   ============================= */
+html {
+  font-size: 13.5px;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* =============================
+   HEADINGS
+   ============================= */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: #222;
+}
+
+h1 { font-size: 2.05rem; }
+h2 { font-size: 1.6rem; }
+h3 { font-size: 1.3rem; }
+h4 { font-size: 1.12rem; }
+h5 { font-size: 1rem; }
+h6 { font-size: 0.9rem; }
+
+/* =============================
+   CONTENT AREAS
+   ============================= */
+#post-content,
+#blog-post,
+#blog-listing-medium {
+  font-size: 1.03rem;
+  line-height: 1.65;
+}
+
+.intro {
+  font-size: 1.01rem;
+}
+
+.text-muted,
+footer,
+.sidebar {
+  font-size: 0.86rem;
+}
+
+/* =============================
+   MOBILE
+   ============================= */
+@media (max-width: 768px) {
+  html {
+    font-size: 14.5px;
+  }
+
+  h1 { font-size: 1.9rem; }
+  h2 { font-size: 1.45rem; }
+  h3 { font-size: 1.15rem; }
+}
