@@ -1,4 +1,4 @@
-baseurl = "https://uniquedivinetravels-bt.com" 
+baseurl = "https://uniquedivinetravels-bt.com"
 title = "Unique Divine Travels"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
@@ -8,270 +8,263 @@ defaultContentLanguage = "en"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-
 # number of words of summarized post content (default 70)
 summaryLength = 70
-
 # Define the number of posts per page
 paginate = 10
-
 # not pluralize title pages by default
 pluralizelisttitles = false
 
 [menu]
-
-
 # Main menu
 [[menu.main]]
-    name       = "Home"
+    name = "Home"
     identifier = "menu.home"
-    url        = "/"
-    weight     = 1
-
+    url = "/"
+    weight = 1
 
 [[menu.main]]
-    name       = "About Bhutan"
+    name = "About Bhutan"
     identifier = "menu.About Bhutan"
-    url        = "/img/Punakha-dzong.jpg"
-    weight     = 3
+    url = "/img/Punakha-dzong.jpg"
+    weight = 2
 
 [[menu.main]]
-    name       = "Bhutan"
+    name = "Bhutan"
     identifier = "section.Bhutan"
-    url        = ""
-    weight     = 1
-    parent     = "menu.About Bhutan"
-    post       = 1
+    url = ""
+    weight = 1
+    parent = "menu.About Bhutan"
+    post = 1
 
 [[menu.main]]
-    name       = "Destinations"
+    name = "Destinations"
     identifier = "section.Destinations"
-    url        = ""
-    weight     = 2
-    parent     = "menu.About Bhutan"
-    post       = 2
+    url = ""
+    weight = 2
+    parent = "menu.About Bhutan"
+    post = 2
 
 [[menu.main]]
-    name       = "History of Bhutan"
-    url        = "/history_of_bhutan"
-    weight     = 1
-    parent     = "section.Bhutan"
+    name = "History of Bhutan"
+    url = "/history_of_bhutan"
+    weight = 1
+    parent = "section.Bhutan"
 
 [[menu.main]]
-    name       = "Gross National Happiness (GNH)"
-    url        = "/gross_national_happiness"
-    weight     = 2
-    parent     = "section.Bhutan"
+    name = "Gross National Happiness (GNH)"
+    url = "/gross_national_happiness"
+    weight = 2
+    parent = "section.Bhutan"
 
 [[menu.main]]
-    name       = "Climate in Bhutan"
-    url        = "/climate_in_bhutan"
-    weight     = 3
-    parent     = "section.Bhutan"
+    name = "Climate in Bhutan"
+    url = "/climate_in_bhutan"
+    weight = 3
+    parent = "section.Bhutan"
 
 [[menu.main]]
-    name       = "Festivals"
-    url        = "/festivals"
-    weight     = 4
-    parent     = "section.Bhutan"
+    name = "Festivals"
+    url = "/festivals"
+    weight = 4
+    parent = "section.Bhutan"
 
 [[menu.main]]
-    name       = "Culture & Traditions"
-    url        = "/culture_and_traditions"
-    weight     = 5
-    parent     = "section.Bhutan"
+    name = "Culture & Traditions"
+    url = "/culture_and_traditions"
+    weight = 5
+    parent = "section.Bhutan"
 
 [[menu.main]]
-    name       = "Bhutan at a glance"
-    url        = "/bhutan_at_a_glance"
-    weight     = 6
-    parent     = "section.Bhutan"
-    
+    name = "Bhutan at a glance"
+    url = "/bhutan_at_a_glance"
+    weight = 6
+    parent = "section.Bhutan"
 
 [[menu.main]]
-    name       = "Thimphu"
-    url        = "/thimphu"
-    weight     = 1
-    parent     = "section.Destinations"
+    name = "Thimphu"
+    url = "/thimphu"
+    weight = 1
+    parent = "section.Destinations"
 
 [[menu.main]]
-    name       = "Paro"
-    url        = "/paro"
-    weight     = 2
-    parent     = "section.Destinations"
+    name = "Paro"
+    url = "/paro"
+    weight = 2
+    parent = "section.Destinations"
 
 [[menu.main]]
-    name       = "Bumthang"
-    url        = "/bumthang"
-    weight     = 3
-    parent     = "section.Destinations"
-    
-[[menu.main]]
-    name       = "Zhemgang"
-    url        = "/zhemgang"
-    weight     = 4
-    parent     = "section.Destinations"
-    
-[[menu.main]]
-    name       = "Punakha"
-    url        = "/punakha"
-    weight     = 5
-    parent     = "section.Destinations"
-    
-[[menu.main]]
-    name       = "Trongsa"
-    url        = "/trongsa"
-    weight     = 6
-    parent     = "section.Destinations"
-    
-[[menu.main]]
-    name       = "Wangdiphodrang"
-    url        = "/wangdiphodrang"
-    weight     = 7
-    parent     = "section.Destinations"
+    name = "Bumthang"
+    url = "/bumthang"
+    weight = 3
+    parent = "section.Destinations"
 
 [[menu.main]]
-    name       = "Travel Guide"
+    name = "Zhemgang"
+    url = "/zhemgang"
+    weight = 4
+    parent = "section.Destinations"
+
+[[menu.main]]
+    name = "Punakha"
+    url = "/punakha"
+    weight = 5
+    parent = "section.Destinations"
+
+[[menu.main]]
+    name = "Trongsa"
+    url = "/trongsa"
+    weight = 6
+    parent = "section.Destinations"
+
+[[menu.main]]
+    name = "Wangdiphodrang"
+    url = "/wangdiphodrang"
+    weight = 7
+    parent = "section.Destinations"
+
+[[menu.main]]
+    name = "Travel Guide"
     identifier = "menu.Travel Guide"
-    url        = "/img/bhutan-airlines.jpg"
-    weight     = 3
+    url = "/img/bhutan-airlines.jpg"
+    weight = 3
 
 [[menu.main]]
-    name       = "Planning Trip"
+    name = "Planning Trip"
     identifier = "section.Planning Trip"
-    url        = ""
-    weight     = 1
-    parent     = "menu.Travel Guide"
-    post       = 1
+    url = ""
+    weight = 1
+    parent = "menu.Travel Guide"
+    post = 1
 
 [[menu.main]]
-    name       = "VISA"
-    url        = "/visa"
-    weight     = 1
-    parent     = "section.Planning Trip"
+    name = "VISA"
+    url = "/visa"
+    weight = 1
+    parent = "section.Planning Trip"
 
 [[menu.main]]
-    name       = "Tariff"
-    url        = "/tariff"
-    weight     = 2
-    parent     = "section.Planning Trip"
+    name = "Tariff"
+    url = "/tariff"
+    weight = 2
+    parent = "section.Planning Trip"
 
 [[menu.main]]
-    name       = "Flight"
-    url        = "/flight"
-    weight     = 3
-    parent     = "section.Planning Trip"
+    name = "Flight"
+    url = "/flight"
+    weight = 3
+    parent = "section.Planning Trip"
 
 [[menu.main]]
-    name       = "Accommodation"
-    url        = "/accommodation"
-    weight     = 4
-    parent     = "section.Planning Trip"
+    name = "Accommodation"
+    url = "/accommodation"
+    weight = 4
+    parent = "section.Planning Trip"
 
 [[menu.main]]
-    name       = "Tour Packages"
+    name = "Tour Packages"
     identifier = "menu.Tour Packages"
-    url        = ""
-    weight     = 4
+    url = ""
+    weight = 5
 
 [[menu.main]]
-    name       = "Cultural Tours"
-    url        = "/cultural_tours"
-    parent     = "menu.Tour Packages"
-    post       = 1
+    name = "Cultural Tours"
+    url = "/cultural_tours"
+    parent = "menu.Tour Packages"
+    post = 1
 
 [[menu.main]]
-    name       = "Festival Tours"
-    url        = "/festival_tours"
-    parent     = "menu.Tour Packages"
-    post       = 2
+    name = "Festival Tours"
+    url = "/festival_tours"
+    parent = "menu.Tour Packages"
+    post = 2
 
 [[menu.main]]
-    name       = "Community-based Ecotourism"
-    url        = "/community-based_ecotourism"
-    parent     = "menu.Tour Packages"
-    post       = 3
+    name = "Community-based Ecotourism"
+    url = "/community-based_ecotourism"
+    parent = "menu.Tour Packages"
+    post = 3
 
 [[menu.main]]
-    name       = "Wildlife Tours"
-    url        = "/wildlife_tours"
-    parent     = "menu.Tour Packages"
-    post       = 4
+    name = "Wildlife Tours"
+    url = "/wildlife_tours"
+    parent = "menu.Tour Packages"
+    post = 4
 
 [[menu.main]]
-    name       = "Special Tours"
-    url        = "/special_tours"
-    parent     = "menu.Tour Packages"
-    post       = 5
+    name = "Special Tours"
+    url = "/special_tours"
+    parent = "menu.Tour Packages"
+    post = 5
 
 [[menu.main]]
-    name       = "About Us"
+    name = "About Us"
     identifier = "menu.About Us"
-    url        = "/about_us"
-    weight     = 5
+    url = "/about_us"
+    weight = 6
 
 [[menu.main]]
-    name       = "FAQ"
+    name = "FAQ"
     identifier = "menu.faq"
-    url        = "/faq/"
-    weight     = 6
+    url = "/faq/"
+    weight = 7
 
 [[menu.main]]
     identifier = "contact"
-    name       = "Contact"
-    url        = "/contact/"
-    weight     = 7
-
+    name = "Contact"
+    url = "/contact/"
+    weight = 8
 
 # Top bar social links menu
+[[menu.topbar]]
+weight = 1
+name = "Phone"
+pre = "<i class='fas fa-2x fa-phone' style='color:#1E90FF'></i>"
+
+  [[menu.topbar]]
+  parent = "Phone"
+  name = "BT"
+  url = "tel:+97577456292"
+
+  [[menu.topbar]]
+  parent = "Phone"
+  name = "US"
+  url = "tel:+19179414374"
+[[menu.topbar]]
+weight = 2
+name = "Facebook"
+url = "https://www.facebook.com"
+pre = "<i class='fab fa-2x fa-facebook' style='color:#1877F2'></i>"  # Facebook blue
 
 [[menu.topbar]]
-    weight = 1
-    name = "Phone"
-    url = "tel:+97577456292/+19179414374"
-    pre = "<i class='fas fa-2x fa-phone'></i>"
+weight = 3
+name = "WhatsApp"
+url = "https://whatsapp.com"
+pre = "<i class='fab fa-2x fa-whatsapp' style='color:#25D366'></i>"  # WhatsApp green
 
 [[menu.topbar]]
-    weight = 2
-    name = "Facebook"
-    url = "http://facebook.com"
-    pre = "<i class='fab fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-    weight = 3
-    name = "WhatsApp"
-    url = "http://twitter.com"
-    pre ="<i class='fa-brands fa-whatsapp'></i>"
-
-[[menu.topbar]]
-    weight = 4
-    name = "Email"
-    url = "mailto:info@uniquedivinetravels-bt.com"
-    pre = "<i class='fas fa-2x fa-envelope'></i>"
-
+weight = 4
+name = "Email"
+url = "mailto:info@uniquedivinetravels-bt.com"
+pre = "<i class='fas fa-2x fa-envelope' style='color:#FF4500'></i>"  # Orange/red for email
 [params]
     viewMorePostLink = "/blog/"
     author = ""
     defaultKeywords = ["devcows", "hugo", "go"]
     mainSections = ["blog"]
     defaultDescription = "Site template made by Devcows using Hugo"
-
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
     twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
     default_sharing_image = "img/sharing-default.png"
-
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
     enableGoogleMaps = false
     googleMapsApiKey = ""
-
     latitude = ""
     longitude = ""
     direction = ""
-
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "blue"
-
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
     # email. Visitors can send up to a 50 emails each month for free.
@@ -288,7 +281,6 @@ pluralizelisttitles = false
     #Enable the contact form by entering your Formspree.io endpoint url
     formspree_action = "https://formspree.io/f/xeqbddyp"
     contact_form_ajax = false
-
     # Formspree form supports Google reCAPTCHA Key (type v2).
     # If you use this feature, you should enable reCAPTCHA feature in the Formspree dashboard.
     #
@@ -296,34 +288,29 @@ pluralizelisttitles = false
     # If you use a recaptcha widget in your contact page, you should do next steps.
     # (if you don't want, skip these steps)
     #
-    #   1. register your site on Google recaptcha admin page: https://www.google.com/recaptcha/admin
-    #   2. select reCAPTCHA v2 and checkbox widget type.
-    #   3. remember site key and secret key.
-    #   4. enter secret key into "Custom reCAPTCHA Key" field in your Formspree form setting page.
-    #   5. change `enableRecaptchaInContactForm` is to true
-    #   6. enter site key into `googleRecaptchaKey` to enable a recaptcha widget in your page.
+    # 1. register your site on Google recaptcha admin page: https://www.google.com/recaptcha/admin
+    # 2. select reCAPTCHA v2 and checkbox widget type.
+    # 3. remember site key and secret key.
+    # 4. enter secret key into "Custom reCAPTCHA Key" field in your Formspree form setting page.
+    # 5. change `enableRecaptchaInContactForm` is to true
+    # 6. enter site key into `googleRecaptchaKey` to enable a recaptcha widget in your page.
     #
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
-
     about_us = "<p>Selfless quality services</p>"
-    copyright = "Copyright © 2025 Unique Divine Travels. All rights reserved."
-
+    copyright = "Copyright © 2026 Unique Divine Travels. All rights reserved."
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
-
     dropdown_mouse_over = false
-
     disabled_logo = false
     logo_text = "Unique Divine Travels"
-
     logo = "img/udt_logo.jpg"
     logo_small = "img/udt_logo.jpg"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Unique Divine Travels</strong>
         <br>IT Park
         <br>Babesa
-        <br>Thimphu 
+        <br>Thimphu
         <strong>Bhutan</strong>
       </p>
       """
@@ -335,7 +322,7 @@ pluralizelisttitles = false
 [params.topbar]
     enable = true
     text = """<p class="hidden-sm hidden-xs">Contact us on +97577456292 / +19179414374 or info@uniquedivinetravels-bt.com</p>
-      <p class="hidden-md hidden-lg"><a href="Contact no.:+975 77456292 / +19179414374" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+      <p class="hidden-md hidden-lg"><a href="tel:+97577456292" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="mailto:info@uniquedivinetravels-bt.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
@@ -364,7 +351,6 @@ pluralizelisttitles = false
     # For more information take a look at the README.
     enable = false
     auto_play = false
-  
 
 [params.features]
     enable = true
@@ -410,6 +396,7 @@ pluralizelisttitles = false
   category = "categories"
   tag = "tags"
   author = "authors"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

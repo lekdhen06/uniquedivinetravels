@@ -1,0 +1,84 @@
+:root {
+  /* Font families */
+  --ff-body: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  --ff-heading: "Playfair Display", Georgia, "Times New Roman", serif;
+
+  /* Font sizes */
+  --fs-base: 1.05rem;   /* body text */
+  --fs-small: 0.95rem;  /* small/muted */
+  --fs-h1: 2.0rem;
+  --fs-h2: 1.6rem;
+  --fs-h3: 1.35rem;
+  --fs-h4: 1.15rem;
+}
+
+/* --- Body text only --- */
+body, p, li, a, span, div, blockquote, input, textarea, button {
+  font-family: var(--ff-body) !important;
+  font-size: var(--fs-base) !important;
+  line-height: 1.6 !important;
+}
+
+/* --- Headings --- */
+h1, .h1, .display-1 {
+  font-family: var(--ff-heading) !important;
+  font-size: var(--fs-h1) !important;
+  margin-bottom: 0.5rem;
+}
+
+h2, .h2, .display-2 {
+  font-family: var(--ff-heading) !important;
+  font-size: var(--fs-h2) !important;
+  margin-bottom: 0.45rem;
+}
+
+h3, .h3, .display-3 {
+  font-family: var(--ff-heading) !important;
+  font-size: var(--fs-h3) !important;
+  margin-bottom: 0.4rem;
+}
+
+h4, .h4, .display-4 {
+  font-family: var(--ff-heading) !important;
+  font-size: var(--fs-h4) !important;
+  margin-bottom: 0.35rem;
+}
+
+/* Small / muted text */
+small, .small, .text-muted {
+  font-size: var(--fs-small) !important;
+  color: #666;
+}
+
+/* --- Icons: preserve their own fonts --- */
+i[class^="fa"], i[class*=" fa-"],
+.fa, .fas, .far, .fab,
+.glyphicon, .material-icons, .icon {
+  font-family: initial !important;  /* DO NOT inherit body font */
+  font-size: inherit !important;    /* size relative to parent */
+  line-height: normal !important;
+  vertical-align: middle;
+}
+
+/* SVGs/images used as icons */
+svg, img.icon {
+  font-family: initial !important;
+  font-size: inherit !important;
+  line-height: normal !important;
+}
+
+/* Prevent media elements inheriting font size */
+img, video { font-size: initial !important; }
+
+/* --- Responsive adjustments --- */
+@media (max-width: 576px) {
+  :root {
+    --fs-base: 1rem;
+    --fs-h1: 1.8rem;
+    --fs-h2: 1.4rem;
+    --fs-h3: 1.15rem;
+    --fs-h4: 1rem;
+  }
+
+  body, p, li, a, span, div { font-size: var(--fs-base) !important; }
+}
