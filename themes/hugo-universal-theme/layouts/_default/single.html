@@ -42,6 +42,21 @@
                         {{ end }}
 
                         <div id="post-content">
+                          <div id="post-content">
+
+  <div class="hero-image-container">
+    <picture>
+            <img src="{{ "/img/Dungtsho-sham.jpg" | relURL }}"
+           alt=""
+           class="hero-image"
+           loading="eager">
+    </picture>
+  </div>
+
+  {{ .Content }}
+
+</div>
+
                           {{ .Content }}
                         </div>
                         <!-- /#post-content -->

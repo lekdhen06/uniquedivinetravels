@@ -1,0 +1,47 @@
+.hero-aspect {
+  width: min(90vw, 1200px);
+  margin: 2rem auto;
+  aspect-ratio: 16 / 9;
+  max-height: 80vh;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+  background-color: #f8f8f8;
+  display: block;
+  position: relative;
+}
+
+@supports not (aspect-ratio: 16/9) {
+  .hero-aspect {
+    height: 0;
+    padding-top: 56.25%;
+  }
+  .hero-aspect img {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+}
+
+.hero-aspect-img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  margin: 0;
+}
+
+.col-md-9 .hero-aspect,
+.hero-aspect,
+.hero-aspect-img {
+  max-width: 100%;
+}
+
+@media (max-width: 576px) {
+  .hero-aspect {
+    width: 95vw;
+    margin: 1rem auto;
+    max-height: 60vh;
+  }
+}
