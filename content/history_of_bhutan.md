@@ -59,7 +59,7 @@ tags: [Bhutan, History, Culture]
 
 <!-- TOP IMAGE (responsive on all devices) -->
 <figure class="hero-figure">
-  <img src="/images/punakha-dzong.jpg" alt="Punakha Dzong" loading="lazy">
+  <img src="/img/Punakha-dzong.jpg" alt="Punakha Dzong" loading="lazy">
   <figcaption class="caption">
     Punakha Dzong — an important Bhutanese fortress
   </figcaption>
@@ -75,7 +75,7 @@ Archaeological evidence suggests the region that is now Bhutan was inhabited fro
 
 <!-- MIDDLE IMAGE (responsive & centered) -->
 <figure class="center-figure">
-  <img src="/images/zhabdrung-statue.jpg" alt="Zhabdrung Ngawang Namgyal" loading="lazy">
+  <img src="/img/zhabdrung.jpg" alt="Zhabdrung Ngawang Namgyal" loading="lazy">
   <figcaption class="caption">
     Zhabdrung Ngawang Namgyal — the unifier of Bhutan
   </figcaption>
