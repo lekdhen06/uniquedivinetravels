@@ -35,7 +35,7 @@
 
 
 
-<link href="/css/custom.css?1767290715" rel="stylesheet">
+<link href="/css/custom.css?1767453562" rel="stylesheet">
 
 
 
@@ -86,7 +86,8 @@
 
 <link rel="stylesheet" href="/css/custom-fonts.css">
 
-
+    
+    <link rel="stylesheet" href="/css/site.css">
   </head>
 
   <body>
@@ -122,7 +123,6 @@
     </div>
   </div>
 </header>
-
 
 
         <header class="navbar-affixed-top" data-spy="affix" data-offset-top="62">
@@ -404,7 +404,6 @@
 
 
 
-
         <div id="heading-breadcrumbs">
     <div class="container">
         <div class="row">
@@ -425,44 +424,54 @@
                     <div class="col-md-9" id="blog-post">
 
                         
-                          <p class="text-muted text-uppercase mb-small text-right">
-                            
-                              By <a href="/authors/jane-doe">Jane Doe</a>
-                            
-                            
-                            
-                              
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                              June 24, 2015
-                            
-                          </p>
                         
 
-                        <div id="post-content">
+                        
+                        <h1>Creating a new theme</h1>
+
+                        
+                        
+                        <p class="text-muted text-uppercase mb-small">
+
+                          
+
+                          
+
+                          
+                            
+                            
+                              
+                            
+                              
+                            
+                              
+                            
+                              
+                            
+                              
+                            
+                              
+                            
+                              
+                            
+                              
+                            
+                              
+                            
+                              
+                            
+                              
+                            
+                              
+                            
+                            June 24, 2015
+                          
+
+                        </p>
+                        
+
+                        
+                        <div id="post-content" class="content">
                           <h2 id="introduction">Introduction</h2>
 <p>This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&rsquo;t cover using CSS to style your theme.</p>
 <p>We&rsquo;ll start with creating a new site with a very basic template. Then we&rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.</p>
@@ -1270,8 +1279,8 @@ $ vi themes/zafta/layouts/_default/single.html
 <p>DRY is a good design goal and Hugo does a great job supporting it. Part of the art of a good template is knowing when to add a new template and when to update an existing one. While you&rsquo;re figuring that out, accept that you&rsquo;ll be doing some refactoring. Hugo makes that easy and fast, so it&rsquo;s okay to delay splitting up a template.</p>
 
                         </div>
-                        
 
+                        
                         
 
                     </div>
@@ -1355,11 +1364,23 @@ $ vi themes/zafta/layouts/_default/single.html
             
             
             <li >
+                <a href="/tags/bhutan"><i class="fas fa-tags"></i> bhutan</a>
+            </li>
+            
+            <li >
+                <a href="/tags/culture"><i class="fas fa-tags"></i> culture</a>
+            </li>
+            
+            <li >
                 <a href="/tags/go"><i class="fas fa-tags"></i> go</a>
             </li>
             
             <li >
                 <a href="/tags/golang"><i class="fas fa-tags"></i> golang</a>
+            </li>
+            
+            <li >
+                <a href="/tags/history"><i class="fas fa-tags"></i> history</a>
             </li>
             
             <li >

@@ -2,54 +2,103 @@
 title: "History of Bhutan"
 author: "lekdhen06"
 date: "2023-11-07"
-output: html_document
+description: "A concise overview of Bhutan's long and unique history — from ancient times to the modern constitutional monarchy."
+featured_image: "/images/bhutan-hero.jpg"
+tags: [Bhutan, History, Culture]
 ---
 
-Bhutan has a rich and unique history that has shaped its distinct culture and governance. Here is an overview of the history of Bhutan.
+<!-- Responsive styles safe for Hugo 0.124.1 -->
+<style>
+/* ===== HERO IMAGE (TOP) ===== */
+.hero-figure {
+  width: 100%;
+  margin: 0 0 2rem 0;
+}
+.hero-figure img {
+  width: 100%;
+  height: min(60vh, 480px);   /* adapts to screen height */
+  object-fit: cover;         /* no distortion */
+  display: block;
+  border-radius: 0;
+}
+.hero-figure .caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
 
+/* ===== CENTER IMAGE (MIDDLE) ===== */
+.center-figure {
+  max-width: 820px;
+  margin: 2.5rem auto;
+  text-align: center;
+}
+.center-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+.center-figure .caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
 
-**Ancient History**
+/* ===== MOBILE OPTIMIZATION ===== */
+@media (max-width: 768px) {
+  .hero-figure img {
+    height: 38vh;
+  }
+  .center-figure {
+    padding: 0 1rem;
+  }
+}
+</style>
 
-Bhutan's history dates back to ancient times, with archaeological evidence suggesting that the region was inhabited as early as 2000-1500 BCE. The indigenous people practiced Buddhism and animistic beliefs.
+<!-- TOP IMAGE (responsive on all devices) -->
+<figure class="hero-figure">
+  <img src="/images/punakha-dzong.jpg" alt="Punakha Dzong" loading="lazy">
+  <figcaption class="caption">
+    Punakha Dzong — an important Bhutanese fortress
+  </figcaption>
+</figure>
 
+Bhutan has a rich and unique history that has shaped its distinct culture and governance. Below is a clear, scannable overview.
 
-**Formation of Bhutan**
+## Ancient history
 
-Bhutan's origins as a unified state can be traced to the 17th century. Zhabdrung Ngawang Namgyal, a Tibetan lama, is credited with unifying Bhutan and establishing a dual system of governance that included both spiritual and secular leaders.
+Archaeological evidence suggests the region that is now Bhutan was inhabited from around 2000–1500 BCE. Local beliefs blended Buddhism with indigenous animistic traditions.
 
+## Formation of Bhutan (17th century)
 
-**British Influence**
+<!-- MIDDLE IMAGE (responsive & centered) -->
+<figure class="center-figure">
+  <img src="/images/zhabdrung-statue.jpg" alt="Zhabdrung Ngawang Namgyal" loading="lazy">
+  <figcaption class="caption">
+    Zhabdrung Ngawang Namgyal — the unifier of Bhutan
+  </figcaption>
+</figure>
 
-In the 19th century, Bhutan became embroiled in a series of conflicts with British India. The signing of the Treaty of Punakha in 1910 established British suzerainty over Bhutan's foreign affairs, but Bhutan remained autonomous internally.
+Zhabdrung Ngawang Namgyal — a Tibetan lama — is credited with unifying Bhutan and establishing a dual system of governance combining spiritual and temporal leadership. His leadership and the fortress-building era shaped Bhutan’s unique political and cultural identity.
 
+## British era and treaties
 
-**Monarchy**
+The 19th century saw a series of interactions with British India. The Treaty of Punakha (1910) clarified relations: Bhutan retained internal autonomy while Britain managed certain external matters.
 
-Bhutan adopted a hereditary monarchy in 1907, with Ugyen Wangchuck becoming the first Druk Gyalpo (Dragon King).
+## Rise of the monarchy
 
+Bhutan adopted a hereditary monarchy in 1907. Ugyen Wangchuck became the first Druk Gyalpo (Dragon King), setting the stage for modern governance.
 
-**Modernization and Reforms**
+## Modernization and social reform
 
-Bhutan remained largely isolated from the outside world until the mid-20th century. In the 1950s and 1960s, the king initiated a series of modernization efforts, including the establishment of formal education and healthcare systems.
+From the mid-20th century Bhutan worked to systematize education, health care, and land reforms. These decades also saw a gradual opening to the wider world.
 
+## Gross National Happiness (GNH)
 
-**Political Changes**
+In the 1970s the Fourth King, Jigme Singye Wangchuck, coined the concept of Gross National Happiness (GNH) — a development philosophy prioritizing holistic well-being over purely economic indicators.
 
-In the 20th century, Bhutan underwent several political changes. In 1952, the country transitioned to a democratic monarchy with the introduction of a National Assembly (Tshogdu) in 1953. The king remained the head of state.
+## Constitutional monarchy and democracy
 
-
-**Land Reforms**
-
-In the 1950s and 1960s, Bhutan implemented land reforms, redistributing land from large landowners to peasants and reducing wealth inequality.
-
-
-**Adoption of Gross National Happiness (GNH)**
-
-In the 1970s, Bhutan's fourth king, Jigme Singye Wangchuck, introduced the concept of Gross National Happiness, emphasizing holistic well-being and sustainable development over economic growth. Bhutan is renowned for its unique development philosophy of Gross National Happiness (GNH), which prioritizes the well-being and happiness of its citizens over purely economic indicators.
-
-The country also places a strong emphasis on preserving its cultural heritage and traditions, including the promotion of the Bhutanese language, traditional dress, and architectural styles. Bhutan's history is characterized by its strong sense of cultural identity, unique political system, and commitment to preserving its heritage while embracing modernization and democratic values.
-
-
-**Constitutional Monarchy**
-
-Bhutan's political landscape changed in the 21st century. In 2008, the country transitioned to a constitutional monarchy with the first-ever democratic elections, and the Fifth King, Jigme Khesar Namgyel Wangchuck, handed over executive power to an elected government.
+In 2008 Bhutan adopted a constitution and transitioned to a parliamentary democracy while retaining the monarchy as head of state.

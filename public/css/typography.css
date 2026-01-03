@@ -1,0 +1,137 @@
+/* static/css/typography.css
+   Drop this file into your site's static/css/ and add a link to it in your head partial.
+   Font choices: Inter (body) + Merriweather (headings). Adjust if you prefer different fonts.
+*/
+
+/* --- Import Google fonts --- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Merriweather:wght@400;700&display=swap');
+
+/* --- CSS Variables (easy to tweak) --- */
+:root{
+  --body-font: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  --heading-font: "Merriweather", Georgia, "Times New Roman", serif;
+  --base-size: 18px;          /* increase if you want larger text */
+  --measure: 65ch;           /* ideal reading width */
+  --text-color: #222222;
+  --muted: #6b6b6b;
+  --accent: #0b74de;         /* link / accent color */
+  --max-content-width: 900px;
+  --rhythm: 1.65;            /* line-height */
+}
+
+/* --- Base / Body --- */
+html { font-size: 100%; -webkit-text-size-adjust: 100%; }
+body {
+  font-family: var(--body-font);
+  font-size: var(--base-size);
+  line-height: var(--rhythm);
+  color: var(--text-color);
+  background: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* --- Layout for main content container --- */
+.main, .content, article, .post {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1.25rem;
+  max-width: var(--max-content-width);
+}
+
+/* Restrict measure for paragraphs for better readability */
+.content p, article p {
+  max-width: var(--measure);
+  margin-bottom: 1.15rem;
+  font-size: 1rem;
+  color: var(--text-color);
+}
+
+/* --- Headings scale & style --- */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--heading-font);
+  color: #0f1723; /* near-black for headings */
+  margin-top: 1.25rem;
+  margin-bottom: 0.55rem;
+  line-height: 1.15;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+h1 { font-size: clamp(1.8rem, 3.2vw, 2.6rem); }
+h2 { font-size: clamp(1.4rem, 2.4vw, 1.9rem); }
+h3 { font-size: clamp(1.2rem, 2.0vw, 1.4rem); }
+
+/* Small, muted subtitle / meta lines */
+.post-meta, .byline, .subtitle, .post-date {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+}
+
+/* --- Links --- */
+a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(11,116,222,0.15);
+}
+a:hover { text-decoration: underline; }
+
+/* --- Blockquote --- */
+blockquote {
+  margin: 1.2rem 0;
+  padding: 0.9rem 1.1rem;
+  background: #f7f9fc;
+  border-left: 4px solid rgba(11,116,222,0.12);
+  font-style: italic;
+  color: #2f3b45;
+}
+
+/* --- Lists --- */
+ul, ol {
+  margin-left: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+/* --- Code blocks & inline code --- */
+pre, code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Courier New", monospace;
+  font-size: 0.92rem;
+}
+pre {
+  padding: 0.9rem;
+  background: #0f1723; /* dark block */
+  color: #ecf2ff;
+  border-radius: 6px;
+  overflow: auto;
+}
+
+/* --- Images / figures --- */
+figure img { max-width: 100%; height: auto; display: block; margin: 0.6rem 0; }
+figcaption { color: var(--muted); font-size: 0.95rem; text-align: center; }
+
+/* --- First paragraph drop cap (optional) --- */
+article p:first-of-type::first-letter {
+  float: left;
+  font-size: 3.4rem;
+  line-height: 0.8;
+  margin-right: 0.14rem;
+  margin-top: 0.06rem;
+  font-weight: 700;
+  color: rgba(11,116,222,0.95);
+  font-family: var(--heading-font);
+}
+
+/* --- Small screens adjustments --- */
+@media (max-width: 720px) {
+  :root { --base-size: 17px; }
+  .content, article, .main { padding: 1rem; }
+  .post-meta, .subtitle { font-size: 0.9rem; }
+}
+
+/* --- Accessibility helpers --- */
+:focus { outline: 3px solid rgba(11,116,222,0.22); outline-offset: 2px; }
+
+/* --- Utility tidy-ups for common theme classes --- */
+/* If your theme wraps content in .post or .content, these rules will apply */
+.post h1, .content h1 { margin-top: 0.2rem; margin-bottom: 0.6rem; }

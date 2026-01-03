@@ -3,6 +3,9 @@
   <head>
     {{ partial "headers.html" . }}
     {{ partial "custom_headers.html" . }}
+
+    <!-- Optional custom styles -->
+    <link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
   </head>
 
   <body>
@@ -10,9 +13,7 @@
     <div id="all">
 
         {{ partial "top.html" . }}
-
         {{ partial "nav.html" . }}
-
         {{ partial "breadcrumbs.html" . }}
 
         <div id="content">
@@ -23,29 +24,50 @@
                     <!-- *** LEFT COLUMN *** -->
                     <div class="col-md-9" id="blog-post">
 
-                        {{ if or .Params.author .Params.date }}
-                          <p class="text-muted text-uppercase mb-small text-right">
-                            {{ if isset .Params "authors" }}
-                              {{ i18n "authorBy" }} {{ range $index, $author := .Params.authors }}{{ if $index }}, {{ end }}<a href="{{ (printf "%s/%s" ("authors" | relLangURL) ($author | urlize)) }}">{{ $author }}</a>{{ end }}
-                            {{ end }}
-                            {{ if and .Params.author .Params.date }} | {{ end }}
-                            {{ if .Params.date }}
-                              {{ $createdAt := .Date.Format .Site.Params.date_format }}
-                              {{ range $index, $month := slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December" }}
-                                  {{ $createdAt = replace $createdAt $month (i18n $month) }}
-                              {{ end }}
-                              {{ $createdAt }}
-                            {{ end }}
-                          </p>
+                        <!-- FEATURED IMAGE -->
+                        {{ with .Params.featured_image }}
+                        <figure class="hero mb-3">
+                            <img
+                              src="{{ . | relURL }}"
+                              alt="{{ $.Title }}"
+                              loading="lazy"
+                              style="width:100%; max-height:360px; object-fit:cover; border-radius:10px;"
+                            >
+                        </figure>
                         {{ end }}
 
-                        <div id="post-content">
+                        <!-- TITLE -->
+                        <h1>{{ .Title }}</h1>
+
+                        <!-- META -->
+                        {{ if or .Params.author .Params.date }}
+                        <p class="text-muted text-uppercase mb-small">
+
+                          {{ with .Params.author }}
+                            {{ i18n "authorBy" }} {{ . }}
+                          {{ end }}
+
+                          {{ if and .Params.author .Params.date }} | {{ end }}
+
+                          {{ with .Params.date }}
+                            {{ $createdAt := .Format $.Site.Params.date_format }}
+                            {{ range $month := slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December" }}
+                              {{ $createdAt = replace $createdAt $month (i18n $month) }}
+                            {{ end }}
+                            {{ $createdAt }}
+                          {{ end }}
+
+                        </p>
+                        {{ end }}
+
+                        <!-- CONTENT -->
+                        <div id="post-content" class="content">
                           {{ .Content }}
                         </div>
-                        <!-- /#post-content -->
 
+                        <!-- COMMENTS -->
                         {{ if .Site.DisqusShortname }}
-                        <div id="comments">
+                        <div id="comments" class="mt-4">
                             {{ template "_internal/disqus.html" . }}
                         </div>
                         {{ end }}
