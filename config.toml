@@ -218,29 +218,21 @@ pluralizelisttitles = false
 # Top bar social links menu
 [[menu.topbar]]
 weight = 1
-name = "Phone"
-pre = "<i class='fas fa-2x fa-phone' style='color:#1E90FF'></i>"
-
-  [[menu.topbar]]
-  parent = "Phone"
-  name = "BT"
-  url = "tel:+97577456292"
-
-  [[menu.topbar]]
-  parent = "Phone"
-  name = "US"
-  url = "tel:+19179414374"
-[[menu.topbar]]
-weight = 2
 name = "Facebook"
 url = "https://www.facebook.com"
 pre = "<i class='fab fa-2x fa-facebook' style='color:#1877F2'></i>"  # Facebook blue
 
 [[menu.topbar]]
-weight = 3
+weight = 2
 name = "WhatsApp"
 url = "https://whatsapp.com"
 pre = "<i class='fab fa-2x fa-whatsapp' style='color:#25D366'></i>"  # WhatsApp green
+
+[[menu.topbar]]
+weight = 3
+name = "Instagram"
+url = "https://www.instagram.com"
+pre = "<i class='fab fa-2x fa-instagram' style='color:#E4405F'></i>"
 
 [[menu.topbar]]
 weight = 4

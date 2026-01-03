@@ -8,9 +8,19 @@
         </div>
         <div class="col-xs-7">
           <div class="social">
+
+            <!-- Dark / Light mode toggle -->
+            <a href="#" id="theme-toggle" class="theme-toggle" title="Toggle dark / light">
+              <i class="fa fa-moon"></i>
+            </a>
+
+            <!-- Existing topbar icons -->
             {{ range .Site.Menus.topbar.ByWeight }}
-            <a href="{{ .URL | safeURL }}" target="_blank" style="opacity: 1;">{{ .Pre }}</a>
+              <a href="{{ .URL | safeURL }}" target="_blank" style="opacity: 1;">
+                {{ .Pre }}
+              </a>
             {{ end }}
+
           </div>
         </div>
       </div>

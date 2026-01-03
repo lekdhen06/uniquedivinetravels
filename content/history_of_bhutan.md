@@ -59,7 +59,7 @@ tags: [Bhutan, History, Culture]
 
 <!-- TOP IMAGE (responsive on all devices) -->
 <figure class="hero-figure">
-  <img src="/img/Punakha-dzong.jpg" alt="Punakha Dzong" loading="lazy">
+  <img src="/img/Punakha-dzong2.jpg" alt="Punakha Dzong" loading="lazy">
   <figcaption class="caption">
     Punakha Dzong — an important Bhutanese fortress
   </figcaption>

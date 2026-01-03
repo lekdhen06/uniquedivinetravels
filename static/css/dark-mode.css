@@ -1,0 +1,271 @@
+/* static/css/dark-mode.css
+   Dark mode overrides using body.dark-mode
+   Keep it conservative so theme styles remain intact.
+*/
+
+/* Smooth transitions for toggling */
+:root {
+  --transition-fast: 160ms;
+}
+
+/* Transition for color changes */
+body,
+body * {
+  transition: color var(--transition-fast) ease, background-color var(--transition-fast) ease, border-color var(--transition-fast) ease;
+}
+
+/* DARK MODE OVERRIDES */
+body.dark-mode {
+  background-color: #0f1113 !important;
+  color: #e6eef6 !important;
+}
+
+/* Headings */
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6 {
+  color: #ffffff !important;
+}
+
+/* Links */
+body.dark-mode a {
+  color: #89b7ff !important;
+}
+body.dark-mode a:hover {
+  color: #bcd9ff !important;
+}
+
+/* Navbar / topbar */
+body.dark-mode .navbar,
+body.dark-mode .navbar-default,
+body.dark-mode header,
+body.dark-mode #top {
+  background-color: #0b0c0d !important;
+  border-color: #1b1c1d !important;
+}
+
+/* Breadcrumb / page header */
+body.dark-mode #heading-breadcrumbs {
+  background-color: #101214 !important;
+  border-bottom: 1px solid #222 !important;
+}
+
+/* Footer */
+body.dark-mode #footer,
+body.dark-mode #copyright {
+  background-color: #0b0c0d !important;
+  color: #cfcfcf !important;
+}
+
+/* Boxes & cards */
+body.dark-mode .box-simple,
+body.dark-mode .box-image-text,
+body.dark-mode .panel,
+body.dark-mode .card {
+  background-color: #0f1113 !important;
+  border-color: #1f2225 !important;
+}
+
+/* Make images stand out a bit */
+body.dark-mode img {
+  filter: brightness(.95) contrast(1.02);
+}
+
+/* Dropdown menu (Bootstrap) */
+body.dark-mode .dropdown-menu {
+  background-color: #101214 !important;
+  border-color: #222 !important;
+}
+body.dark-mode .dropdown-menu > li > a {
+  color: #d9e6f8 !important;
+}
+
+/* Buttons */
+body.dark-mode .btn,
+body.dark-mode .btn-template-main {
+  background-color: #1a73ff !important;
+  color: #fff !important;
+}
+
+/* Form controls */
+body.dark-mode input,
+body.dark-mode textarea,
+body.dark-mode select {
+  background-color: #0f1113 !important;
+  color: #e6eef6 !important;
+  border-color: #2a2d30 !important;
+}
+
+/* Theme toggle button styles (placed in topbar) */
+.theme-toggle {
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+  line-height: 1;
+  text-decoration: none;
+  color: inherit;
+}
+.theme-toggle .fa {
+  font-size: 18px;
+}
+
+/* optional subtle hover */
+.theme-toggle:hover {
+  background-color: rgba(255,255,255,0.04);
+}
+
+/* mobile sizing */
+@media (max-width: 480px) {
+  .theme-toggle { width: 36px; height: 36px; }
+  .theme-toggle .fa { font-size: 16px; }
+}
+
+/* Do NOT apply dark colors to these sections */
+body.dark-mode .bar.background-white,
+body.dark-mode .bar.background-gray,
+body.dark-mode .background-white,
+body.dark-mode .background-gray {
+  background-color: inherit !important;
+  color: inherit !important;
+}
+
+/* Ensure text inside stays original */
+body.dark-mode .bar.background-white *,
+body.dark-mode .bar.background-gray *,
+body.dark-mode .background-white *,
+body.dark-mode .background-gray * {
+  color: inherit !important;
+}
+
+/* Entire services section wrapper */
+body.dark-mode .bar.background-white,
+body.dark-mode .bar.background-white * {
+  background: inherit !important;
+  color: inherit !important;
+}
+
+/* Explicitly lock headings & text */
+body.dark-mode .bar.background-white h1,
+body.dark-mode .bar.background-white h2,
+body.dark-mode .bar.background-white h3,
+body.dark-mode .bar.background-white h4,
+body.dark-mode .bar.background-white p,
+body.dark-mode .bar.background-white span,
+body.dark-mode .bar.background-white li {
+  color: inherit !important;
+}
+
+/* Prevent icons or quotes from changing */
+body.dark-mode .bar.background-white i,
+body.dark-mode .bar.background-white svg {
+  color: inherit !important;
+  fill: inherit !important;
+}
+
+/* ======================================================
+   FORCE VISIBLE HEADINGS ON LIGHT / HERO BACKGROUNDS
+   Applies the same "Services" fix to page titles (History, VISA, etc.)
+   ====================================================== */
+
+/* Page header / hero / breadcrumbs (title area) */
+body.dark-mode #heading-breadcrumbs,
+body.dark-mode #heading-breadcrumbs h1,
+body.dark-mode #heading-breadcrumbs .breadcrumb,
+body.dark-mode #heading-breadcrumbs p,
+body.dark-mode #heading-breadcrumbs .lead {
+  background-color: inherit !important;
+  color: #111111 !important;
+  opacity: 1 !important;
+  -webkit-text-fill-color: #111111 !important;
+  text-shadow: none !important;
+}
+
+/* Any .bar or background sections that are intentionally light */
+body.dark-mode #content .bar.background-white,
+body.dark-mode #content .bar.background-gray,
+body.dark-mode #content .background-white,
+body.dark-mode #content .background-gray,
+body.dark-mode .bar.background-white,
+body.dark-mode .bar.background-gray,
+body.dark-mode .background-white,
+body.dark-mode .background-gray {
+  background-color: #ffffff !important;
+  color: #222222 !important;
+  opacity: 1 !important;
+}
+
+/* Force headings (all levels) inside those light blocks to be dark and fully opaque */
+body.dark-mode #content .bar.background-white h1,
+body.dark-mode #content .bar.background-white h2,
+body.dark-mode #content .bar.background-white h3,
+body.dark-mode #content .bar.background-white h4,
+body.dark-mode #content .bar.background-white h5,
+body.dark-mode #content .bar.background-white h6,
+
+body.dark-mode #content .bar.background-gray h1,
+body.dark-mode #content .bar.background-gray h2,
+body.dark-mode #content .bar.background-gray h3,
+body.dark-mode #content .bar.background-gray h4,
+body.dark-mode #content .bar.background-gray h5,
+body.dark-mode #content .bar.background-gray h6,
+
+body.dark-mode .background-white h1,
+body.dark-mode .background-white h2,
+body.dark-mode .background-white h3,
+body.dark-mode .background-white h4,
+body.dark-mode .background-white h5,
+body.dark-mode .background-white h6,
+
+body.dark-mode .background-gray h1,
+body.dark-mode .background-gray h2,
+body.dark-mode .background-gray h3,
+body.dark-mode .background-gray h4,
+body.dark-mode .background-gray h5,
+body.dark-mode .background-gray h6 {
+  color: #111111 !important;
+  opacity: 1 !important;
+  -webkit-text-fill-color: #111111 !important;
+  text-shadow: none !important;
+}
+
+/* Subtitle / lead lines inside those blocks */
+body.dark-mode #content .bar.background-white p,
+body.dark-mode #content .bar.background-white .lead,
+body.dark-mode .bar.background-white p,
+body.dark-mode .bar.background-white .lead,
+body.dark-mode .background-white p,
+body.dark-mode .background-white .lead {
+  color: #555555 !important;
+  opacity: 1 !important;
+  -webkit-text-fill-color: #555555 !important;
+  text-shadow: none !important;
+}
+
+/* Make sure icons / quote marks inside these sections remain visible */
+body.dark-mode #content .bar.background-white i,
+body.dark-mode #content .bar.background-white svg,
+body.dark-mode .bar.background-white i,
+body.dark-mode .bar.background-white svg,
+body.dark-mode .background-white i,
+body.dark-mode .background-white svg {
+  color: #1a73e8 !important;
+  fill: #1a73e8 !important;
+  opacity: 1 !important;
+}
+
+/* Safety: remove pseudo-element dark overlays that could dim these sections */
+body.dark-mode #content .bar.background-white::before,
+body.dark-mode #content .bar.background-white::after,
+body.dark-mode .background-white::before,
+body.dark-mode .background-white::after {
+  display: none !important;
+  content: none !important;
+  opacity: 1 !important;
+}
