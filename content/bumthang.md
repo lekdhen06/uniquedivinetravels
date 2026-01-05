@@ -2,54 +2,123 @@
 title: "Bumthang"
 author: "lekdhen06"
 date: "2023-11-08"
-output: html_document
+description: "An overview of Bumthang, the cultural heartland of Bhutan, known for its sacred monasteries, valleys, and rich heritage."
+featured_image: "/images/bhutan-hero.jpg"
+tags: [Bhutan, Bumthang, Regions]
 ---
 
-Bumthang is a picturesque region in central Bhutan, known for its stunning landscapes, rich cultural heritage, and historical significance. It is often referred to as the "cultural heartland of Bhutan" due to its concentration of important monasteries, temples, and historical sites. The Bumthang Valley, which is part of this region, consists of four main valleys: Chokhor, Tang, Ura, and Chhume. Each of these valleys has its own unique attractions and cultural significance.
-Here are some key facts and information about Bumthang:
+<!-- Responsive styles safe for Hugo 0.124.1 -->
+<style>
+/* ===== HERO IMAGE (TOP) ===== */
+.hero-figure {
+  width: 100%;
+  margin: 0 0 2rem 0;
+}
+.hero-figure img {
+  width: 100%;
+  height: min(60vh, 480px);
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+}
+.hero-figure .caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
 
+/* ===== CENTER IMAGE (MIDDLE) ===== */
+.center-figure {
+  max-width: 820px;
+  margin: 2.5rem auto;
+  text-align: center;
+}
+.center-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+.center-figure .caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
 
-**Cultural Significance**
+/* ===== MOBILE OPTIMIZATION ===== */
+@media (max-width: 768px) {
+  .hero-figure img {
+    height: 38vh;
+  }
+  .center-figure {
+    padding: 0 1rem;
+  }
+}
+</style>
 
-Bumthang is home to several of Bhutan's most sacred and historically important monasteries and temples. Some of the prominent religious sites in the region include Jakar Dzong (Jakar Fortress), Jambay Lhakhang, Kurje Lhakhang, and Tamshing Lhakhang.
+<!-- TOP IMAGE (responsive on all devices) -->
+<figure class="center-figure">
+  <img src="/img/mebar-tsho.JPG" alt="A holy lake, a glowing lamp, and Pema Lingpa's divine discovery." loading="lazy">
+  <figcaption class="caption">
+    Mebar Tsho, the sacred lake where a lamp burned bright underwater.
+  </figcaption>
+</figure>
 
+Bumthang is a picturesque region in central Bhutan, widely regarded as the cultural heartland of the country. It is known for its sacred monasteries, historical sites, and scenic valleys.
+The region consists of four main valleys: Chokhor, Tang, Ura, and Chhume, each with its own cultural and historical importance.
 
-**Jakar Dzong**
+## Cultural significance
 
-Jakar Dzong, also known as the "Castle of the White Bird," is a significant administrative and religious center in Bumthang. It offers stunning panoramic views of the surrounding valleys and is an architectural marvel.
+Bumthang is home to some of Bhutan’s most important religious and historical sites.
+Notable monasteries and temples include Jakar Dzong, Jambay Lhakhang, Kurje Lhakhang, and Tamshing Lhakhang.
 
+## Jakar Dzong
 
-**Jambay Lhakhang**
+Jakar Dzong, also known as the Castle of the White Bird, serves as an important administrative and religious center in the region.
+It offers panoramic views of the surrounding valleys and is a fine example of traditional Bhutanese architecture.
 
-Jambay Lhakhang is one of the 108 monasteries built by Tibetan King Songtsen Gampo to subdue an ogress that was obstructing the spread of Buddhism. It is known for the annual Jambay Lhakhang Drup festival, featuring fire dancing and other traditional Bhutanese rituals.
+## Jambay Lhakhang
 
+Jambay Lhakhang is one of the oldest temples in Bhutan and is associated with the early spread of Buddhism.
+It is famous for the annual Jambay Lhakhang Drup festival, which features fire rituals and traditional dances.
 
-**Kurje Lhakhang**
+## Kurje Lhakhang
 
-Kurje Lhakhang is associated with Guru Rinpoche, the patron saint of Bhutan, and features a large rock with the imprint of Guru Rinpoche's body. The temple complex also includes three temples.
+Kurje Lhakhang is closely associated with Guru Rinpoche and is believed to contain the imprint of his body on a rock.
+The temple complex consists of three temples set within a peaceful natural setting.
 
+<!-- MIDDLE IMAGE (responsive & centered) -->
+<figure class="center-figure">
+  <img src="/img/kurje-lhakhang.png" alt="Kurje Lhakhang temple in Bumthang" loading="lazy">
+  <figcaption class="caption">
+    The temple houses the cave where Guru Rinpoche meditated
+  </figcaption>
+</figure>
 
-**Tamshing Lhakhang**
+## Tamshing Lhakhang
 
-Tamshing Lhakhang is one of the oldest temples in Bhutan and is known for its ancient religious paintings and scriptures. It was founded by Pema Lingpa, a famous Bhutanese saint.
+Tamshing Lhakhang is among the oldest temples in Bhutan and is known for its ancient murals and religious scriptures.
+It was founded by the Bhutanese saint Pema Lingpa.
 
+## Scenic beauty
 
-**Scenic Beauty**
+Bumthang is surrounded by lush valleys and rolling hills, making it a serene destination.
+The region offers opportunities for hiking, bird-watching, and enjoying Bhutan’s natural landscapes.
 
-Bumthang is surrounded by lush, green valleys, making it a beautiful and serene place to visit. The region offers opportunities for hiking, bird-watching, and enjoying the natural beauty of Bhutan.
+## Craftsmanship
 
+The region is known for traditional Bhutanese crafts such as weaving and woodwork.
+The Chhume Valley, in particular, is famous for its handwoven textiles.
 
-**Craftsmanship**
+## Agriculture
 
-The Bumthang region is known for its traditional Bhutanese handicrafts, including weaving, woodwork, and traditional Bhutanese fabrics. The Chhume Valley, in particular, is famous for its weaving traditions.
+Bumthang’s fertile valleys support farming activities, including the cultivation of buckwheat, barley, and apples.
+Traditional agricultural practices remain common in the region.
 
+## Festivals
 
-**Agriculture**
+Bumthang hosts several religious festivals throughout the year.
+The Jakar Tshechu is among the most prominent, featuring masked dances, rituals, and cultural performances.
 
-The fertile valleys of Bumthang support agricultural activities such as farming, especially the cultivation of buckwheat, barley, and apples. The region is also known for its Red Panda beer, which is brewed locally.
-
-
-**Festivals**
-
-Bumthang hosts various religious festivals throughout the year, including the famous Jakar Tsechu, a colorful and vibrant event featuring masked dances, religious rituals, and cultural performances.
-Bumthang is a region that offers a unique blend of cultural and natural attractions, making it a must-visit destination for travelers interested in exploring Bhutan's rich heritage and scenic beauty. 
+Bumthang offers a unique blend of spiritual heritage, natural beauty, and traditional lifestyle, making it an important destination for understanding Bhutan’s cultural roots.

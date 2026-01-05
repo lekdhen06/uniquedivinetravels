@@ -2,50 +2,118 @@
 title: "Trongsa"
 author: "lekdhen06"
 date: "2023-11-08"
-output: html_document
+description: "An overview of Trongsa, a historically and strategically important town in central Bhutan and the ancestral home of the royal family."
+featured_image: "/images/bhutan-hero.jpg"
+tags: [Bhutan, Trongsa, Towns]
 ---
 
-Trongsa is a small town located in central Bhutan, and it holds historical and strategic significance in the country's history. It is situated in the Trongsa District, which is known for its dramatic landscape, stunning architecture, and as the ancestral home of Bhutan's royal family. Here are some key facts and information about Trongsa:
+<!-- Responsive styles safe for Hugo 0.124.1 -->
+<style>
+/* ===== HERO IMAGE (TOP) ===== */
+.hero-figure {
+  width: 100%;
+  margin: 0 0 2rem 0;
+}
+.hero-figure img {
+  width: 100%;
+  height: min(60vh, 480px);
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+}
+.hero-figure .caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
 
+/* ===== CENTER IMAGE (MIDDLE) ===== */
+.center-figure {
+  max-width: 820px;
+  margin: 2.5rem auto;
+  text-align: center;
+}
+.center-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+.center-figure .caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
 
-**Strategic Location**
+/* ===== MOBILE OPTIMIZATION ===== */
+@media (max-width: 768px) {
+  .hero-figure img {
+    height: 38vh;
+  }
+  .center-figure {
+    padding: 0 1rem;
+  }
+}
+</style>
 
-Trongsa is strategically positioned at the geographic center of Bhutan. It served as a vital control point on the trade routes between western and eastern Bhutan. The town was historically important for maintaining and defending Bhutan's unity.
+<!-- TOP IMAGE (responsive on all devices) -->
+<figure class="center-figure">
+  <img src="/img/trongsa-town.jpg" alt="Trongsa town in central Bhutan" loading="lazy">
+  <figcaption class="caption">
+    Trongsa, located at the geographic heart of Bhutan
+  </figcaption>
+</figure>
 
+Trongsa is a small but historically significant town located in central Bhutan. It lies in a dramatic mountainous region and has played a vital role in shaping the country’s political and cultural history.
+The town is regarded as the ancestral home of Bhutan’s royal family.
 
-**Trongsa Dzong**
+## Strategic location
 
-One of the most iconic and historically significant structures in Trongsa is the Trongsa Dzong, also known as Trongsa Fortress or Chökhor Rabtentse Dzong. This massive dzong is perched on a ridge overlooking the Mangde Chhu River. It has played a crucial role in Bhutan's history and was the seat of power for the Wangchuck dynasty before they became the ruling monarchs of Bhutan. The dzong is an architectural masterpiece and one of the largest in the country.
+Trongsa occupies a strategic position at the geographic center of Bhutan.
+Historically, it controlled the main trade routes between eastern and western Bhutan, making it crucial for maintaining national unity.
 
+## Trongsa Dzong
 
-**Culture and Tradition**
+Trongsa Dzong, also known as Chökhor Rabtentse Dzong, is one of the most important and impressive fortresses in Bhutan.
+Perched on a ridge overlooking the Mangde Chhu river, it served as the seat of power for the Wangchuck dynasty before the establishment of the monarchy.
 
-Trongsa has a rich cultural heritage, and the locals maintain their traditional way of life. The town is known for its vibrant festivals and religious celebrations, such as the Trongsa Tsechu, which features mask dances and other traditional Bhutanese rituals.
+## Culture and traditions
 
+Trongsa has a strong cultural identity, with traditions closely tied to Bhutanese religious life.
+Festivals such as the Trongsa Tshechu are celebrated with masked dances and religious rituals.
 
-**Royal Heritage**
+## Royal heritage
 
-The Wangchuck family, which currently rules Bhutan, has deep roots in Trongsa. The first hereditary monarch of Bhutan, King Ugyen Wangchuck, was born in Trongsa and served as the Penlop (governor) of Trongsa before becoming the king.
+Trongsa holds deep significance for the Wangchuck dynasty.
+King Ugyen Wangchuck, Bhutan’s first hereditary monarch, served as the Penlop of Trongsa before ascending the throne.
 
+## Transportation link
 
-**Bumthang Road**
+Trongsa lies along Bhutan’s East–West Highway, making it an important stop for travel and trade.
+The road connects the eastern and western regions of the country through this central district.
 
-Trongsa is a significant stop on the East-West Highway of Bhutan. This road connects the western and eastern parts of the country, making Trongsa an essential transportation hub for travelers and trade.
+## Scenic beauty
 
+The surrounding region is known for its steep valleys, dense forests, and sweeping mountain views.
+The landscape offers opportunities for exploration and appreciation of Bhutan’s natural environment.
 
-**Scenic Beauty**
+## Traditional crafts
 
-The Trongsa region offers spectacular natural beauty, with lush valleys, dense forests, and picturesque landscapes. The region is ideal for hiking and exploring the pristine wilderness of Bhutan.
+Local communities in and around Trongsa practice traditional crafts such as weaving, wood carving, and textile production.
+These crafts reflect long-standing cultural skills passed down through generations.
 
+## Trongsa Museum
 
-**Traditional Crafts**
+The Ta Dzong, a former watchtower above Trongsa Dzong, has been converted into a museum.
+It houses exhibits related to Bhutan’s monarchy, history, and cultural heritage.
 
-Trongsa and its surroundings are known for traditional Bhutanese crafts, including weaving, woodwork, and textile production.
+<!-- MIDDLE IMAGE (responsive & centered) -->
+<figure class="center-figure">
+  <img src="/img/ta-dzong.jpg" alt="Ta Dzong overlooking the Trongsa Dzong" loading="lazy">
+  <figcaption class="caption">
+    Ta Dzong: Bhutan's history in a watchtower
+  </figcaption>
+</figure>
 
-
-**Trongsa Museum**
-
-The Ta Dzong (watchtower) in Trongsa has been converted into a museum that provides insights into Bhutan's history and culture. It houses a diverse collection of artifacts, photographs, and exhibits.
-
-
-Trongsa is a town that holds a special place in Bhutan's history and culture. It is a significant destination for those interested in Bhutanese heritage, stunning architecture, and the strategic importance of this central region. Travelers to Trongsa can enjoy the beautiful scenery, learn about the country's history, and immerse themselves in Bhutan's traditional way of life. 
+Trongsa remains a symbol of Bhutan’s unity, royal history, and strategic importance. Visitors to the town gain insight into the country’s past while enjoying its dramatic landscapes and traditional way of life.

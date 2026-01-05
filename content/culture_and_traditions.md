@@ -1,56 +1,117 @@
 ---
-title: "Culture & Traditions"
+title: "Culture & Traditions of Bhutan"
 author: "lekdhen06"
 date: "2023-11-08"
-output: html_document
+description: "An overview of Bhutan’s rich culture and traditions shaped by religion, history, and the philosophy of Gross National Happiness."
+featured_image: "/images/bhutan-hero.jpg"
+tags: [Bhutan, Culture, Traditions]
 ---
 
-Bhutan has a rich and unique culture that is deeply rooted in its history, religion, and the values of Gross National Happiness. Here are some key aspects of Bhutanese culture and traditions:
+<!-- Responsive styles safe for Hugo 0.124.1 -->
+<style>
+/* ===== HERO IMAGE (TOP) ===== */
+.hero-figure {
+  width: 100%;
+  margin: 0 0 2rem 0;
+}
+.hero-figure img {
+  width: 100%;
+  height: min(60vh, 480px);
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+}
+.hero-figure .caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
 
+/* ===== CENTER IMAGE (MIDDLE) ===== */
+.center-figure {
+  max-width: 820px;
+  margin: 2.5rem auto;
+  text-align: center;
+}
+.center-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+.center-figure .caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
 
-**Religion**
+/* ===== MOBILE OPTIMIZATION ===== */
+@media (max-width: 768px) {
+  .hero-figure img {
+    height: 38vh;
+  }
+  .center-figure {
+    padding: 0 1rem;
+  }
+}
+</style>
 
-Bhutan is predominantly Buddhist, and the state religion is Vajrayana Buddhism, a form of Mahayana Buddhism. It plays a central role in the daily lives of the Bhutanese people, and you'll find numerous monasteries and dzongs (fortress-monasteries) across the country.
-The Bhutanese king holds the title of "Druk Gyalpo" (Dragon King), symbolizing the country's deep connection to the Drukpa Kagyu school of Buddhism.
+<!-- TOP IMAGE (responsive on all devices) -->
+<figure class="hero-figure">
+  <img src="/img/national-dress.jpeg" alt="Bhutanese cultural life" loading="lazy">
+  <figcaption class="caption">
+    Bhutanese culture reflected in daily life and traditions
+  </figcaption>
+</figure>
 
+Bhutan has a rich and distinctive culture shaped by its history, religion, and the guiding philosophy of Gross National Happiness. Cultural traditions remain deeply rooted in everyday life and are carefully preserved.
 
-**Dress**
+## Religion
 
-Bhutanese traditional attire is known as "kira" for women and "gho" for men. These garments are made of colorful and intricately woven fabrics. Wearing traditional attire is not just a cultural practice but also a requirement in many formal and official settings.
+Bhutan is predominantly Buddhist, with Vajrayana Buddhism playing a central role in society. Monasteries and dzongs are found throughout the country and serve as important religious and administrative centers.
+The King of Bhutan holds the title *Druk Gyalpo* (Dragon King), reflecting the nation’s spiritual heritage.
 
+## Traditional dress
 
-**Architecture**
+Bhutanese traditional clothing consists of the *gho* for men and the *kira* for women. These garments are made from handwoven fabrics and are worn daily in formal and official settings.
+Traditional dress remains a strong symbol of national identity.
 
-Dzongs are prominent architectural features in Bhutan. These fortress-monasteries serve both as religious and administrative centers. They are characterized by their massive white walls, red roofs, and intricate woodwork.
-Traditional Bhutanese houses also have a unique architectural style, with elaborately painted windows and eaves.
+## Architecture
 
+Dzongs are iconic features of Bhutanese architecture, known for their massive white walls, red roofs, and detailed woodwork. They function as both monasteries and administrative offices.
+Traditional houses also feature painted windows and decorative designs unique to Bhutan.
 
-**Language**
+<!-- MIDDLE IMAGE (responsive & centered) -->
+<figure class="center-figure">
+  <img src="/img/trongsa-dzong.jpeg" alt="Traditional Bhutanese dzong architecture" loading="lazy">
+  <figcaption class="caption">
+    Dzongs serve as religious and administrative centers
+  </figcaption>
+</figure>
 
-The official language of Bhutan is Dzongkha. English is also widely spoken and is the medium of instruction in schools.
-Bhutan has a rich oral tradition, and traditional stories, songs, and legends are an integral part of its cultural heritage.
+## Language
 
+Dzongkha is the official language of Bhutan, while English is widely used and taught in schools.
+Oral traditions, including folk tales, songs, and legends, remain an important part of Bhutanese cultural heritage.
 
-**Cuisine**
+## Cuisine
 
-Bhutanese cuisine is known for its use of spices, particularly red and green chilies. A popular dish is "ema datshi," a spicy cheese and chili stew.
-Red rice is a staple food, and buckwheat noodles and dumplings are also commonly consumed.
+Bhutanese cuisine is characterized by the use of chilies and spices. *Ema datshi*, made from chilies and cheese, is a popular national dish.
+Red rice is a staple food, along with buckwheat-based dishes and traditional dumplings.
 
+## Arts and crafts
 
-**Arts and Crafts**
+Bhutan is known for its traditional arts and crafts, including weaving, wood carving, painting, and sculpture.
+Handwoven textiles and religious paintings are an important part of Bhutan’s artistic tradition.
 
-Bhutanese arts and crafts are highly regarded and include intricate woodwork, painting, weaving, and sculpture. The country is famous for its "thangka" paintings, which depict Buddhist deities and scenes.
-Bhutan is also known for its traditional mask dances and the creation of beautiful handwoven textiles.
+## Environmental conservation
 
+Environmental protection is a key cultural value in Bhutan. Conservation policies reflect the belief that environmental well-being is inseparable from human happiness.
 
-**Environmental Conservation**
+## Traditional games
 
-Bhutan is committed to environmental conservation and has a strong policy of protecting its natural resources. The concept of Gross National Happiness takes into account the well-being of the environment alongside the well-being of the people.
+Archery is the national sport of Bhutan and is deeply rooted in cultural tradition.
+Archery competitions are social events that often include music, dance, and celebration.
 
-
-**Traditional Bhutanese Games**
-
-Archery is the national sport of Bhutan, and traditional archery competitions are popular. Bhutanese archery tournaments often feature singing, dancing, and lively celebrations.
-
-
-Bhutan's culture and traditions are deeply intertwined with its values, and the country has taken measures to preserve and promote its unique cultural heritage while also embracing modernization and globalization. Visitors to Bhutan can experience the richness of this culture through its festivals, architecture, cuisine, and warm hospitality.
+Bhutan’s culture and traditions continue to thrive alongside modernization. Visitors can experience this living heritage through festivals, architecture, cuisine, and the warm hospitality of its people.

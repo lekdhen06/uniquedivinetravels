@@ -13,10 +13,10 @@
 
 
 
-<meta name="keywords" content="devcows, hugo, go">
+<meta name="keywords" content="devcows, hugo, go, Bhutan, Zhemgang, Districts">
 
 
-<meta name="description" content="Site template made by Devcows using Hugo">
+<meta name="description" content="An overview of Zhemgang, a remote district in southern Bhutan known for its forests, biodiversity, and traditional communities.">
 
 <meta name="generator" content="Hugo 0.124.1">
 
@@ -36,8 +36,8 @@
 
 
 
-<link href="/css/custom.css?1767456119" rel="stylesheet">
-
+<link href="/css/custom.css?1767605082" rel="stylesheet">
+<link href="/css/dark-mode.css" rel="stylesheet">
 
 
   <!--[if lt IE 9]>
@@ -71,7 +71,7 @@
 <meta name="twitter:site" content="@GoHugoIO">
 <meta name="twitter:title" content="Zhemgang">
 
-<meta name="twitter:description" content="Site template made by Devcows using Hugo">
+<meta name="twitter:description" content="An overview of Zhemgang, a remote district in southern Bhutan known for its forests, biodiversity, and traditional communities.">
 
 
     <link rel="stylesheet" href="/css/hero.css">
@@ -96,15 +96,31 @@
         </div>
         <div class="col-xs-7">
           <div class="social">
+
             
-            <a href="" target="_blank" style="opacity: 1;"><i class='fas fa-2x fa-phone' style='color:#1E90FF'></i></a>
+            <a href="#" id="theme-toggle" class="theme-toggle" title="Toggle dark / light">
+              <i class="fa fa-moon"></i>
+            </a>
+
             
-            <a href="https://www.facebook.com" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-facebook' style='color:#1877F2'></i></a>
             
-            <a href="https://whatsapp.com" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-whatsapp' style='color:#25D366'></i></a>
+              <a href="https://www.facebook.com" target="_blank" style="opacity: 1;">
+                <i class='fab fa-2x fa-facebook' style='color:#1877F2'></i>
+              </a>
             
-            <a href="mailto:info@uniquedivinetravels-bt.com" target="_blank" style="opacity: 1;"><i class='fas fa-2x fa-envelope' style='color:#FF4500'></i></a>
+              <a href="https://whatsapp.com" target="_blank" style="opacity: 1;">
+                <i class='fab fa-2x fa-whatsapp' style='color:#25D366'></i>
+              </a>
             
+              <a href="https://www.instagram.com" target="_blank" style="opacity: 1;">
+                <i class='fab fa-2x fa-instagram' style='color:#E4405F'></i>
+              </a>
+            
+              <a href="mailto:info@uniquedivinetravels-bt.com" target="_blank" style="opacity: 1;">
+                <i class='fas fa-2x fa-envelope' style='color:#FF4500'></i>
+              </a>
+            
+
           </div>
         </div>
       </div>
@@ -415,20 +431,90 @@
                     <div class="col-md-12">
 
                         <div>
-                          <p>Zhemgang is a district in the central part of Bhutan, a small landlocked country in the Himalayas of South Asia. It is one of the country&rsquo;s 20 administrative districts and is known for its lush forests, diverse wildlife, and pristine natural beauty. Zhemgang District is located in the southern part of Bhutan and is relatively remote and less visited compared to some of the more popular tourist destinations in the country. Here are some key facts and information about Zhemgang:</p>
-<p><strong>Geography</strong></p>
-<p>Zhemgang is situated in a hilly and mountainous region of Bhutan. The district is characterized by dense subtropical and tropical forests, and it is part of the Eastern Himalayan biodiversity hotspot, making it rich in flora and fauna.</p>
-<p><strong>Biodiversity</strong></p>
-<p>Zhemgang is renowned for its rich biodiversity and is home to several protected areas, including the Royal Manas National Park, which is a UNESCO World Heritage Site. The park is known for its diverse wildlife, including tigers, elephants, leopards, and various species of birds.</p>
-<p><strong>Culture</strong></p>
-<p>Zhemgang is home to various indigenous communities, and the culture of the region is deeply rooted in Bhutanese traditions. The local population, primarily of the Monpa and Khengpa ethnic groups, engage in agriculture, animal husbandry, and traditional crafts.</p>
-<p><strong>Attractions</strong></p>
-<p>The district offers opportunities for nature enthusiasts and trekkers to explore its pristine forests and experience the tranquil beauty of Bhutan&rsquo;s countryside. You can visit remote villages, monasteries, and experience the unique culture and lifestyle of the region.</p>
-<p><strong>Weather</strong></p>
-<p>Zhemgang experiences a subtropical climate, with warm and humid summers and milder winters. The district receives significant rainfall during the monsoon season.</p>
-<p><strong>Access</strong></p>
-<p>Access to Zhemgang can be challenging due to its relatively remote location and rugged terrain. The road network is limited, and the district is primarily connected to the rest of Bhutan through road links from nearby districts.</p>
-<p>Zhemgang District is an off-the-beaten-path destination that provides an opportunity to experience Bhutan&rsquo;s natural beauty and cultural heritage in a less-visited setting. It is an ideal place for those interested in exploring Bhutan&rsquo;s pristine wilderness and engaging with local communities.</p>
+                          <!-- Responsive styles safe for Hugo 0.124.1 -->
+<style>
+/* ===== HERO IMAGE (TOP) ===== */
+.hero-figure {
+  width: 100%;
+  margin: 0 0 2rem 0;
+}
+.hero-figure img {
+  width: 100%;
+  height: min(60vh, 480px);
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+}
+.hero-figure .caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
+
+/* ===== CENTER IMAGE (MIDDLE) ===== */
+.center-figure {
+  max-width: 820px;
+  margin: 2.5rem auto;
+  text-align: center;
+}
+.center-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+.center-figure .caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
+
+/* ===== MOBILE OPTIMIZATION ===== */
+@media (max-width: 768px) {
+  .hero-figure img {
+    height: 38vh;
+  }
+  .center-figure {
+    padding: 0 1rem;
+  }
+}
+</style>
+<!-- TOP IMAGE (responsive on all devices) -->
+<figure class="center-figure">
+  <img src="/img/manas-national-park.jpg" alt="MNP of Zhemgang" loading="lazy">
+  <figcaption class="caption">
+    Royal Manas National Park in Zhemgang District
+  </figcaption>
+</figure>
+<p>Zhemgang is a district located in the southern part of central Bhutan. It is one of the country’s more remote regions and is known for its rich forests, wildlife, and natural landscapes.
+The district is less visited than many other parts of Bhutan, offering a quieter and more traditional experience.</p>
+<h2 id="geography">Geography</h2>
+<p>Zhemgang is characterized by hilly and mountainous terrain covered with dense subtropical and tropical forests.
+The region forms part of the Eastern Himalayan ecological zone and supports a wide variety of plant life.</p>
+<h2 id="biodiversity">Biodiversity</h2>
+<p>The district is known for its high biodiversity and natural habitats.
+Zhemgang lies close to important protected areas, including Royal Manas National Park, which supports diverse wildlife species such as elephants, tigers, and many bird species.</p>
+<h2 id="culture">Culture</h2>
+<p>Zhemgang is home to several indigenous communities whose lifestyles are closely connected to nature.
+Local people rely on agriculture, animal husbandry, and traditional practices, preserving long-established Bhutanese customs.</p>
+<!-- MIDDLE IMAGE (responsive & centered) -->
+<figure class="center-figure">
+  <img src="/img/twin-waterfall.jpg" alt="Twin waterfall in Zhemgang" loading="lazy">
+  <figcaption class="caption">
+    The magnificent Twin Waterfall in Zhemgang
+  </figcaption>
+</figure>
+<h2 id="attractions">Attractions</h2>
+<p>The district offers opportunities to explore untouched forests, rural villages, and monastic sites.
+Visitors can experience the peaceful countryside and observe traditional lifestyles largely unchanged by modernization.</p>
+<h2 id="climate">Climate</h2>
+<p>Zhemgang experiences a subtropical climate with warm and humid summers.
+Winters are milder, and the region receives significant rainfall during the monsoon season.</p>
+<h2 id="accessibility">Accessibility</h2>
+<p>Due to its rugged terrain and remote location, access to Zhemgang can be challenging.
+The district is connected to other parts of Bhutan mainly through road links from neighboring districts.</p>
+<p>Zhemgang is an off-the-beaten-path destination that highlights Bhutan’s natural beauty and cultural simplicity. It is well suited for travelers seeking wilderness, biodiversity, and authentic rural experiences.</p>
 
                         </div>
 
@@ -534,6 +620,8 @@
 
 
 <script src="/js/owl.carousel.min.js"></script>
+
+<script src="/js/dark-mode.js"></script>
 
 
 

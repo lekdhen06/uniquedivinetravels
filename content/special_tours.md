@@ -103,7 +103,7 @@ Unique Divine Travels organizes a special tour for the clients who really are in
 
 -   Night halt in hotel.
 
-![Paro Taktshang - The tiger's nest](/img/Paro-taktshang.jpg){width="900"}
+![Paro Taktshang - The tiger's nest](/img/Paro-taktshang.png){width="900"}
 
 **Day 11: Depart from Paro airport**
 

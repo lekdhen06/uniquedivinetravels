@@ -2,22 +2,101 @@
 title: "Climate in Bhutan"
 author: "lekdhen06"
 date: "2023-11-07"
-output: html_document
+description: "An overview of Bhutan’s diverse climate zones and four distinct seasons shaped by altitude and geography."
+featured_image: "/images/bhutan-hero.jpg"
+tags: [Bhutan, Climate, Geography, Travel]
 ---
 
-Bhutan's climate varies with its diverse topography, which includes the southern subtropical plains, the central temperate regions, and the northern high Himalayan Mountains. Generally, Bhutan experiences four distinct seasons:
-  
-  
-  I.	Spring (March to May): Spring is a pleasant season in Bhutan when   the weather is mild and flowers are in bloom. Temperatures in the       lowlands can range from 15°C to 30°C (59°F to 86°F), while the higher   regions are cooler.
+<!-- Responsive styles safe for Hugo 0.124.1 -->
+<style>
+/* ===== HERO IMAGE (TOP) ===== */
+.hero-figure {
+  width: 100%;
+  margin: 0 0 2rem 0;
+}
+.hero-figure img {
+  width: 100%;
+  height: min(60vh, 480px);
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+}
+.hero-figure .caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
 
+/* ===== CENTER IMAGE (MIDDLE) ===== */
+.center-figure {
+  max-width: 820px;
+  margin: 2.5rem auto;
+  text-align: center;
+}
+.center-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+.center-figure .caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
 
-  II.	Summer (June to August): Bhutan's summer is the monsoon season,     with heavy rainfall in many parts of the country, especially in the     southern plains. It can be hot and humid with temperatures ranging      from 20°C to 30°C (68°F to 86°F) in the lower areas.
+/* ===== MOBILE OPTIMIZATION ===== */
+@media (max-width: 768px) {
+  .hero-figure img {
+    height: 38vh;
+  }
+  .center-figure {
+    padding: 0 1rem;
+  }
+}
+</style>
 
+Bhutan’s climate is shaped by its diverse topography, ranging from the subtropical plains in the south to the high Himalayan mountains in the north. As a result, weather conditions can vary significantly by region and elevation.
 
-  III.	Autumn (September to November): Autumn is one of the most         popular times to visit Bhutan, as the weather is clear, and the skies   are often blue. Temperatures are generally comfortable, with daytime    temperatures ranging from 15°C to 25°C (59°F to 77°F).
+## Climate zones of Bhutan
 
+- **Southern plains** experience a humid subtropical climate with warmer temperatures.
+- **Central valleys** enjoy a temperate climate with mild summers and cool winters.
+- **Northern high Himalayas** have alpine conditions with cold temperatures and snowfall.
 
-  IV.	Winter (December to February): Winters in Bhutan are cold,          especially in the higher elevations. In the capital, Thimphu,           temperatures can drop below freezing, while the southern plains are     milder. This is the dry season, and you can expect clear skies.
+## The four seasons of Bhutan
 
+Bhutan experiences four distinct seasons, each offering a unique atmosphere and travel experience.
 
-In the high Himalayan regions of Bhutan, snowfall is common during the winter months. The climate can vary significantly depending on the specific region and altitude, so it's essential to consider the time of year and your destination when planning a trip to Bhutan. Bhutan's government places a strong emphasis on environmental conservation, so it's essential for visitors to be aware of and respectful of the country's environmental policies and practices while enjoying its natural beauty.
+### Spring (March to May)
+
+Spring is one of the most pleasant seasons in Bhutan. The weather is mild, and valleys come alive with blooming flowers. Temperatures in the lowlands range from about 15°C to 30°C, while higher regions remain cooler.
+
+### Summer (June to August)
+
+Summer coincides with the monsoon season. Many areas, especially the southern plains, receive heavy rainfall. Conditions can be warm and humid, with temperatures typically between 20°C and 30°C in lower elevations.
+
+### Autumn (September to November)
+
+Autumn is among the most popular times to visit Bhutan. Clear skies, crisp air, and comfortable temperatures make it ideal for travel. Daytime temperatures generally range from 15°C to 25°C.
+
+### Winter (December to February)
+
+Winters are cold, particularly in higher elevations. In Thimphu and other central regions, temperatures can drop below freezing, while southern areas remain relatively mild. Winter is typically dry with clear skies.
+
+<!-- MIDDLE IMAGE (responsive & centered) -->
+<figure class="center-figure">
+  <img src="/img/winter-bhutan.jpg" alt="Winter season in Bhutan" loading="lazy">
+  <figcaption class="caption">
+    A scenic view of Bhutan during winter season
+  </figcaption>
+</figure>
+
+## Snowfall and regional variation
+
+Snowfall is common in the northern Himalayan regions during winter months. Due to Bhutan’s varied altitude, climate conditions can change dramatically over short distances.
+
+## Climate and environmental responsibility
+
+Bhutan places strong emphasis on environmental conservation. Visitors are encouraged to respect local environmental policies and practice responsible tourism while enjoying the country’s natural beauty.

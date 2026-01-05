@@ -2,50 +2,118 @@
 title: "Punakha"
 author: "lekdhen06"
 date: "2023-11-08"
-output: html_document
+description: "An overview of Punakha, a historically significant district of Bhutan known for its dzong, fertile valleys, and pleasant climate."
+featured_image: "/images/bhutan-hero.jpg"
+tags: [Bhutan, Punakha, Districts]
 ---
 
-Punakha is a beautiful and historically significant district in Bhutan, a landlocked Himalayan country in South Asia. It is located in the western part of Bhutan and is known for its pleasant climate, stunning landscapes, and rich cultural heritage. Punakha served as the capital of Bhutan until 1955 and remains an important administrative and religious center. Here are some key facts and information about Punakha:
+<!-- Responsive styles safe for Hugo 0.124.1 -->
+<style>
+/* ===== HERO IMAGE (TOP) ===== */
+.hero-figure {
+  width: 100%;
+  margin: 0 0 2rem 0;
+}
+.hero-figure img {
+  width: 100%;
+  height: min(60vh, 480px);
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+}
+.hero-figure .caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
 
+/* ===== CENTER IMAGE (MIDDLE) ===== */
+.center-figure {
+  max-width: 820px;
+  margin: 2.5rem auto;
+  text-align: center;
+}
+.center-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+.center-figure .caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
 
-**Punakha Dzong**
+/* ===== MOBILE OPTIMIZATION ===== */
+@media (max-width: 768px) {
+  .hero-figure img {
+    height: 38vh;
+  }
+  .center-figure {
+    padding: 0 1rem;
+  }
+}
+</style>
 
-Punakha is home to the magnificent Punakha Dzong, also known as Pungtang Dechen Phodrang Dzong or the "Palace of Great Happiness." This dzong is one of the most beautiful and historically significant fortresses in Bhutan and is situated at the confluence of the Pho Chhu (Father River) and Mo Chhu (Mother River). It is renowned for its stunning architecture, intricate woodwork, and fine murals. The dzong is the winter residence of the chief abbot of Bhutan and hosts important religious ceremonies.
+<!-- TOP IMAGE (responsive on all devices) -->
+<figure class="hero-figure">
+  <img src="/img/punakha-valley.jpeg" alt="Punakha Valley in Bhutan" loading="lazy">
+  <figcaption class="caption">
+    Punakha Valley, known for its rivers and fertile fields
+  </figcaption>
+</figure>
 
+Punakha is a historically significant district located in western Bhutan. It is known for its pleasant climate, fertile valleys, and cultural importance.
+Punakha served as the capital of Bhutan until 1955 and continues to be an important religious and administrative center.
 
-**Climate**
+## Punakha Dzong
 
-Punakha enjoys a more temperate climate compared to many other parts of Bhutan. It has a pleasant and relatively warm winter, making it a favored destination for visitors, especially during the colder months.
+Punakha Dzong, also known as Pungtang Dechen Phodrang Dzong, is one of the most impressive fortresses in Bhutan.
+Situated at the confluence of the Pho Chhu and Mo Chhu rivers, the dzong is admired for its architecture, woodwork, and murals, and serves as the winter residence of the chief abbot.
 
+## Climate
 
-**Rice Farming**
+Punakha enjoys a relatively warm and temperate climate compared to many other regions of Bhutan.
+Its mild winters make it a popular destination during the colder months.
 
-The Punakha valley is known for its fertile land, and it is one of the primary rice-growing areas in Bhutan. Visitors can see the traditional method of cultivating red rice and witness the scenic terraced fields.
+## Agriculture
 
+The Punakha Valley is one of Bhutan’s most fertile agricultural regions.
+Rice farming, particularly red rice cultivation, is widely practiced, and terraced fields shape much of the landscape.
 
-**Scenic Beauty**
+<!-- MIDDLE IMAGE (responsive & centered) -->
+<figure class="center-figure">
+  <img src="/img/punakha-dzong3.jpeg" alt="Punakha Dzong at river confluence" loading="lazy">
+  <figcaption class="caption">
+    Punakha Dzong at the confluence of the Pho Chhu and Mo Chhu rivers
+  </figcaption>
+</figure>
 
-Punakha is surrounded by picturesque landscapes, including green valleys, terraced fields, and the backdrop of the Himalayan mountains. The region is ideal for nature enthusiasts, hikers, and photographers.
+## Scenic beauty
 
+Punakha is surrounded by green valleys, rivers, and distant mountain views.
+The area is ideal for nature walks, photography, and exploring Bhutan’s rural landscapes.
 
-**Chimi Lhakhang**
+## Chimi Lhakhang
 
-This temple, also known as the "Temple of the Divine Madman," is located in Punakha and is dedicated to the eccentric Buddhist saint Drukpa Kunley, who is associated with the propagation of Buddhism and fertility.
+Chimi Lhakhang, often called the Temple of the Divine Madman, is dedicated to the Buddhist saint Drukpa Kunley.
+The temple is associated with fertility blessings and attracts both pilgrims and visitors.
 
+## Suspension bridge
 
-**Suspension Bridge**
+Punakha is home to the longest suspension bridge in Bhutan.
+Crossing the bridge offers panoramic views of the river and surrounding countryside.
 
-Punakha features the longest suspension bridge in Bhutan, known as the Punakha Suspension Bridge. It offers an exciting experience for those who enjoy crossing it while enjoying panoramic views of the river and surrounding countryside.
+## Traditional crafts
 
+The district is known for traditional crafts such as handwoven textiles and bamboo products.
+These crafts reflect the skills and cultural heritage of local communities.
 
-**Traditional Crafts**
+## Festivals
 
-Punakha is known for its traditional Bhutanese crafts, including handwoven textiles and bamboo products.
+The Punakha Tshechu is an important annual festival featuring masked dances, music, and religious rituals.
+It is one of the most vibrant cultural events in the district.
 
-
-**Festivals**
-
-The Punakha Tsechu, an annual religious festival, is celebrated with colorful mask dances, traditional music, and religious rituals. It is one of the most vibrant and important festivals in the district.
-
-
-Punakha is a destination that offers a mix of culture, history, and natural beauty. Visitors can explore the Punakha Dzong, experience the local way of life, enjoy the scenic views, and participate in cultural festivals.
+Punakha offers a harmonious blend of history, culture, and natural beauty. It provides visitors with insight into Bhutan’s royal past, rural life, and spiritual traditions.

@@ -1,47 +1,113 @@
 ---
-title: "Festivals"
+title: "Festivals of Bhutan"
 author: "lekdhen06"
 date: "2023-11-08"
-output: html_document
+description: "An overview of Bhutan’s vibrant festivals and tshechus that reflect the country’s religious and cultural traditions."
+featured_image: "/images/bhutan-hero.jpg"
+tags: [Bhutan, Festivals, Culture]
 ---
 
-Bhutan is known for its vibrant and colorful festivals, which are an integral part of the country's cultural and religious traditions. These festivals, known as "tshechus," are celebrated throughout the year, and each has its own significance and unique rituals. Here are some of the most prominent festivals in Bhutan:
+<!-- Responsive styles safe for Hugo 0.124.1 -->
+<style>
+/* ===== HERO IMAGE (TOP) ===== */
+.hero-figure {
+  width: 100%;
+  margin: 0 0 2rem 0;
+}
+.hero-figure img {
+  width: 100%;
+  height: min(60vh, 480px);
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+}
+.hero-figure .caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
 
+/* ===== CENTER IMAGE (MIDDLE) ===== */
+.center-figure {
+  max-width: 820px;
+  margin: 2.5rem auto;
+  text-align: center;
+}
+.center-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+.center-figure .caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
 
-**Paro Tshechu**
+/* ===== MOBILE OPTIMIZATION ===== */
+@media (max-width: 768px) {
+  .hero-figure img {
+    height: 38vh;
+  }
+  .center-figure {
+    padding: 0 1rem;
+  }
+}
+</style>
 
-Paro Tsechu is one of the most famous and celebrated festivals in Bhutan. It takes place in the Paro valley and features elaborate masked dances and religious rituals.
-The festival usually occurs in March or April and commemorates the arrival of Guru Rinpoche, the saint who introduced Buddhism to Bhutan.
+<!-- TOP IMAGE (responsive on all devices) -->
+<figure class="hero-figure">
+  <img src="/img/bhutanese-festival.jpg" alt="Bhutanese festival dance" loading="lazy">
+  <figcaption class="caption">
+    Masked dances performed during Bhutanese festivals
+  </figcaption>
+</figure>
 
+Bhutan is known for its vibrant and colorful festivals, which are an important part of the country’s cultural and religious life. These festivals, commonly known as *tshechus*, are held throughout the year and bring communities together through rituals, dances, and celebrations.
 
-**Thimphu Tshechu**
+## Tshechus and traditions
 
-Thimphu Tshechu is the largest festival in the capital city, Thimphu, and it takes place in September or October. The main attraction is the "unveiling of the sacred thongdrel," a large, elaborate religious banner that is unfurled at dawn.
-The festival also includes masked dances, cultural performances, and the participation of the king and the royal family.
+Tshechus are religious festivals dedicated to Guru Rinpoche, who introduced Buddhism to Bhutan. They are usually held in monasteries and dzongs and feature sacred masked dances performed by monks and lay dancers.
 
+## Major festivals in Bhutan
 
-**Punakha Drubchen and Tshechu**
+### Paro Tshechu
 
-Punakha Drubchen is a unique and more intimate festival held in the Punakha Dzong in February or March. It reenacts the historic battles fought by the Bhutanese to protect their country.
-The Punakha Tshechu immediately follows the Drubchen and is a grander and more widely attended event, featuring masked dances and traditional performances.
+Paro Tshechu is one of the most well-known festivals in Bhutan. Held in the Paro Valley, it features elaborate masked dances and religious ceremonies.
+The festival usually takes place in March or April and commemorates the arrival of Guru Rinpoche.
 
+### Thimphu Tshechu
 
-**Jambay Lhakhang Drup**
+Thimphu Tshechu is the largest festival held in the capital city. Celebrated in September or October, it is known for the unveiling of the sacred *thongdrel*, a large religious banner displayed at dawn.
+The festival also includes masked dances, cultural performances, and public gatherings.
 
-Jambay Lhakhang Drup is celebrated at the Jambay Lhakhang temple in Bumthang in October or November. The festival is known for its "Mewang," a fire ceremony where people walk over hot coals.
-The highlight is the "Tercham" (naked dance) performed by monks at night, which is believed to bless infertile women and purify them.
+<!-- MIDDLE IMAGE (responsive & centered) -->
+<figure class="center-figure">
+  <img src="/img/thimphu-tshechu.jpg" alt="Zhana Chham (dance of the black hats)" loading="lazy">
+  <figcaption class="caption">
+    Zhana Chham (dance of the black hats) during Thimphu Tshechu
+  </figcaption>
+</figure>
 
+### Punakha Drubchen and Tshechu
 
-**Wangdue Phodrang Tshechu**
+Punakha Drubchen is a unique festival held in Punakha Dzong, usually in February or March. It reenacts historic battles fought by Bhutanese warriors to protect the country.
+The Punakha Tshechu follows the Drubchen and features traditional masked dances and rituals.
 
-This annual festival is celebrated in Wangdue Phodrang in September. The highlight is the traditional and lively Raksha Mangcham dance performed by local men.
-Wangdue Phodrang Tsechu offers visitors a unique opportunity to witness Bhutanese cultural traditions up close.
+### Jambay Lhakhang Drup
 
+Jambay Lhakhang Drup is celebrated in Bumthang during October or November. The festival is known for its fire ceremony, where participants walk across burning embers.
+Another highlight is the sacred night dance performed by monks as part of purification rituals.
 
-**Haa Summer Festival**
+### Wangdue Phodrang Tshechu
 
-The Haa Summer Festival is a relatively new addition, introduced to promote the unique culture and traditions of the Haa Valley in July.
-The festival includes traditional sports, arts and crafts, and local cuisine, offering a more interactive experience for tourists.
+This festival is held annually in Wangdue Phodrang, usually in September. It is famous for lively masked dances and local participation.
+The event offers visitors a close look at regional Bhutanese traditions.
 
+### Haa Summer Festival
 
-These are just a few of the many festivals celebrated in Bhutan throughout the year. Attending a Bhutanese festival is an excellent way to immerse yourself in the country's rich culture and witness traditional dances, rituals, and vibrant costumes. The dates of these festivals may vary slightly from year to year, so it's a good idea to check with local authorities or tour operators for the most up-to-date information if you plan to attend one.
+The Haa Summer Festival is a more recent celebration introduced to promote the culture of the Haa Valley. Held in July, it showcases traditional sports, crafts, music, and local cuisine.
+
+Attending a Bhutanese festival offers a unique opportunity to experience the country’s living culture, traditional rituals, and community spirit. Festival dates may vary each year, so visitors are encouraged to check locally when planning their visit.

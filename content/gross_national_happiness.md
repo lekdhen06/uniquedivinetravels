@@ -2,61 +2,127 @@
 title: "Gross National Happiness (GNH)"
 author: "lekdhen06"
 date: "2023-11-11"
-output: html_document
+description: "An overview of Bhutan’s Gross National Happiness philosophy — a holistic development model prioritizing well-being over economic growth."
+featured_image: "/images/bhutan-hero.jpg"
+tags: [Bhutan, GNH, Development, Culture]
 ---
 
-**Gross National Happiness (GNH)** is a unique approach to measuring the well-being and development of a country, and it is associated with Bhutan. The concept was introduced by the Fourth King of Bhutan, King Jigme Singye Wangchuck, in the 1970s as a way to prioritize the overall happiness and well-being of the Bhutanese people over purely economic indicators.
+<!-- Responsive styles safe for Hugo 0.124.1 -->
+<style>
+/* ===== HERO IMAGE (TOP) ===== */
+.hero-figure {
+  width: 100%;
+  margin: 0 0 2rem 0;
+}
+.hero-figure img {
+  width: 100%;
+  height: min(60vh, 480px);
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+}
+.hero-figure .caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
 
+/* ===== CENTER IMAGE (MIDDLE) ===== */
+.center-figure {
+  max-width: 820px;
+  margin: 2.5rem auto;
+  text-align: center;
+}
+.center-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+.center-figure .caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
 
-The GNH framework consists of nine domains, which are used to evaluate the overall happiness and well-being of the people of Bhutan:
+/* ===== MOBILE OPTIMIZATION ===== */
+@media (max-width: 768px) {
+  .hero-figure img {
+    height: 38vh;
+  }
+  .center-figure {
+    padding: 0 1rem;
+  }
+}
+</style>
 
+<!-- TOP IMAGE (responsive on all devices) -->
+<figure class="hero-figure">
+  <img src="/img/founder-of-gnh.jpg" alt="Gross National Happiness in Bhutan" loading="lazy">
+  <figcaption class="caption">
+    The founder of Gross National Happiness — Bhutan’s holistic development philosophy
+  </figcaption>
+</figure>
 
-**1. Psychological well-being** 
+**Gross National Happiness (GNH)** is a unique development philosophy associated with Bhutan. Introduced in the 1970s by the Fourth King, Jigme Singye Wangchuck, GNH emphasizes the overall happiness and well-being of people rather than focusing solely on economic growth.
 
-This includes factors such as spirituality, mental health, and the overall happiness of individuals.
+## Origin of Gross National Happiness
 
+The concept of GNH was coined to ensure that modernization and development do not come at the cost of cultural values, environmental sustainability, and spiritual well-being. It reflects Bhutan’s belief that true progress must be balanced and inclusive.
 
-**2. Health** 
+## The nine domains of GNH
 
-The focus is on both physical and mental well-being, and access to healthcare services.
+Bhutan evaluates the happiness and well-being of its citizens through nine interconnected domains.
 
+<!-- MIDDLE IMAGE (responsive & centered) -->
+<figure class="center-figure">
+  <img src="/img/nine-domains-of-gnh.jpg" alt="Nine domains of Gross National Happiness" loading="lazy">
+  <figcaption class="caption">
+    The nine domains used to measure Gross National Happiness
+  </figcaption>
+</figure>
 
-**3. Education**
+### 1. Psychological well-being
 
-This involves not only formal education but also the promotion of cultural and spiritual values.
+This domain includes mental health, emotional balance, spirituality, and overall life satisfaction.
 
+### 2. Health
 
-**4. Time use** 
+Focuses on physical and mental well-being, along with access to quality healthcare services.
 
-This domain assesses the balance between work, leisure, and other activities.
+### 3. Education
 
+Covers formal education as well as informal learning, cultural knowledge, and moral values.
 
-**5. Cultural diversity and resilience** 
+### 4. Time use
 
-Emphasizes the importance of preserving Bhutanese culture and traditions.
+Assesses how individuals balance work, leisure, family, and rest in their daily lives.
 
+### 5. Cultural diversity and resilience
 
-**6. Good governance** 
+Emphasizes the preservation and promotion of Bhutanese culture, traditions, and identity.
 
-Evaluates the effectiveness and fairness of the government and other institutions.
+### 6. Good governance
 
+Measures trust in institutions, fairness, transparency, and the effectiveness of governance.
 
-**7. Community vitality** 
+### 7. Community vitality
 
-Measures the strength of social and community networks.
+Evaluates the strength of family ties, community relationships, and social support systems.
 
+### 8. Ecological diversity and resilience
 
-**8. Ecological diversity and resilience**
+Highlights environmental conservation, sustainable resource use, and ecological protection.
 
-Stresses the significance of environmental conservation and sustainable development.
+### 9. Living standards
 
+Considers income, housing, and material conditions while maintaining balance with non-material values.
 
-**9. Living standards** 
+## GNH in policy and practice
 
-This domain considers both material and non-material aspects of well-being, aiming for a balance between economic development and spiritual, cultural, and social values.
+Bhutan uses national surveys and indicators based on these domains to guide government policies and development planning. The framework helps ensure that progress benefits society as a whole.
 
+## Balancing happiness and development
 
-Bhutan uses surveys and other mechanisms to assess the well-being of its citizens across these domains, and the government uses the results to guide policy decisions. The GNH framework has gained international attention as an alternative development model that prioritizes holistic well-being over purely economic growth.
-
-
-It's important to note that while Bhutan emphasizes Gross National Happiness, it does not mean that the country ignores economic development. The idea is to balance economic progress with the well-being of its citizens and the preservation of cultural and environmental values.
+While Bhutan prioritizes Gross National Happiness, it does not ignore economic development. Instead, the goal is to balance economic growth with social harmony, cultural preservation, and environmental sustainability.

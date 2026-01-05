@@ -13,10 +13,10 @@
 
 
 
-<meta name="keywords" content="devcows, hugo, go">
+<meta name="keywords" content="devcows, hugo, go, Bhutan, Nature, Landscapes">
 
 
-<meta name="description" content="Site template made by Devcows using Hugo">
+<meta name="description" content="A visual overview of Bhutan showcasing its landscapes, villages, mountains, and natural beauty.">
 
 <meta name="generator" content="Hugo 0.124.1">
 
@@ -36,8 +36,8 @@
 
 
 
-<link href="/css/custom.css?1767456119" rel="stylesheet">
-
+<link href="/css/custom.css?1767605082" rel="stylesheet">
+<link href="/css/dark-mode.css" rel="stylesheet">
 
 
   <!--[if lt IE 9]>
@@ -71,7 +71,7 @@
 <meta name="twitter:site" content="@GoHugoIO">
 <meta name="twitter:title" content="Bhutan at a glance">
 
-<meta name="twitter:description" content="Site template made by Devcows using Hugo">
+<meta name="twitter:description" content="A visual overview of Bhutan showcasing its landscapes, villages, mountains, and natural beauty.">
 
 
     <link rel="stylesheet" href="/css/hero.css">
@@ -96,15 +96,31 @@
         </div>
         <div class="col-xs-7">
           <div class="social">
+
             
-            <a href="" target="_blank" style="opacity: 1;"><i class='fas fa-2x fa-phone' style='color:#1E90FF'></i></a>
+            <a href="#" id="theme-toggle" class="theme-toggle" title="Toggle dark / light">
+              <i class="fa fa-moon"></i>
+            </a>
+
             
-            <a href="https://www.facebook.com" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-facebook' style='color:#1877F2'></i></a>
             
-            <a href="https://whatsapp.com" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-whatsapp' style='color:#25D366'></i></a>
+              <a href="https://www.facebook.com" target="_blank" style="opacity: 1;">
+                <i class='fab fa-2x fa-facebook' style='color:#1877F2'></i>
+              </a>
             
-            <a href="mailto:info@uniquedivinetravels-bt.com" target="_blank" style="opacity: 1;"><i class='fas fa-2x fa-envelope' style='color:#FF4500'></i></a>
+              <a href="https://whatsapp.com" target="_blank" style="opacity: 1;">
+                <i class='fab fa-2x fa-whatsapp' style='color:#25D366'></i>
+              </a>
             
+              <a href="https://www.instagram.com" target="_blank" style="opacity: 1;">
+                <i class='fab fa-2x fa-instagram' style='color:#E4405F'></i>
+              </a>
+            
+              <a href="mailto:info@uniquedivinetravels-bt.com" target="_blank" style="opacity: 1;">
+                <i class='fas fa-2x fa-envelope' style='color:#FF4500'></i>
+              </a>
+            
+
           </div>
         </div>
       </div>
@@ -415,15 +431,89 @@
                     <div class="col-md-12">
 
                         <div>
-                          <p><img src="/img/Dangchu-village.JPG" alt="Dangchu Village">{width=&ldquo;900&rdquo;}</p>
-<p><img src="/img/Himalayan-mountain-ranges.JPG" alt="Himalayan mountain ranges">{width=&ldquo;900&rdquo; height=&ldquo;676&rdquo;}</p>
-<p><img src="/img/Lake.JPG" alt="Lake">{width=&ldquo;900&rdquo;}</p>
-<p><img src="/img/Merak.JPG" alt="Merak village">{width=&ldquo;900&rdquo;}</p>
-<p><img src="/img/Mountain.JPG" alt="Mountain">{width=&ldquo;900&rdquo;}</p>
-<p><img src="/img/Namling-waterfall.JPG" alt="Waterall in Namling cliff">{width=&ldquo;900&rdquo; height=&ldquo;900&rdquo;}</p>
-<p><img src="/img/snow-mountains.jpg" alt="Snow mountains">{width=&ldquo;900&rdquo;}</p>
-<p><img src="/img/Snow-on-trees.JPG" alt="Trees with snow resting atop in Ura, Bumthang">{width=&ldquo;750&rdquo; height=&ldquo;900&rdquo;}</p>
-<p><img src="/img/Terrace.JPG" alt="Terrace">{width=&ldquo;900&rdquo;}</p>
+                          <!-- Responsive styles safe for Hugo 0.124.1 -->
+<style>
+/* ===== CENTER IMAGE (USED FOR ALL IMAGES) ===== */
+.center-figure {
+  max-width: 820px;
+  margin: 2.5rem auto;
+  text-align: center;
+}
+.center-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+.center-figure .caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
+
+/* ===== MOBILE OPTIMIZATION ===== */
+@media (max-width: 768px) {
+  .center-figure {
+    padding: 0 1rem;
+  }
+}
+</style>
+<!-- TOP IMAGE (same style as others) -->
+<figure class="center-figure">
+  <img src="/img/Dangchu-village.JPG" alt="Dangchu Village" loading="lazy">
+  <figcaption class="caption">
+    Dangchu Village, showcasing Bhutan’s rural landscape
+  </figcaption>
+</figure>
+<!-- MIDDLE IMAGE -->
+<figure class="center-figure">
+  <img src="/img/Himalayan-mountain-ranges.JPG" alt="Himalayan mountain ranges" loading="lazy">
+  <figcaption class="caption">
+    Himalayan mountain ranges stretching across Bhutan
+  </figcaption>
+</figure>
+<figure class="center-figure">
+  <img src="/img/Lake.JPG" alt="Lake in Bhutan" loading="lazy">
+  <figcaption class="caption">
+    A serene lake nestled in Bhutan’s highlands
+  </figcaption>
+</figure>
+<figure class="center-figure">
+  <img src="/img/Merak.JPG" alt="Merak village" loading="lazy">
+  <figcaption class="caption">
+    Merak village in eastern Bhutan
+  </figcaption>
+</figure>
+<figure class="center-figure">
+  <img src="/img/Mountain.JPG" alt="Mountain landscape" loading="lazy">
+  <figcaption class="caption">
+    Mountain landscapes defining Bhutan’s terrain
+  </figcaption>
+</figure>
+<figure class="center-figure">
+  <img src="/img/Namling-waterfall.JPG" alt="Waterfall in Namling cliff" loading="lazy">
+  <figcaption class="caption">
+    Waterfall cascading down the Namling cliff
+  </figcaption>
+</figure>
+<figure class="center-figure">
+  <img src="/img/snow-mountains.jpg" alt="Snow mountains" loading="lazy">
+  <figcaption class="caption">
+    Snow-covered mountains during winter
+  </figcaption>
+</figure>
+<figure class="center-figure">
+  <img src="/img/Snow-on-trees.JPG" alt="Snow on trees in Ura, Bumthang" loading="lazy">
+  <figcaption class="caption">
+    Snow resting atop trees in Ura, Bumthang
+  </figcaption>
+</figure>
+<figure class="center-figure">
+  <img src="/img/Terrace.JPG" alt="Terraced fields" loading="lazy">
+  <figcaption class="caption">
+    Terraced fields shaped by traditional farming
+  </figcaption>
+</figure>
 
                         </div>
 
@@ -529,6 +619,8 @@
 
 
 <script src="/js/owl.carousel.min.js"></script>
+
+<script src="/js/dark-mode.js"></script>
 
 
 

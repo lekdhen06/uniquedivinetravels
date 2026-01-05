@@ -13,10 +13,10 @@
 
 
 
-<meta name="keywords" content="devcows, hugo, go">
+<meta name="keywords" content="devcows, hugo, go, Bhutan, Paro, Cities">
 
 
-<meta name="description" content="Site template made by Devcows using Hugo">
+<meta name="description" content="An overview of Paro, a scenic town in western Bhutan known for its cultural heritage, natural beauty, and international airport.">
 
 <meta name="generator" content="Hugo 0.124.1">
 
@@ -36,8 +36,8 @@
 
 
 
-<link href="/css/custom.css?1767456119" rel="stylesheet">
-
+<link href="/css/custom.css?1767605082" rel="stylesheet">
+<link href="/css/dark-mode.css" rel="stylesheet">
 
 
   <!--[if lt IE 9]>
@@ -71,7 +71,7 @@
 <meta name="twitter:site" content="@GoHugoIO">
 <meta name="twitter:title" content="Paro">
 
-<meta name="twitter:description" content="Site template made by Devcows using Hugo">
+<meta name="twitter:description" content="An overview of Paro, a scenic town in western Bhutan known for its cultural heritage, natural beauty, and international airport.">
 
 
     <link rel="stylesheet" href="/css/hero.css">
@@ -96,15 +96,31 @@
         </div>
         <div class="col-xs-7">
           <div class="social">
+
             
-            <a href="" target="_blank" style="opacity: 1;"><i class='fas fa-2x fa-phone' style='color:#1E90FF'></i></a>
+            <a href="#" id="theme-toggle" class="theme-toggle" title="Toggle dark / light">
+              <i class="fa fa-moon"></i>
+            </a>
+
             
-            <a href="https://www.facebook.com" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-facebook' style='color:#1877F2'></i></a>
             
-            <a href="https://whatsapp.com" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-whatsapp' style='color:#25D366'></i></a>
+              <a href="https://www.facebook.com" target="_blank" style="opacity: 1;">
+                <i class='fab fa-2x fa-facebook' style='color:#1877F2'></i>
+              </a>
             
-            <a href="mailto:info@uniquedivinetravels-bt.com" target="_blank" style="opacity: 1;"><i class='fas fa-2x fa-envelope' style='color:#FF4500'></i></a>
+              <a href="https://whatsapp.com" target="_blank" style="opacity: 1;">
+                <i class='fab fa-2x fa-whatsapp' style='color:#25D366'></i>
+              </a>
             
+              <a href="https://www.instagram.com" target="_blank" style="opacity: 1;">
+                <i class='fab fa-2x fa-instagram' style='color:#E4405F'></i>
+              </a>
+            
+              <a href="mailto:info@uniquedivinetravels-bt.com" target="_blank" style="opacity: 1;">
+                <i class='fas fa-2x fa-envelope' style='color:#FF4500'></i>
+              </a>
+            
+
           </div>
         </div>
       </div>
@@ -415,23 +431,90 @@
                     <div class="col-md-12">
 
                         <div>
-                          <p>Paro is a picturesque town in the Kingdom of Bhutan, a small Himalayan country in South Asia. It is located in the western part of Bhutan, not far from the capital city, Thimphu. Paro is renowned for its stunning natural beauty, historical and cultural attractions, and it is home to Bhutan&rsquo;s sole international airport, making it a common entry point for visitors to the country.
-Here are some key facts and information about Paro:</p>
-<p><strong>I.	Airport</strong>
-Paro is home to Paro International Airport, which is Bhutan&rsquo;s           only international airport. The airport is known for its                challenging approach, as it is nestled in a narrow valley               surrounded by high mountains. Only a limited number of pilots           are certified to land at this airport.</p>
-<p><strong>II.	Natural Beauty</strong>
-Paro is situated in a scenic valley with the Paro Chhu River            flowing through it. The town is surrounded by lush green hills          and is known for its pristine landscapes and beautiful forests.         The area is also home to many sacred sites and temples,                 including the famous Taktsang Monastery (Tiger&rsquo;s Nest), which           clings to a cliff high above the valley.</p>
-<p><strong>III. Cultural Attractions</strong>
-Paro is rich in cultural heritage and features several important         historical and religious sites. The Paro Dzong, also known as           Rinpung Dzong, is a prominent fortress and monastery that serves         as an administrative and religious center. The annual Paro              Tshechu, a colorful religious festival, is celebrated here.</p>
-<p><strong>IV.	Traditional Architecture</strong>
-Paro is known for its traditional Bhutanese architecture with           intricately designed buildings, colorful wooden facades, and            ornate decorations. The town&rsquo;s architecture reflects Bhutan&rsquo;s           commitment to preserving its unique cultural identity.</p>
-<p><strong>V.	Tourism</strong>
-Paro is a popular destination for tourists visiting Bhutan. The         town offers various outdoor activities, such as hiking,                 trekking, and bird-watching. The Taktsang Monastery is a major          attraction and a common hiking destination for visitors,                although it involves a challenging uphill trek.</p>
-<p><strong>VI.  Agriculture</strong>
-The Paro valley is known for its fertile agricultural land,             where farmers cultivate a variety of crops, including rice,             apples, and other fruits. Traditional farming methods are still         prevalent in the region.</p>
-<p><strong>VII.	Climate</strong>
-Paro has a temperate climate with distinct seasons. Summers are         relatively mild, while winters can be quite cold, and snowfall          is not uncommon, especially in the higher elevations.</p>
-<p>Paro is a serene and culturally rich town that offers a glimpse into Bhutan&rsquo;s traditions and natural beauty. It&rsquo;s an ideal place for travelers looking to explore Bhutan&rsquo;s cultural heritage and its stunning mountainous landscapes.</p>
+                          <!-- Responsive styles safe for Hugo 0.124.1 -->
+<style>
+/* ===== HERO IMAGE (TOP) ===== */
+.hero-figure {
+  width: 100%;
+  margin: 0 0 2rem 0;
+}
+.hero-figure img {
+  width: 100%;
+  height: min(60vh, 480px);
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+}
+.hero-figure .caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
+
+/* ===== CENTER IMAGE (MIDDLE) ===== */
+.center-figure {
+  max-width: 820px;
+  margin: 2.5rem auto;
+  text-align: center;
+}
+.center-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+.center-figure .caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
+
+/* ===== MOBILE OPTIMIZATION ===== */
+@media (max-width: 768px) {
+  .hero-figure img {
+    height: 38vh;
+  }
+  .center-figure {
+    padding: 0 1rem;
+  }
+}
+</style>
+<!-- TOP IMAGE (responsive on all devices) -->
+<figure class="hero-figure">
+  <img src="/img/paro-valley.jpeg" alt="Paro Valley in Bhutan" loading="lazy">
+  <figcaption class="caption">
+    Paro Valley, one of the most scenic regions in Bhutan
+  </figcaption>
+</figure>
+<p>Paro is a picturesque town in western Bhutan, located not far from the capital city, Thimphu. It is renowned for its natural beauty, cultural landmarks, and as the main international gateway to the country.</p>
+<h2 id="airport">Airport</h2>
+<p>Paro is home to Bhutan’s only international airport. The airport is famous for its challenging approach, as it lies in a narrow valley surrounded by high mountains.
+Only a limited number of specially trained pilots are certified to land here.</p>
+<h2 id="natural-beauty">Natural beauty</h2>
+<p>Paro lies in a fertile valley through which the Paro Chhu river flows. The region is surrounded by forested hills and sacred sites.
+One of the most iconic landmarks is the Taktsang Monastery, also known as Tiger’s Nest, perched dramatically on a cliff above the valley.</p>
+<h2 id="cultural-attractions">Cultural attractions</h2>
+<p>Paro has a rich cultural heritage with several important religious and historical sites.
+Rinpung Dzong, also known as Paro Dzong, serves as both an administrative and monastic center. The annual Paro Tshechu festival is also held here.</p>
+<!-- MIDDLE IMAGE (responsive & centered) -->
+<figure class="center-figure">
+  <img src="/img/paro-taktshang.jpg" alt="Taktshang Monastery (Tiger’s Nest)" loading="lazy">
+  <figcaption class="caption">
+    Taktshang Monastery overlooking the Paro Valley
+  </figcaption>
+</figure>
+<h2 id="traditional-architecture">Traditional architecture</h2>
+<p>Paro is known for its traditional Bhutanese architecture, featuring intricately designed buildings, colorful wooden facades, and ornate decorations.
+The town reflects Bhutan’s commitment to preserving its cultural identity.</p>
+<h2 id="tourism">Tourism</h2>
+<p>Paro is a popular destination for visitors to Bhutan. The area offers hiking, trekking, bird-watching, and cultural sightseeing.
+The hike to Taktsang Monastery is one of the most popular activities for travelers.</p>
+<h2 id="agriculture">Agriculture</h2>
+<p>The Paro Valley is known for its fertile agricultural land. Farmers cultivate crops such as rice, apples, and other fruits using both traditional and modern farming methods.</p>
+<h2 id="climate">Climate</h2>
+<p>Paro experiences a temperate climate with distinct seasons. Summers are generally mild, while winters can be cold, with snowfall occurring in higher elevations.</p>
+<p>Paro offers a blend of natural beauty, cultural richness, and traditional lifestyle. It provides visitors with a deep insight into Bhutan’s heritage and mountainous landscapes.</p>
 
                         </div>
 
@@ -537,6 +620,8 @@ Paro has a temperate climate with distinct seasons. Summers are         relative
 
 
 <script src="/js/owl.carousel.min.js"></script>
+
+<script src="/js/dark-mode.js"></script>
 
 
 
