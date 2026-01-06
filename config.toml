@@ -206,7 +206,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name = "FAQ"
     identifier = "menu.faq"
-    url = "/faq/"
+    url = "/faq"
     weight = 7
 
 [[menu.main]]

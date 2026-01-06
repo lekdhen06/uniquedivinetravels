@@ -2,8 +2,11 @@
 title: "About Us"
 author: "lekdhen06"
 date: "2023-12-10"
-output: html_document
+description: "About Unique Divine Travels, its vision, values, and team."
+featured_image: "/images/bhutan-hero.jpg"
+tags: [Bhutan, About Us, Travel Company]
 ---
+
 
 **Our Vision: Selfless Quality Services**
 

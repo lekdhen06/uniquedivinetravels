@@ -2,54 +2,97 @@
 title: "Community-based Ecotourism"
 author: "lekdhen06"
 date: "2023-11-08"
-output: html_document
+description: "Community-based ecotourism experiences offered by Unique Divine Travels through the Nabji Trail."
+featured_image: "/images/bhutan-hero.jpg"
+tags: [Bhutan, Ecotourism, Community Tourism]
 ---
+
+<!-- Responsive styles safe for Hugo 0.124.1 -->
+<style>
+/* ===== HERO IMAGE (TOP) ===== */
+.hero-figure {
+  width: 100%;
+  margin: 0 0 2rem 0;
+}
+.hero-figure img {
+  width: 100%;
+  height: min(60vh, 480px);
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+}
+.hero-figure .caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
+
+/* ===== CENTER IMAGE (MIDDLE) ===== */
+.center-figure {
+  max-width: 820px;
+  margin: 2.5rem auto;
+  text-align: center;
+}
+.center-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+.center-figure .caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
+
+/* ===== MOBILE OPTIMIZATION ===== */
+@media (max-width: 768px) {
+  .hero-figure img {
+    height: 38vh;
+  }
+  .center-figure {
+    padding: 0 1rem;
+  }
+}
+</style>
 
 **……“UD Travels Walks Extra Miles for You”………**
 
-
 **Community-based Ecotourism**
 
-
 Unique Divine Travels focuses on community-based ecotourism in national parks with a prime reason to offer opportunity for tourists who really are interested to explore wilderness associated with traditional socio-cultural integrity in rural community settings. A community-based ecotourism we focus on is Nabji-trail that goes across five villages of native inhabitants of Bhutan called Monpas.
-
 
 **Season: March to May and September to December**
 
 **Day 1: Arrive in Paro**
 
--	Reception at the airport by our guide and driver;
+- Reception at the airport by our guide and driver;
+- Visit Ta Dzong (watch tower) which is transformed into a fascinating museum that showcases Bhutanese rich art and artifacts;
+- Drive to Thimphu, if time permits visit Jigme Dorji National Park for birding;
+- Stroll Thimphu city in the evening; and  
+- Night halt in hotel at Thimphu.
 
--	Visit Ta Dzong (watch tower) which is transformed into a fascinating museum that showcases Bhutanese rich art and artifacts;
+**Day 2: Drive to Trongsa**
 
--	Drive to Thimphu, if time permits visit Jigme Dorji National Park for birding;
-
--	Stroll Thimphu city in the evening; and  
-
--	Night halt in hotel at Thimphu.
-
-
-**Day 2: Drive to Trongsa** 
-
--	Stop at Dochu La where there are 108 stupas for pictures; 
-
--	Occasional stops for pictures, especially at Pele La; 
-
--	Continue to Trongsa; and 
-
--	Night halt in hotel at Trongsa.
-
+- Stop at Dochu La where there are 108 stupas for pictures; 
+- Occasional stops for pictures, especially at Pele La; 
+- Continue to Trongsa; and 
+- Night halt in hotel at Trongsa.
 
 **Day 3: Drive to Langthil and start trekking from Tongtophy (950 m) to Jangbi village (1350 m)**
 
 Distance from Tongtophey to Jangbi: 7-10 km which is about 3-4 hours walk.
 
-
-![Rufous-necked Hornbill](/img/Rufous-necked-hornbill.jpg){width="800"}
-
+<!-- MIDDLE IMAGE (responsive & centered) -->
+<figure class="center-figure">
+  <img src="/img/rufous-necked-hornbill.jpg" alt="Rufous-necked Hornbill" loading="lazy">
+  <figcaption class="caption">
+    Rufous-necked Hornbill along the Nabji Trail
+  </figcaption>
+</figure>
 
 - The first day trek starts with 59 km drive to Tongtophey, a start point of Nabji Trail. From Tongtophy the trek will be a mild descent of 500 meters and that will bring you to the bridge crossing Mangdi chu. After that you ascend a gentle slope and reach the base of the steep slope where you will be received with the welcome tea by the community from Jangbi. Thereafter, you will ascend a steep slope about 950 meters to reach the destination. Here you will also find more information on the Monpas and their Cane and Bamboo Project. Camp will be set near Jangbi village with a beautiful view over the valley and Mangde Chhu
-
 
 **Day 4: Jangbi to Kuda (1500m) via Phrumzur where you come across Phurpa Ney, Uzha Ney and Guru’s Zhabji at Ugyen Drak**
 
@@ -61,91 +104,78 @@ Total distance: 13-14 km; 7-8 hours walk
 
 - Kuda village consists only 3 households, but Monpas living here are very happy to welcome you at their campsite. You will see a beautiful view of Nimshong village and Zhemgang town at the eastern side of the Mangdi chhu from the campsite.
 
-
 **Day 5: Kudra to Nabji (1350 m); Enroute via Rangtha Ney and Zhug Thri**
 
 Total distance: 11-14 km; about 6-7 hours walk
 
-- Our trek today starts on a trail to Nabji village. Nabji is situated at an elevation of about 1,350m, around 6 - 7 hours walk from Kuda. Along the way you will find traces of Guru Rimpoche. Similarly, varied landmark of Guru Rimpoche such as imprint of his genetical organ on the rock (Rangtha Ney) after 30 minutes walk from the campsite towards Nabji will be encountered. The habitat you traverse is a home for tigers, leopards and sloth bear (though it is very rare to spot them, droppings and scrape can be found). Once you are at the campsite, you will be welcomed by the tourism management committee. If you desire to experience hot stone bath, facility is readily available. 
+- Our trek today starts on a trail to Nabji village. Nabji is situated at an elevation of about 1,350m, around 6 - 7 hours walk from Kuda. Along the way you will find traces of Guru Rimpoche. Similarly, varied landmark of Guru Rimpoche such as imprint of his genetical organ on the rock (Rangtha Ney) after 30 minutes walk from the campsite towards Nabji will be encountered. The habitat you traverse is a home for tigers, leopards and sloth bear (though it is very rare to spot them, droppings and scrape can be found). Once you are at the campsite, you will be welcomed by the tourism management committee. If you desire to experience hot stone bath, facility is readily available.
 
-- Nabji village consists of 55 households and an approximate population of 400 people. The village is situated on a foothill above terraced fields of rice. Early in the morning, the village guide, on the way to Korphu, will take you to the local temple at Nabji. The temple of Nabji –which means ‘promising’ or ‘oath’- harbours the stone pillar to mark the peace between Bumthang and Assam Kings. In the village you can find rock remains of a blacksmith (one of the reincarnations of Pema Lingpa). 
+- Nabji village consists of 55 households and an approximate population of 400 people. The village is situated on a foothill above terraced fields of rice. Early in the morning, the village guide, on the way to Korphu, will take you to the local temple at Nabji. The temple of Nabji –which means ‘promising’ or ‘oath’- harbours the stone pillar to mark the peace between Bumthang and Assam Kings. In the village you can find rock remains of a blacksmith (one of the reincarnations of Pema Lingpa).
 
-
-![Lush paddy field below Nabji village](/img/Nabji-village.jpg){width="800"}
-
+<!-- MIDDLE IMAGE (responsive & centered) -->
+<figure class="center-figure">
+  <img src="/img/nabji-village.jpg" alt="Lush paddy field below Nabji village" loading="lazy">
+  <figcaption class="caption">
+    Lush paddy field below Nabji village
+  </figcaption>
+</figure>
 
 **Day 6: Nabji to Korphu (1500 m); Korphu origin**
 
-Total distance: 9.5-13km; 4-5 hours walk 
+Total distance: 9.5-13km; 4-5 hours walk
 
-- From the base camp in Nabji, we will do a day hike to Korphu village from where you will have the wonderful view of Naji village situated right atop beautiful terraces cultivated by the communities.  If you desire to make halt in the Korphu campsite facility are available as good as in rest of the campsites. 
+- From the base camp in Nabji, we will do a day hike to Korphu village from where you will have the wonderful view of Naji village situated right atop beautiful terraces cultivated by the communities. If you desire to make halt in the Korphu campsite facility are available as good as in rest of the campsites.
 
-- Korphu is situated on ridge atop at an altitude of 1,500 m. The village consists of 76 households, with an approximate population of 600 people. It is a spectacular hike uphill, and the view from the clustered village of Korphu is breathtaking. It is possible to visit Korphu’s temple, which houses the sacred relics of Pema Lingpa. A packed lunch will be provided in the campsite village. In the mid-afternoon, we hike back to Nabji or go for birding if you are making a halt. 
+- Korphu is situated on ridge atop at an altitude of 1,500 m. The village consists of 76 households, with an approximate population of 600 people. It is a spectacular hike uphill, and the view from the clustered village of Korphu is breathtaking. It is possible to visit Korphu’s temple, which houses the sacred relics of Pema Lingpa. A packed lunch will be provided in the campsite village. In the mid-afternoon, we hike back to Nabji or go for birding if you are making a halt.
 
-
-![Korphu village](/img/Korphu-village.jpg){width="800"}
-
+<!-- MIDDLE IMAGE (responsive & centered) -->
+<figure class="center-figure">
+  <img src="/img/korphu-village.jpg" alt="Korphu village" loading="lazy">
+  <figcaption class="caption">
+    Korphu village
+  </figcaption>
+</figure>
 
 **Day 7: Nabji to Nimshong (1310 m)**
 
-Total distance: about 13km; 5-6 hours walk 
+Total distance: about 13km; 5-6 hours walk
 
-- Today’s hike from the Nabji/Korphu campsite to Nimshong will be easy through a lush broadleaf forest inhabited by abundant birds and mammals. Nimshong (58 households) is 2nd largest village enroutes by the trail with a population of about 465 people. The villagers welcome you with dance and songs while cooks are busy preparing diner. The campsite is located at the top of the village. 
-
+- Today’s hike from the Nabji/Korphu campsite to Nimshong will be easy through a lush broadleaf forest inhabited by abundant birds and mammals. Nimshong (58 households) is 2nd largest village enroutes by the trail with a population of about 465 people. The villagers welcome you with dance and songs while cooks are busy preparing diner. The campsite is located at the top of the village.
 
 **Day 8: Nimshong to Reotala (1200 m)**
 
-Total distance:  about 6.5km; 3-4 hours walk  
+Total distance: about 6.5km; 3-4 hours walk
 
-- The trek resumes with a steep descent of about 4 km to the riverbed of Mangde Chhu. You will have wonderful sightings of birds and animals along the way under the thin canopy of forest. From the other end of the bridge, the trail begins a steep climb for about one hour or more to reach Reotala, the exit point of the trail. From here, the bus will bring you back to Trongsa for a real bed and shower. 
+- The trek resumes with a steep descent of about 4 km to the riverbed of Mangde Chhu. You will have wonderful sightings of birds and animals along the way under the thin canopy of forest. From the other end of the bridge, the trail begins a steep climb for about one hour or more to reach Reotala, the exit point of the trail. From here, the bus will bring you back to Trongsa for a real bed and shower.
 
 - Night halt in hotel at Trongsa.
 
-
 **Day 9: Trongsa to Phobjikha, Wangdue**
 
--	Drop by Chendebji Chorten (popular stupa);
-
--	Continue journey to Phobjikha crossing two majestic passes Pele La and Lawa La. Occasional breaks or stops for pictures of awesome landscape; 
-
--	Visit Gangtey monastery that sits atop a knoll;
-
--	Visit Black-necked Crane visitor information center; and
-
--	Night halt in hotel or home stay.
-
+- Drop by Chendebji Chorten (popular stupa);
+- Continue journey to Phobjikha crossing two majestic passes Pele La and Lawa La. Occasional breaks or stops for pictures of awesome landscape;
+- Visit Gangtey monastery that sits atop a knoll;
+- Visit Black-necked Crane visitor information center; and
+- Night halt in hotel or home stay.
 
 **Day 10: Phobjikha to Thimphu**
 
--	Drive to Punakha and visit the Dzong charismatically situated on the confluence of Pho Chhu (Male River) and Mo Chhu (Female River); 
-
--	Visit Buddha Point where there sits a gigantic bronze statue of Buddha Shakyamuni;
-
--	Visit Takin (Bhutan’s national animal) preserve; 
-
--	Stroll in Thimphu town; and 
-
--	Night halt in hotel.
-
+- Drive to Punakha and visit the Dzong charismatically situated on the confluence of Pho Chhu (Male River) and Mo Chhu (Female River);
+- Visit Buddha Point where there sits a gigantic bronze statue of Buddha Shakyamuni;
+- Visit Takin (Bhutan’s national animal) preserve;
+- Stroll in Thimphu town; and
+- Night halt in hotel.
 
 **Day 11: Thimphu to Paro**
 
--	Depart from Paro airport 
-
+- Depart from Paro airport
 
 **Cost includes:**
 
--	*Accommodation (3 star hotel with twin beds)and home stay;*
-
--	*3 Meals a day;*
-
--	*Transportation within Bhutan;*
-
--	*Trekking equipment - tents, sleeping bag, mattress, etc;* 
-
--	*Service of experienced English speaking licensed  tour guide;*
-
--	*Service of cooks; and*
-
--	*Pack animals or riding ponies with porter.*
-
+- *Accommodation (3 star hotel with twin beds)and home stay;*
+- *3 Meals a day;*
+- *Transportation within Bhutan;*
+- *Trekking equipment - tents, sleeping bag, mattress, etc;*
+- *Service of experienced english speaking, licensed tour guide;*
+- *Service of cooks; and*
+- *Pack animals or riding ponies with porter.*

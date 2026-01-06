@@ -2,43 +2,105 @@
 title: "VISA"
 author: "lekdhen06"
 date: "2023-11-08"
-output: html_document
+description: "Information on the visa process for traveling to Bhutan."
+featured_image: "/images/bhutan-hero.jpg"
+tags: [Bhutan, Visa, Travel]
 ---
+
+<!-- Responsive styles safe for Hugo 0.124.1 -->
+<style>
+/* ===== HERO IMAGE (TOP) ===== */
+.hero-figure {
+  width: 100%;
+  margin: 0 0 2rem 0;
+}
+.hero-figure img {
+  width: 100%;
+  height: min(60vh, 480px);
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+}
+.hero-figure .caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
+
+/* ===== CENTER IMAGE (MIDDLE) ===== */
+.center-figure {
+  max-width: 820px;
+  margin: 2.5rem auto;
+  text-align: center;
+}
+.center-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+.center-figure .caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
+
+/* ===== MOBILE OPTIMIZATION ===== */
+@media (max-width: 768px) {
+  .hero-figure img {
+    height: 38vh;
+  }
+  .center-figure {
+    padding: 0 1rem;
+  }
+}
+</style>
+
+<!-- TOP IMAGE (responsive on all devices) -->
+<figure class="hero-figure">
+  <img src="/img/bhutan-visa.jpg" alt="Bhutan visa and travel process" loading="lazy">
+  <figcaption class="caption">
+    Bhutan follows a regulated visa and tourism system
+  </figcaption>
+</figure>
 
 Obtaining a visa for Bhutan involves a specific process, and Bhutan has a unique approach to tourism to preserve its culture and environment. Tourists are required to book their travel through an authorized tour operator, and the tour operator will handle the visa application process on your behalf. Here's an overview of the visa processing procedure for Bhutan:
 
-**Choose a Licensed Tour Operator**
+## Choose a Licensed Tour Operator
 
 To visit Bhutan, you must book your trip through a licensed Bhutanese tour operator. You cannot travel to Bhutan independently; you must join a pre-arranged tour.
 
-
-**Plan Your Trip**
+## Plan Your Trip
 
 Work with us to plan your itinerary, including the places you want to visit and the duration of your stay. Bhutan has a daily tariff, which includes accommodation, meals, a guide, and transportation. Ensure you understand the costs and the services included in the tariff.
 
-**Visa Application**
+## Visa Application
 
 Once your itinerary is finalized, we will apply for your Bhutanese visa on your behalf. You will need to provide your personal details and a copy of your passport. The visa application fee is included in the tour package cost.
 
+<!-- MIDDLE IMAGE (responsive & centered) -->
+<figure class="center-figure">
+  <img src="/img/bhutan-visa-clearance.jpg" alt="Bhutan visa clearance letter" loading="lazy">
+  <figcaption class="caption">
+    Visa clearance letter issued before travel
+  </figcaption>
+</figure>
 
-**Visa Approval**
+## Visa Approval
 
 After the Bhutanese government approves your visa application, you will receive a visa clearance letter. This letter is required for immigration clearance when you arrive in Bhutan.
 
-
-**Pay for Your Trip**
+## Pay for Your Trip
 
 You will need to pay the full tour package cost, which typically includes the daily tariff, before your trip to Bhutan.
 
-
-**Travel to Bhutan**
+## Travel to Bhutan
 
 We will provide you with the necessary documents, including your visa clearance letter, which you'll need when you board your flight to Bhutan.
 
-
-**Arrival in Bhutan**
+## Arrival in Bhutan
 
 Upon your arrival in Bhutan, you will go through immigration and present your visa clearance letter and passport. The Bhutanese authorities will then grant you a visa stamp in your passport, allowing you to stay in Bhutan for the duration of your pre-arranged tour.
-
 
 It's essential to plan your trip to Bhutan well in advance, as visa processing and other arrangements may take some time. Work with us to ensure a smooth and enjoyable experience in Bhutan. Bhutan's government strictly regulates tourism to preserve the country's unique culture and environment, and the visa process is part of these efforts.

@@ -2,121 +2,153 @@
 title: "Cultural Tours"
 author: "lekdhen06"
 date: "2023-11-08"
-output: html_document
+description: "Cultural tour programs offered by Unique Divine Travels across central, eastern, and western Bhutan."
+featured_image: "/images/bhutan-hero.jpg"
+tags: [Bhutan, Cultural Tours, Travel]
 ---
+
+<!-- Responsive styles safe for Hugo 0.124.1 -->
+<style>
+/* ===== HERO IMAGE (TOP) ===== */
+.hero-figure {
+  width: 100%;
+  margin: 0 0 2rem 0;
+}
+.hero-figure img {
+  width: 100%;
+  height: min(60vh, 480px);
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+}
+.hero-figure .caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
+
+/* ===== CENTER IMAGE (MIDDLE) ===== */
+.center-figure {
+  max-width: 820px;
+  margin: 2.5rem auto;
+  text-align: center;
+}
+.center-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+.center-figure .caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
+
+/* ===== MOBILE OPTIMIZATION ===== */
+@media (max-width: 768px) {
+  .hero-figure img {
+    height: 38vh;
+  }
+  .center-figure {
+    padding: 0 1rem;
+  }
+}
+</style>
+
+<!-- TOP IMAGE (responsive on all devices) -->
+<figure class="hero-figure">
+  <img src="/img/bhutan-cultural-tour.jpg" alt="Cultural tour in Bhutan" loading="lazy">
+  <figcaption class="caption">
+    Cultural tours exploring Bhutan’s heritage and traditions
+  </figcaption>
+</figure>
 
 **......"UD Travels is here to Guide You".........**
 
 **Cultural Tour**
 
-Unique Divine Travels, in the effort to uphold selfless quality service, offers best cultural destinations embedded in central, eastern and western regions of Bhutan with a special focus on Tshechu (performing arts or festival), temple, monastery, fortress, culinary, handicraft, and socio-cultural heritage. 
-
+Unique Divine Travels, in the effort to uphold selfless quality service, offers best cultural destinations embedded in central, eastern and western regions of Bhutan with a special focus on Tshechu (performing arts or festival), temple, monastery, fortress, culinary, handicraft, and socio-cultural heritage.
 
 **Season: March - May & September - December**
 
 **Day 1: Arrive in Paro**
 
--   Reception at the airport by our guide and driver;
-
--   Visit Ta Dzong (watch tower) which serves as fascinating museum that showcases Bhutanese rich arts and artifacts; and
-
--   Night halt in hotel.
+- Reception at the airport by our guide and driver;
+- Visit Ta Dzong (watch tower) which serves as fascinating museum that showcases Bhutanese rich arts and artifacts; and
+- Night halt in hotel.
 
 **Day 2: Local tour in Paro valley**
 
--   Drive in the morning and walk to Taksthang monastery (Tiger Nest);
-
--   Visit Kichu Lhakhang (temple) that dates back to 7th century; and
-
--   Night halt in hotel.
+- Drive in the morning and walk to Taksthang monastery (Tiger Nest);
+- Visit Kichu Lhakhang (temple) that dates back to 7th century; and
+- Night halt in hotel.
 
 **Day 3: Fly to Bumthang**
 
--   Visit Jampa Lhakhang (temple) dates back to 7th century, Tamshing monastery, Kurjey Lhakhang (temple popular for body imprint of Guru Rimpoche in the cave);
-
--   Explore Chamkhar town; and
-
--   Night halt in hotel.
+- Visit Jampa Lhakhang (temple) dates back to 7th century, Tamshing monastery, Kurjey Lhakhang (temple popular for body imprint of Guru Rimpoche in the cave);
+- Explore Chamkhar town; and
+- Night halt in hotel.
 
 **Day 4: Village tour in Bumthang**
 
--   Visit Kharchu monastery that houses more than 400 monks;
+- Visit Kharchu monastery that houses more than 400 monks;
+- Visit Mebar Tsho (Burning Lake) where a saint called Tertoen (Treasure discoverer) Pema Lingpa unearthed sacred treasure from in 14th century;
+- Village-walk in Ura, visit temple and School;
+- Drive back to Tangsibi village and visit local temple; and
+- Night halt in home stay (Cultural dance, if preferred, will be arranged in the night).
 
--   Visit Mebar Tsho (Burning Lake) where a saint called Tertoen (Treasure discoverer) Pema Lingpa unearthed sacred treasure from in 14th century;
+<!-- MIDDLE IMAGE (responsive & centered) -->
+<figure class="center-figure">
+  <img src="/img/jakar-dzong.jpg" alt="Jakar Dzong, Bumthang" loading="lazy">
+  <figcaption class="caption">
+    Jakar Dzong, Bumthang
+  </figcaption>
+</figure>
 
--   Village-walk in Ura, visit temple and School;
+**Day 5: Bumthang to Phobjikha via Trongsa**
 
--   Drive back to Tangsibi village and visit local temple; and
-
--   Night halt in home stay (Cultural dance, if preferred, will be arranged in the night).
-
-![Jakar Dzong, Bumthang](/img/Jakar-dzong.jpg){width="900"}
-
-Day 5: Bumthang to Phobjikha via Trongsa
-
--   Drive to Trongsa and visit Ta Dzong museum;
-
--   Drop by Chendebji Chorten (popular stupa);
-
--   Continue journey to Phobjikha crossing two majestic passes Pele La and Lawa La;
-
--   Occasional breaks or stops for photography of awesome landscape; and
-
--   Night halt in hotel or home stay.
+- Drive to Trongsa and visit Ta Dzong museum;
+- Drop by Chendebji Chorten (popular stupa);
+- Continue journey to Phobjikha crossing two majestic passes Pele La and Lawa La;
+- Occasional breaks or stops for photography of awesome landscape; and
+- Night halt in hotel or home stay.
 
 **Day 6: Phobjikha to Punakha**
 
--   Visit Black-necked Crane Visitor Information center followed by Gangtey monastery that sits atop a knoll;
-
--   Visit to Wangduephodrang Dzong that is reconstructed after it was ravaged by fire in 2012;
-
--   Drive to Punakha and visit Dzong charismatically situated on the confluence of Pho Chhu (Male River) and Mo Chhu (Female River); and
-
--   Night halt in hotel.
+- Visit Black-necked Crane Visitor Information center followed by Gangtey monastery that sits atop a knoll;
+- Visit to Wangduephodrang Dzong that is reconstructed after it was ravaged by fire in 2012;
+- Drive to Punakha and visit Dzong charismatically situated on the confluence of Pho Chhu (Male River) and Mo Chhu (Female River); and
+- Night halt in hotel.
 
 **Day 7: Punakha to Thimphu**
 
--   Visit Chimi Lhakhang, a sacred temple popularly revered for human fertility enrichment is blessed by Lama Dukpa Kunley who was known as Divine Madman;
-
--   Visit Botanical Park at Lamperi if time permits, and also stop at Dochu La where there are 108 Chortens (stupas);
-
--   In the evening visit Tashichodzong, the fortress that serves as seats for government and monastic bodies;
-
--   Stroll in Thimphu city; and
-
--   Night halt in hotel,
+- Visit Chimi Lhakhang, a sacred temple popularly revered for human fertility enrichment is blessed by Lama Dukpa Kunley who was known as Divine Madman;
+- Visit Botanical Park at Lamperi if time permits, and also stop at Dochu La where there are 108 Chortens (stupas);
+- In the evening visit Tashichodzong, the fortress that serves as seats for government and monastic bodies;
+- Stroll in Thimphu city; and
+- Night halt in hotel,
 
 **Day 8: Thimphu sightseeing**
 
--   In the morning drive to Tango monastery and rejoice the teaching environment of Buddha dharma;
-
--   Drive back to Zorig Chusum, institute where traditional thirteen arts and crafts of Bhutan are being taught;
-
--   Visit Buddha Point where there sits a gigantic bronze statue of Buddha Shakyamuni;
-
--   Visit Folk heritage museum;
-
--   If time permits visit Takin (national animal of Bhutan) preserve; and
-
--   Night halt in hotel.
+- In the morning drive to Tango monastery and rejoice the teaching environment of Buddha dharma;
+- Drive back to Zorig Chusum, institute where traditional thirteen arts and crafts of Bhutan are being taught;
+- Visit Buddha Point where there sits a gigantic bronze statue of Buddha Shakyamuni;
+- Visit Folk heritage museum;
+- If time permits visit Takin (national animal of Bhutan) preserve; and
+- Night halt in hotel.
 
 **Day 9: Thimphu to Paro**
 
--   Drive to Paro airport and depart.
-
+- Drive to Paro airport and depart.
 
 **Cost includes:**
 
--	*Accommodation (3 star hotel with twin beds)and home stay;*
-
--	*3 Meals a day;*
-
--	*Transportation within Bhutan;*
-
--	*Trekking equipment - tents, sleeping bag, mattress, etc;* 
-
--	*Service of experienced English speaking licensed  tour guide;*
-
--	*Service of cooks; and*
-
--	*Pack animals or riding ponies with porter.*
+- *Accommodation (3 star hotel with twin beds)and home stay;*
+- *3 Meals a day;*
+- *Transportation within Bhutan;*
+- *Trekking equipment - tents, sleeping bag, mattress, etc;*
+- *Service of experienced english speaking, licensed tour guide;*
+- *Service of cooks; and*
+- *Pack animals or riding ponies with porter.*
