@@ -296,8 +296,8 @@ pre = "<i class='fas fa-2x fa-envelope' style='color:#FF4500'></i>"  # Orange/re
     dropdown_mouse_over = false
     disabled_logo = false
     logo_text = "Unique Divine Travels"
-    logo = "img/udt-logo.png"
-    logo_small = "img/udt-logo-small.png"
+    logo = "img/udt-logo.svg"
+    logo_small = ""
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Unique Divine Travels</strong>
         <br>IT Park

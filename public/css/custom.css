@@ -1,7 +1,3 @@
-/* ===============================
-   Existing styles (UNCHANGED)
-   =============================== */
-
 .box-image-text .image {
     min-height: 190px;
     max-height: 190px;
@@ -14,4 +10,11 @@
 
 .box-simple {
     min-height: 230px;
+}
+
+/* Fix SVG logo sizing in hugo-universal-theme */
+.navbar-brand img {
+    height: 50px;
+    width: auto;
+    max-height: 50px;
 }
