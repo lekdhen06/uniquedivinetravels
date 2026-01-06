@@ -1,4 +1,10 @@
-# Frequently Asked Questions (FAQs)
+---
+title: "Frequently Asked Questions (FAQs)"
+author: "lekdhen06"
+date: "2023-11-08"
+description: "Frequently asked questions for help and guidance to our clients"
+---
+
 ## Unique Divine Travels — Bhutan
 
 ---
