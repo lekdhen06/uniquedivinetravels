@@ -10,7 +10,7 @@ tags: [Bhutan, About Us, Travel Company]
 
 **Our Vision: Selfless Quality Services**
 
-Unique Divine Travels was founded in 2023 and registered with Department of Tourism, a highest governing body under the Royal Government of Bhutan. We are also a member of Association of Bhutanese Tour Operators (ABTO) and Guide Association of Bhutan (GAB) besides several stakeholders in and beyond Bhutan.
+Unique Divine Travels was founded in 2023 and registered with Department of Tourism, the highest governing body under the Royal Government of Bhutan. We are also a member of Association of Bhutanese Tour Operators (ABTO) and Guide Association of Bhutan (GAB) besides several stakeholders in and beyond Bhutan.
 
 The core values of Unique Divine Travels are:
 
