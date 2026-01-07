@@ -2,231 +2,223 @@ baseurl = "https://uniquedivinetravels-bt.com"
 title = "Unique Divine Travels"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
-# Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
-# Enable comments by entering your Disqus shortname
 disqusShortname = ""
-# Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-# number of words of summarized post content (default 70)
 summaryLength = 70
-# Define the number of posts per page
 paginate = 10
-# not pluralize title pages by default
 pluralizelisttitles = false
 
+# ---------------- MENU ----------------
 [menu]
-# Main menu
-[[menu.main]]
-    name = "Home"
-    identifier = "menu.home"
-    url = "/"
-    weight = 1
 
 [[menu.main]]
-    name = "About Bhutan"
-    identifier = "menu.About Bhutan"
-    url = "/img/Punakha-dzong.jpg"
-    weight = 2
+name = "Home"
+identifier = "menu.home"
+url = "/"
+weight = 1
 
 [[menu.main]]
-    name = "Bhutan"
-    identifier = "section.Bhutan"
-    url = ""
-    weight = 1
-    parent = "menu.About Bhutan"
-    post = 1
+name = "About Bhutan"
+identifier = "menu.about-bhutan"
+url = "/img/Punakha-dzong.jpg"
+weight = 2
 
 [[menu.main]]
-    name = "Destinations"
-    identifier = "section.Destinations"
-    url = ""
-    weight = 2
-    parent = "menu.About Bhutan"
-    post = 2
+name = "Bhutan"
+identifier = "section.bhutan"
+url = "#"
+weight = 1
+parent = "menu.about-bhutan"
 
 [[menu.main]]
-    name = "History of Bhutan"
-    url = "/history_of_bhutan"
-    weight = 1
-    parent = "section.Bhutan"
+name = "Destinations"
+identifier = "section.destinations"
+url = "#"
+weight = 2
+parent = "menu.about-bhutan"
 
 [[menu.main]]
-    name = "Gross National Happiness (GNH)"
-    url = "/gross_national_happiness"
-    weight = 2
-    parent = "section.Bhutan"
+name = "History of Bhutan"
+url = "/history_of_bhutan"
+weight = 1
+parent = "section.bhutan"
 
 [[menu.main]]
-    name = "Climate in Bhutan"
-    url = "/climate_in_bhutan"
-    weight = 3
-    parent = "section.Bhutan"
+name = "Gross National Happiness (GNH)"
+url = "/gross_national_happiness"
+weight = 2
+parent = "section.bhutan"
 
 [[menu.main]]
-    name = "Festivals"
-    url = "/festivals"
-    weight = 4
-    parent = "section.Bhutan"
+name = "Climate in Bhutan"
+url = "/climate_in_bhutan"
+weight = 3
+parent = "section.bhutan"
 
 [[menu.main]]
-    name = "Culture & Traditions"
-    url = "/culture_and_traditions"
-    weight = 5
-    parent = "section.Bhutan"
+name = "Festivals"
+url = "/festivals"
+weight = 4
+parent = "section.bhutan"
 
 [[menu.main]]
-    name = "Bhutan at a glance"
-    url = "/bhutan_at_a_glance"
-    weight = 6
-    parent = "section.Bhutan"
+name = "Culture & Traditions"
+url = "/culture_and_traditions"
+weight = 5
+parent = "section.bhutan"
 
 [[menu.main]]
-    name = "Thimphu"
-    url = "/thimphu"
-    weight = 1
-    parent = "section.Destinations"
+name = "Bhutan at a glance"
+url = "/bhutan_at_a_glance"
+weight = 6
+parent = "section.bhutan"
 
 [[menu.main]]
-    name = "Paro"
-    url = "/paro"
-    weight = 2
-    parent = "section.Destinations"
+name = "Thimphu"
+url = "/thimphu"
+weight = 1
+parent = "section.destinations"
 
 [[menu.main]]
-    name = "Bumthang"
-    url = "/bumthang"
-    weight = 3
-    parent = "section.Destinations"
+name = "Paro"
+url = "/paro"
+weight = 2
+parent = "section.destinations"
 
 [[menu.main]]
-    name = "Zhemgang"
-    url = "/zhemgang"
-    weight = 4
-    parent = "section.Destinations"
+name = "Bumthang"
+url = "/bumthang"
+weight = 3
+parent = "section.destinations"
 
 [[menu.main]]
-    name = "Punakha"
-    url = "/punakha"
-    weight = 5
-    parent = "section.Destinations"
+name = "Zhemgang"
+url = "/zhemgang"
+weight = 4
+parent = "section.destinations"
 
 [[menu.main]]
-    name = "Trongsa"
-    url = "/trongsa"
-    weight = 6
-    parent = "section.Destinations"
+name = "Punakha"
+url = "/punakha"
+weight = 5
+parent = "section.destinations"
 
 [[menu.main]]
-    name = "Wangdiphodrang"
-    url = "/wangdiphodrang"
-    weight = 7
-    parent = "section.Destinations"
+name = "Trongsa"
+url = "/trongsa"
+weight = 6
+parent = "section.destinations"
 
 [[menu.main]]
-    name = "Travel Guide"
-    identifier = "menu.Travel Guide"
-    url = "/img/bhutan-airlines.jpg"
-    weight = 3
+name = "Wangdiphodrang"
+url = "/wangdiphodrang"
+weight = 7
+parent = "section.destinations"
 
 [[menu.main]]
-    name = "Planning Trip"
-    identifier = "section.Planning Trip"
-    url = ""
-    weight = 1
-    parent = "menu.Travel Guide"
-    post = 1
+name = "Travel Guide"
+identifier = "menu.travel-guide"
+url = "/img/bhutan-airlines.jpg"
+weight = 3
 
 [[menu.main]]
-    name = "VISA"
-    url = "/visa"
-    weight = 1
-    parent = "section.Planning Trip"
+name = "Planning Trip"
+identifier = "section.planning-trip"
+url = "#"
+weight = 1
+parent = "menu.travel-guide"
 
 [[menu.main]]
-    name = "Tariff"
-    url = "/tariff"
-    weight = 2
-    parent = "section.Planning Trip"
+name = "VISA"
+url = "/visa"
+weight = 1
+parent = "section.planning-trip"
 
 [[menu.main]]
-    name = "Flight"
-    url = "/flight"
-    weight = 3
-    parent = "section.Planning Trip"
+name = "Tariff"
+url = "/tariff"
+weight = 2
+parent = "section.planning-trip"
 
 [[menu.main]]
-    name = "Accommodation"
-    url = "/accommodation"
-    weight = 4
-    parent = "section.Planning Trip"
+name = "Flight"
+url = "/flight"
+weight = 3
+parent = "section.planning-trip"
 
 [[menu.main]]
-    name = "Tour Packages"
-    identifier = "menu.Tour Packages"
-    url = ""
-    weight = 5
+name = "Accommodation"
+url = "/accommodation"
+weight = 4
+parent = "section.planning-trip"
 
 [[menu.main]]
-    name = "Cultural Tours"
-    url = "/cultural_tours"
-    parent = "menu.Tour Packages"
-    post = 1
+name = "Tour Packages"
+identifier = "menu.tour-packages"
+url = "#"
+weight = 5
 
 [[menu.main]]
-    name = "Festival Tours"
-    url = "/festival_tours"
-    parent = "menu.Tour Packages"
-    post = 2
+name = "Cultural Tours"
+url = "/cultural_tours"
+parent = "menu.tour-packages"
+weight = 1
 
 [[menu.main]]
-    name = "Community-based Ecotourism"
-    url = "/community-based_ecotourism"
-    parent = "menu.Tour Packages"
-    post = 3
+name = "Festival Tours"
+url = "/festival_tours"
+parent = "menu.tour-packages"
+weight = 2
 
 [[menu.main]]
-    name = "Wildlife Tours"
-    url = "/wildlife_tours"
-    parent = "menu.Tour Packages"
-    post = 4
+name = "Community-based Ecotourism"
+url = "/community-based_ecotourism"
+parent = "menu.tour-packages"
+weight = 3
 
 [[menu.main]]
-    name = "Special Tours"
-    url = "/special_tours"
-    parent = "menu.Tour Packages"
-    post = 5
+name = "Wildlife Tours"
+url = "/wildlife_tours"
+parent = "menu.tour-packages"
+weight = 4
 
 [[menu.main]]
-    name = "About Us"
-    identifier = "menu.About Us"
-    url = "/about_us"
-    weight = 6
+name = "Special Tours"
+url = "/special_tours"
+parent = "menu.tour-packages"
+weight = 5
 
 [[menu.main]]
-    name = "FAQ"
-    identifier = "menu.faq"
-    url = "/faq"
-    weight = 7
+name = "About Us"
+identifier = "menu.about-us"
+url = "/about_us"
+weight = 6
 
 [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 8
+name = "FAQ"
+identifier = "menu.faq"
+url = "/faq"
+weight = 7
 
-# Top bar social links menu
+[[menu.main]]
+identifier = "menu.contact"
+name = "Contact"
+url = "/contact/"
+weight = 8
+
+# -------- TOP BAR --------
 [[menu.topbar]]
 weight = 1
 name = "Facebook"
 url = "https://www.facebook.com"
-pre = "<i class='fab fa-2x fa-facebook' style='color:#1877F2'></i>"  # Facebook blue
+pre = "<i class='fab fa-2x fa-facebook' style='color:#1877F2'></i>"
 
 [[menu.topbar]]
 weight = 2
 name = "WhatsApp"
 url = "https://whatsapp.com"
-pre = "<i class='fab fa-2x fa-whatsapp' style='color:#25D366'></i>"  # WhatsApp green
+pre = "<i class='fab fa-2x fa-whatsapp' style='color:#25D366'></i>"
 
 [[menu.topbar]]
 weight = 3
@@ -238,156 +230,132 @@ pre = "<i class='fab fa-2x fa-instagram' style='color:#E4405F'></i>"
 weight = 4
 name = "Email"
 url = "mailto:info@uniquedivinetravels-bt.com"
-pre = "<i class='fas fa-2x fa-envelope' style='color:#FF4500'></i>"  # Orange/red for email
+pre = "<i class='fas fa-2x fa-envelope' style='color:#FF4500'></i>"
+
+# ---------------- PARAMS ----------------
 [params]
-    viewMorePostLink = "/blog/"
-    author = ""
-    defaultKeywords = ["devcows", "hugo", "go"]
-    mainSections = ["blog"]
-    defaultDescription = "Site template made by Devcows using Hugo"
-    # Social media
-    facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
-    twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
-    default_sharing_image = "img/sharing-default.png"
-    # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
-    enableGoogleMaps = false
-    googleMapsApiKey = ""
-    latitude = ""
-    longitude = ""
-    direction = ""
-    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "blue"
-    # Since this template is static, the contact form uses www.formspree.io as a
-    # proxy. The form makes a POST request to their servers to send the actual
-    # email. Visitors can send up to a 50 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - register your account to https://formspree.io/register
-    # - login and create new form
-    # - set your form's endpoint url under 'formspree_action' below
-    # - upload the generated site to your server
-    # - test a dummy email yourself
-    # - you're done. Happy mailing!
-    #
-    #Enable the contact form by entering your Formspree.io endpoint url
-    formspree_action = "https://formspree.io/f/xeqbddyp"
-    contact_form_ajax = false
-    # Formspree form supports Google reCAPTCHA Key (type v2).
-    # If you use this feature, you should enable reCAPTCHA feature in the Formspree dashboard.
-    #
-    # By default, Formspree use a redirect page for recaptcha widget.
-    # If you use a recaptcha widget in your contact page, you should do next steps.
-    # (if you don't want, skip these steps)
-    #
-    # 1. register your site on Google recaptcha admin page: https://www.google.com/recaptcha/admin
-    # 2. select reCAPTCHA v2 and checkbox widget type.
-    # 3. remember site key and secret key.
-    # 4. enter secret key into "Custom reCAPTCHA Key" field in your Formspree form setting page.
-    # 5. change `enableRecaptchaInContactForm` is to true
-    # 6. enter site key into `googleRecaptchaKey` to enable a recaptcha widget in your page.
-    #
-    enableRecaptchaInContactForm = true
-    googleRecaptchaKey = "site_key_for_google_recaptcha"
-    about_us = "<p>Selfless quality services</p>"
-    copyright = "Copyright © 2026 Unique Divine Travels. All rights reserved."
-    # Format dates with Go's time formatting
-    date_format = "January 2, 2006"
-    dropdown_mouse_over = false
-    disabled_logo = false
-    logo_text = "Unique Divine Travels"
-    logo = "img/udt-logo.svg"
-    logo_small = "img/udt-logo.svg"
-    contact_url = "/contact"
-    address = """<p class="text-uppercase"><strong>Unique Divine Travels</strong>
-        <br>IT Park
-        <br>Babesa
-        <br>Thimphu
-        <strong>Bhutan</strong>
-      </p>
-      """
+viewMorePostLink = "/blog/"
+author = ""
+
+defaultKeywords = ["Bhutan tours", "Bhutan travel agency", "Bhutan tour packages", "Bhutan holidays", "Unique Divine Travels"]
+defaultDescription = "Unique Divine Travels is a trusted Bhutan tour operator offering customized cultural tours, wildlife tours, trekking adventures, and holiday packages."
+
+facebook_site = ""
+twitter_site = "GoHugoIO"
+default_sharing_image = "img/sharing-default.png"
+
+enableGoogleMaps = false
+googleMapsApiKey = ""
+latitude = ""
+longitude = ""
+direction = ""
+
+style = "blue"
+
+formspree_action = "https://formspree.io/f/xeqbddyp"
+contact_form_ajax = false
+
+enableRecaptchaInContactForm = true
+googleRecaptchaKey = "site_key_for_google_recaptcha"
+
+about_us = "<p>Selfless quality services</p>"
+copyright = "Copyright © 2026 Unique Divine Travels. All rights reserved."
+
+date_format = "January 2, 2006"
+dropdown_mouse_over = false
+disabled_logo = false
+logo_text = "Unique Divine Travels"
+logo = "img/udt-logo.svg"
+logo_small = "img/udt-logo.svg"
+contact_url = "/contact"
+
+address = """<p class="text-uppercase"><strong>Unique Divine Travels</strong>
+<br>IT Park
+<br>Babesa
+<br>Thimphu
+<strong>Bhutan</strong>
+</p>"""
 
 [permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+blog = "/blog/:year/:month/:day/:filename/"
 
-# Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +97577456292 / +19179414374 or info@uniquedivinetravels-bt.com</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+97577456292" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:info@uniquedivinetravels-bt.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
-      </p>
-      """
+enable = true
+text = """<p class="hidden-sm hidden-xs">
+Contact us on Bhutan: +97577456292 | USA: +19179414374 or info@uniquedivinetravels-bt.com
+</p>
 
-# Enable and disable widgets for the right sidebar
+<p class="hidden-md hidden-lg">
+<a href="tel:+97577456292" title="Call Bhutan" style="margin-right:10px;">
+📞 Bhutan
+</a>
+
+<a href="tel:+19179414374" title="Call USA" style="margin-right:10px;">
+📞 USA
+</a>
+
+<a href="mailto:info@uniquedivinetravels-bt.com" title="Email">
+✉️ Email
+</a>
+</p>
+"""
+
 [params.widgets]
-    categories = true
-    tags = true
-    search = true
+categories = true
+tags = true
+search = true
 
 [params.carouselCustomers]
-    items = 6
-    auto_play = false
-    slide_speed = 2000
-    pagination_speed = 1000
+items = 6
+auto_play = false
+slide_speed = 2000
+pagination_speed = 1000
 
 [params.carouselTestimonials]
-    items = 4
-    auto_play = false
-    slide_speed = 2000
-    pagination_speed = 1000
+items = 4
+auto_play = false
+slide_speed = 2000
+pagination_speed = 1000
 
 [params.carousellHomepage]
-    # All carousel items are defined in their own files. You can find example items
-    # at 'exampleSite/data/carousel'.
-    # For more information take a look at the README.
-    enable = false
-    auto_play = false
+enable = false
+auto_play = false
 
 [params.features]
-    enable = true
-    cols = 2 # Default: 3, Available values 2,3,4,6
-    # All features are defined in their own files. You can find example items
-    # at 'exampleSite/data/features'.
-    # For more information take a look at the README.
+enable = true
+cols = 2
 
 [params.testimonials]
-    enable = true
-    # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
-    # For more information take a look at the README.
-    title = "Services we provide"
-    subtitle = "Here are some of the services we provide."
+enable = true
+title = "Services we provide"
+subtitle = "Here are some of the services we provide."
 
 [params.see_more]
-    enable = false
-    icon = "far fa-file-alt"
-    title = "Do you want to know more?"
-    subtitle = "Here are some quick glances of our services."
-    link_url = ""
-    link_text = "Check it out!"
+enable = false
+icon = "far fa-file-alt"
+title = "Do you want to know more?"
+subtitle = "Here are some quick glances of our services."
+link_url = ""
+link_text = "Check it out!"
 
 [params.clients]
-    enable = true
-    # All clients are defined in their own files. You can find example items
-    # at 'exampleSite/data/clients'.
-    # For more information take a look at the README.
-    title = ""
-    subtitle = "We are registered with the following organizations:"
+enable = true
+title = ""
+subtitle = "We are registered with the following organizations:"
 
 [params.places_you_can_visit]
-    enable = false
-    title = "Places you can visit"
-    subtitle = "Bhutan, also known as the last shangri-la is a country known for its unique culture and traditions. The country is also filled with tsunami of myraid flora and fauna along with some breathtaking sights to feast upon; you won't regret it. The people are kind, jovial and of course, happy which is attributed to Gross National Happiness(GNH). "
-    hide_summary = false
+enable = false
+title = "Places you can visit"
+subtitle = "Bhutan, also known as the last shangri-la..."
+hide_summary = false
 
 [params.footer.recent_posts]
-    enable = true
+enable = true
 
 [taxonomies]
-  category = "categories"
-  tag = "tags"
-  author = "authors"
+category = "categories"
+tag = "tags"
+author = "authors"
 
 [markup]
   [markup.goldmark]
