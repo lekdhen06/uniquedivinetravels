@@ -8,21 +8,25 @@ tags: [Bhutan, About Us, Travel Company]
 ---
 
 
-**Our Vision: Selfless Quality Services**
+## Our Vision: Selfless Quality Services
 
 Unique Divine Travels was founded in 2023 and registered with Department of Tourism, the highest governing body under the Royal Government of Bhutan. We are also a member of Association of Bhutanese Tour Operators (ABTO) and Guide Association of Bhutan (GAB) besides several stakeholders in and beyond Bhutan.
 
 The core values of Unique Divine Travels are:
 
-**Innovative:** Explore innovative ideas and linkages with stakeholders in and outside Bhutan to enhance viable tourism products and efficient service to the clients.
+### Innovative 
+Explore innovative ideas and linkages with stakeholders in and outside Bhutan to enhance viable tourism products and efficient service to the clients.
 
-**Ethical:** Participate and stay afloat in national, regional, and global tourism circuit with principles of Integrity, Transparency, and Accountability.
+### Ethical
+Participate and stay afloat in national, regional, and global tourism circuit with principles of Integrity, Transparency, and Accountability.
 
-**Client oriented:** Provide selfless quality service in a manner that is efficient, responsive, and remedial to a right person at right place on right time.
+### Client oriented
+Provide selfless quality service in a manner that is efficient, responsive, and remedial to a right person at right place on right time.
 
-**Compliance:** Adhere to the tourism policy of Royal Government of Bhutan and ensure that we are responsive to a legitimate change.
+### Compliance 
+Adhere to the tourism policy of Royal Government of Bhutan and ensure that we are responsive to a legitimate change.
 
-**Personnel**
+### Personnel
 
 **CEO:** Ugyen Namgyel
 

@@ -65,39 +65,38 @@ tags: [Bhutan, Cultural Tours, Travel]
   </figcaption>
 </figure>
 
-**......"UD Travels is here to Guide You".........**
+## UD Travels Is Here to Guide You
+### Cultural Tour
 
-**Cultural Tour**
+Unique Divine Travels offers curated cultural journeys across central, eastern, and western Bhutan, focusing on Tshechus, temples, monasteries, fortresses, cuisine, handicrafts, and living heritage.
 
-Unique Divine Travels, in the effort to uphold selfless quality service, offers best cultural destinations embedded in central, eastern and western regions of Bhutan with a special focus on Tshechu (performing arts or festival), temple, monastery, fortress, culinary, handicraft, and socio-cultural heritage.
+### Season: March – May & September – December
 
-**Season: March - May & September - December**
-
-**Day 1: Arrive in Paro**
+### Day 1: Arrive in Paro
 
 - Reception at the airport by our guide and driver;
-- Visit Ta Dzong (watch tower) which serves as fascinating museum that showcases Bhutanese rich arts and artifacts; and
+- Visit Ta Dzong museum showcasing Bhutanese arts and artifacts; and
 - Night halt in hotel.
 
-**Day 2: Local tour in Paro valley**
+### Day 2: Local Tour in Paro Valley
 
-- Drive in the morning and walk to Taksthang monastery (Tiger Nest);
-- Visit Kichu Lhakhang (temple) that dates back to 7th century; and
+- Morning drive and hike to Taksthang monastery (Tiger Nest);
+- Visit Kichu Lhakhang dating back to the 7th century; and
 - Night halt in hotel.
 
-**Day 3: Fly to Bumthang**
+### Day 3: Fly to Bumthang
 
-- Visit Jampa Lhakhang (temple) dates back to 7th century, Tamshing monastery, Kurjey Lhakhang (temple popular for body imprint of Guru Rimpoche in the cave);
+- Visit Jampa Lhakhang, Tamshing monastery, and Kurjey Lhakhang with Guru Rimpoche’s body imprint;
 - Explore Chamkhar town; and
 - Night halt in hotel.
 
-**Day 4: Village tour in Bumthang**
+### Day 4: Village Tour in Bumthang
 
-- Visit Kharchu monastery that houses more than 400 monks;
-- Visit Mebar Tsho (Burning Lake) where a saint called Tertoen (Treasure discoverer) Pema Lingpa unearthed sacred treasure from in 14th century;
-- Village-walk in Ura, visit temple and School;
-- Drive back to Tangsibi village and visit local temple; and
-- Night halt in home stay (Cultural dance, if preferred, will be arranged in the night).
+- Visit Kharchu monastery housing over 400 monks;
+- Visit Mebar Tsho (Burning Lake), where Pema Lingpa discovered sacred treasures;
+- Village walk in Ura with temple and school visits;
+- Drive to Tangsibi village and visit the local temple; and
+- Night halt in home stay (optional cultural dance in the evening).
 
 <!-- MIDDLE IMAGE (responsive & centered) -->
 <figure class="center-figure">
@@ -107,48 +106,47 @@ Unique Divine Travels, in the effort to uphold selfless quality service, offers 
   </figcaption>
 </figure>
 
-**Day 5: Bumthang to Phobjikha via Trongsa**
+### Day 5: Bumthang to Phobjikha via Trongsa
 
 - Drive to Trongsa and visit Ta Dzong museum;
-- Drop by Chendebji Chorten (popular stupa);
-- Continue journey to Phobjikha crossing two majestic passes Pele La and Lawa La;
-- Occasional breaks or stops for photography of awesome landscape; and
+- Stop at Chendebji Chorten;
+- Cross Pele La and Lawa La with scenic photo stops; and
 - Night halt in hotel or home stay.
 
-**Day 6: Phobjikha to Punakha**
+### Day 6: Phobjikha to Punakha
 
-- Visit Black-necked Crane Visitor Information center followed by Gangtey monastery that sits atop a knoll;
-- Visit to Wangduephodrang Dzong that is reconstructed after it was ravaged by fire in 2012;
-- Drive to Punakha and visit Dzong charismatically situated on the confluence of Pho Chhu (Male River) and Mo Chhu (Female River); and
+- Visit the Black-necked Crane Visitor Center and Gangtey monastery;
+- Visit Wangduephodrang Dzong under restoration after the 2012 fire;
+- Drive to Punakha and visit the Dzong at the Pho Chhu and Mo Chhu confluence; and
 - Night halt in hotel.
 
-**Day 7: Punakha to Thimphu**
+### Day 7: Punakha to Thimphu
 
-- Visit Chimi Lhakhang, a sacred temple popularly revered for human fertility enrichment is blessed by Lama Dukpa Kunley who was known as Divine Madman;
-- Visit Botanical Park at Lamperi if time permits, and also stop at Dochu La where there are 108 Chortens (stupas);
-- In the evening visit Tashichodzong, the fortress that serves as seats for government and monastic bodies;
+- Visit Chimi Lhakhang, blessed by Lama Dukpa Kunley (Divine Madman);
+- Stop at Lamperi Botanical Park and Dochu La (108 chortens);
+- Evening visit to Tashichodzong;
 - Stroll in Thimphu city; and
-- Night halt in hotel,
-
-**Day 8: Thimphu sightseeing**
-
-- In the morning drive to Tango monastery and rejoice the teaching environment of Buddha dharma;
-- Drive back to Zorig Chusum, institute where traditional thirteen arts and crafts of Bhutan are being taught;
-- Visit Buddha Point where there sits a gigantic bronze statue of Buddha Shakyamuni;
-- Visit Folk heritage museum;
-- If time permits visit Takin (national animal of Bhutan) preserve; and
 - Night halt in hotel.
 
-**Day 9: Thimphu to Paro**
+### Day 8: Thimphu Sightseeing
+
+- Morning visit to Tango monastery;
+- Visit Zorig Chusum Institute of traditional arts and crafts;
+- Visit Buddha Point;
+- Visit Folk Heritage Museum;
+- Optional visit to Takin preserve; and
+- Night halt in hotel.
+
+### Day 9: Thimphu to Paro
 
 - Drive to Paro airport and depart.
 
-**Cost includes:**
+### Cost Includes
 
-- *Accommodation (3 star hotel with twin beds)and home stay;*
-- *3 Meals a day;*
-- *Transportation within Bhutan;*
-- *Trekking equipment - tents, sleeping bag, mattress, etc;*
-- *Service of experienced english speaking, licensed tour guide;*
-- *Service of cooks; and*
-- *Pack animals or riding ponies with porter.*
+- Accommodation (3-star hotel with twin beds) and home stay  
+- 3 meals a day  
+- Transportation within Bhutan  
+- Trekking equipment – tents, sleeping bag, mattress, etc.  
+- Service of experienced English-speaking licensed tour guide  
+- Service of cooks  
+- Pack animals or riding ponies with porter  

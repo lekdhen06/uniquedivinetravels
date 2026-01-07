@@ -65,36 +65,35 @@ tags: [Bhutan, Festival Tours, Culture]
   </figcaption>
 </figure>
 
-**......"That's why UD Travels is Best for You".........**
+## That’s Why UD Travels Is Best for You
+### Festival Tourism
 
-**Festival Tourism**
+Unique Divine Travels curates festival tours centered on Tshechus, scheduled according to the Bhutanese Lunar Calendar. Our signature experience is the Jampa Lhakhang Tshechu, known for its sacred rituals, cultural richness, and traditional arts.
 
-Unique Divine Travels focuses festival tour on Tshechu (sacred performing arts) that is held depending on the auspicious day of Bhutanese Lunar Calendar. Among several Tshechus in Bhutan, our special festival tour is Jampa Lhakhang Tshechu which carries paramount sacred values and showcases cultural integrity, arts and crafts.
+### Season: March to April and September through December
 
-**March to April and September through December**
-
-**Day 1: Arrive in Paro**
+### Day 1: Arrive in Paro
 
 - Reception at the airport by Unique Divine guide and driver;
-- Visit Ta Dzong (watch tower) which is transformed into a fascinating museum that showcases Bhutanese rich art and artifacts; and
+- Visit Ta Dzong museum showcasing Bhutanese art and artifacts; and
 - Night halt in hotel.
 
-**Day 2: Paro sightseeing**
+### Day 2: Paro Sightseeing
 
-- Trekking to Taktshang monastery (Tiger Nest);
+- Trek to Taktshang monastery (Tiger Nest);
 - Visit Kichu and Dhungtsi Lhakhangs if time permits; and
 - Night halt in hotel.
 
-**Day 3: Paro to Bumthang**
+### Day 3: Paro to Bumthang
 
 - Fly to Bumthang;
-- Visit Kurjey lhakhang (temple), Tamshing and Kharchu monasteries;
+- Visit Kurjey Lhakhang, Tamshing, and Kharchu monasteries;
 - Stroll in Chamkhar town; and
 - Night halt in hotel.
 
-**Day 4 and 5: Witness Jampa Lhakhang Tshechu**
+### Day 4–5: Witness Jampa Lhakhang Tshechu
 
-- Attend Jampa lhakhang Tshechhu that performs extraordinary sacred naked dance associated with other mask dances and cultural programs; and
+- Attend Jampa Lhakhang Tshechu featuring sacred naked dance, mask dances, and cultural performances.
 
 <!-- MIDDLE IMAGE (responsive & centered) -->
 <figure class="center-figure">
@@ -106,9 +105,9 @@ Unique Divine Travels focuses festival tour on Tshechu (sacred performing arts) 
 
 - Night halt in hotel.
 
-**Day 6: Chamkhar to Ura (within Bumthang)**
+### Day 6: Chamkhar to Ura (Within Bumthang)
 
-- Visit Ura, Shinkhar and Tangsibi Lhakhangs (temples) and go for village walks; and
+- Visit Ura, Shinkhar, and Tangsibi temples with village walks; and
 - Night halt at Tangsibi (home stay).
 
 <!-- MIDDLE IMAGE (responsive & centered) -->
@@ -119,37 +118,37 @@ Unique Divine Travels focuses festival tour on Tshechu (sacred performing arts) 
   </figcaption>
 </figure>
 
-**Day 7: Bumthang to Phobjikha**
+### Day 7: Bumthang to Phobjikha
 
-- Visit Black-necked crane information center and search out for the globally endangered bird using long range telescope;
+- Visit the Black-necked Crane Information Center and observe the endangered species using telescopes;
 - Drive to Gangtey monastery;
-- Stroll in Phobjikha small town; and
+- Stroll in Phobjikha town; and
 - Night halt in hotel.
 
-**Day 8: Phobjikha to Thimphu**
+### Day 8: Phobjikha to Thimphu
 
-- Visit Chimi Lhakhang, a temple popularly revered for human fertility enrichment was blessed by Lama Dukpa Kunley who was known as Divine Madman;
-- Stop at Dochu La (Pass) where there are 108 Chortens (stupas);
-- In the evening visit Tashichodzong, the fortress that serves as seats for government and monastic bodies; and
+- Visit Chimi Lhakhang, blessed by Lama Dukpa Kunley (Divine Madman);
+- Stop at Dochu La Pass (108 chortens);
+- Evening visit to Tashichodzong; and
 - Stroll in Thimphu city.
 
-**Day 9: Sightseeing within Thimphu**
+### Day 9: Sightseeing Within Thimphu
 
-- Drive to Zorig Chusum, institute where traditional thirteen types of arts and crafts of Bhutan are being taught;
-- Visit Buddha Point where there sits a gigantic bronze statue of Buddha Shakyamuni;
-- Visit Folk heritage museum and Takin (Bhutan's national animal) preserve; and
+- Visit Zorig Chusum Institute of traditional arts and crafts;
+- Visit Buddha Point;
+- Visit Folk Heritage Museum and Takin preserve; and
 - Night halt in hotel at Thimphu.
 
-**Day 10: Thimphu to Paro**
+### Day 10: Thimphu to Paro
 
 - Depart from Paro airport.
 
-**Cost includes:**
+### Cost Includes
 
-- *Accommodation (3 star hotel with twin beds)and home stay;*
-- *3 Meals a day;*
-- *Transportation within Bhutan;*
-- *Trekking equipment - tents, sleeping bag, mattress, etc;*
-- *Service of experienced english speaking, licensed tour guide;*
-- *Service of cooks; and*
-- *Pack animals or riding ponies with porter.*
+- Accommodation (3-star hotel with twin beds) and home stay  
+- 3 meals a day  
+- Transportation within Bhutan  
+- Trekking equipment – tents, sleeping bag, mattress, etc.  
+- Service of experienced English-speaking licensed tour guide  
+- Service of cooks  
+- Pack animals or riding ponies with porter  

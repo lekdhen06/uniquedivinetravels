@@ -65,27 +65,28 @@ tags: [Bhutan, Wildlife Tours, Nature]
   </figcaption>
 </figure>
 
-**........."Discover Wilderness with UD Travels".........**
+## Discover Wilderness with UD Travels
+### Wildlife Tour
 
-**Wildlife Tour**
+Bhutan offers exceptional wilderness experiences. Unique Divine Travels delivers expertly guided wildlife tours focused on birding and safaris within protected areas and national parks. Our trained guides provide strong field knowledge and first-aid support.
 
-If you want to experience wilderness Bhutan is a right destination and you will never return home unsatisfied. Unique Divine Travels offers you best wildlife tour with a special focus on birding and wild animal safaris inside the protected areas or national parks. We provide birding and trekking services with exceptionally sound knowledge and specialized guides who are also competent to provide first-aid services.
+### Season: March to May and September to December
 
-**Season: March to May and September to December**
+### Itinerary
 
-**Day 1: Arrive in Paro**
+### Day 1: Arrive in Paro
 
 - Reception at the airport by our guide and driver;
-- Drive to Thimphu and if time permits go to Jigme Dorji National Park for birding;
-- Stroll Thimphu city in the evening; and
+- Drive to Thimphu with optional birding at Jigme Dorji National Park;
+- Evening stroll in Thimphu; and
 - Night halt in hotel.
 
-**Day 2: Thimphu to Phobjikha**
+### Day 2: Thimphu to Phobjikha
 
-- Visit Lamperi Botanical Park on the way to Wangdue;
-- Continue towards Phobjikha, the winter roosting ground of globally endangered Black-necked crane. Probability to see cranes is high in November through February;
+- Visit Lamperi Botanical Park en route to Wangdue;
+- Drive to Phobjikha, winter habitat of the endangered Black-necked crane (best sightings: Nov–Feb);
 - Visit Black-necked Crane Visitor Information Center;
-- Sightseeing and photography in the valley of Phobjikha; and
+- Valley sightseeing and photography; and
 - Night halt in home-stay or hotel.
 
 <!-- MIDDLE IMAGE (responsive & centered) -->
@@ -96,45 +97,45 @@ If you want to experience wilderness Bhutan is a right destination and you will 
   </figcaption>
 </figure>
 
-**Day 3: Drive to Trongsa and Bumthang**
+### Day 3: Drive to Trongsa and Bumthang
 
-- On the way to Trongsa trek or walk (optional) old trail for one and half hours between viewpoint and Trongsa Dzong (fortress) in the interest of wildlife safari especially golden langur (endangered), Himalayan black bear, Sambar deer and birds;
+- Optional 1.5-hour walk on the old trail between viewpoint and Trongsa Dzong for wildlife sightings, including golden langur, Himalayan black bear, sambar deer, and birds;
 - Continue to Bumthang; and
 - Night halt in home-stay at Tangsibi.
 
-**Day 4: Tangsibi to Phrumsengla National Park**
+### Day 4: Tangsibi to Phrumsengla National Park
 
-- Visit park information center at Ura prior to entering the park;
-- Drive inside Phrumsengla National Park;
-- You will come across terrestrial pheasants along the highway, also often encountered goral, sambar deer, and musk deer;
-- Birding starts from Sengor to Yongkola (one of the best birding sites in South east Asia) along the highway;
-- Night halt in home-stay or hotel or camp.
+- Visit the park information center at Ura;
+- Drive into Phrumsengla National Park;
+- Spot pheasants, goral, sambar deer, and musk deer along the highway;
+- Birding from Sengor to Yongkola, a premier birding corridor in Southeast Asia; and
+- Night halt in home-stay, hotel, or camp.
 
-**Day 5: Birding in Phrumsengla National Park**
+### Day 5: Birding in Phrumsengla National Park
 
-- Continue birding inside the park along the highway;
-- Night halt in hotel or home-stay or camp.
+- Full-day birding along the park highway; and
+- Night halt in hotel, home-stay, or camp.
 
-**Day 6: Continue birding in Phrumsengla National Park and drive back to Bumthang**
+### Day 6: Continue Birding and Return to Bumthang
 
-- Continue birding inside the park along the highway;
+- Morning birding inside the park;
 - Drive back to Bumthang in the afternoon; and
 - Night halt in hotel or home-stay.
 
-**Day 7: Bumthang to Paro**
+### Day 7: Bumthang to Paro
 
-- Fly to Paro in the morning and trek to Taktshang (tiger nest);
-- Stroll Paro town in the evening; and
+- Morning flight to Paro and trek to Taktshang (Tiger’s Nest);
+- Evening stroll in Paro town; and
 - Night halt in hotel.
 
-**Day 8: Depart from Paro**
+### Day 8: Depart from Paro
 
-**Cost includes:**
+### Cost Includes
 
-- *Accommodation (3 star hotel with twin beds)and home stay;*
-- *3 Meals a day;*
-- *Transportation within Bhutan;*
-- *Trekking equipment - tents, sleeping bag, mattress, etc;*
-- *Service of experienced english speaking, licensed tour guide;*
-- *Service of cooks; and*
-- *Pack animals or riding ponies with porter.*
+- Accommodation (3-star hotel with twin beds) and home stay  
+- 3 meals a day  
+- Transportation within Bhutan  
+- Trekking equipment – tents, sleeping bag, mattress, etc.  
+- Service of experienced English-speaking licensed tour guide  
+- Service of cooks  
+- Pack animals or riding ponies with porter  
