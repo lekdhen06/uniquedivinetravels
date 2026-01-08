@@ -31,7 +31,9 @@
                                 <div class="icon"><i class="fas fa-quote-left"></i>
                                 </div>
                                 <div class="name-picture">
-                                    <img class="" alt="" src="{{ .avatar | absURL }}">
+                                    {{ if .avatar }}
+  <img alt="{{ .name }}" src="{{ .avatar | absURL }}">
+{{ end }}
                                     <h5>{{ .name }}</h5>
                                     <p>{{ .position }}</p>
                                 </div>
