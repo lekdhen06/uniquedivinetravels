@@ -57,14 +57,6 @@ tags: [Bhutan, Wildlife Tours, Nature]
 }
 </style>
 
-<!-- TOP IMAGE (responsive on all devices) -->
-<figure class="hero-figure">
-  <img src="/img/bhutan-wildlife.jpg" alt="Wildlife tour in Bhutan" loading="lazy">
-  <figcaption class="caption">
-    Wildlife tours exploring Bhutan’s protected areas
-  </figcaption>
-</figure>
-
 ## Discover Wilderness with UD Travels
 ### Wildlife Tour
 
@@ -121,6 +113,14 @@ Bhutan offers exceptional wilderness experiences. Unique Divine Travels delivers
 - Morning birding inside the park;
 - Drive back to Bumthang in the afternoon; and
 - Night halt in hotel or home-stay.
+
+<!-- TOP IMAGE (responsive on all devices) -->
+<figure class="center-figure">
+  <img src="/img/himalayan-monal.JPG" alt="Wildlife tour in Bhutan" loading="lazy">
+  <figcaption class="caption">
+    Wildlife tours exploring Bhutan’s protected areas
+  </figcaption>
+</figure>
 
 ### Day 7: Bumthang to Paro
 
