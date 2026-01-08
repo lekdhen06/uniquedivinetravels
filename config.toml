@@ -264,7 +264,7 @@ formspree_action = "https://formspree.io/f/xeqbddyp"
 contact_form_ajax = false
 
 enableRecaptchaInContactForm = true
-googleRecaptchaKey = "site_key_for_google_recaptcha"
+googleRecaptchaKey = "6Lds9kMsAAAAAOJD_xqYPaIuY-jjDHlIGFItyoCT"
 
 about_us = "<p>Selfless quality services</p>"
 copyright = "Copyright © 2026 Unique Divine Travels. All rights reserved."
