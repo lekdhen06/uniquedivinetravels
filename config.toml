@@ -10,148 +10,156 @@ paginate = 10
 pluralizelisttitles = false
 
 # ---------------- MENU ----------------
+
 [menu]
 
+
+# Main menu
 [[menu.main]]
-name = "Home"
-identifier = "menu.home"
-url = "/"
-weight = 1
+    name       = "Home"
+    identifier = "menu.home"
+    url        = "/"
+    weight     = 1
+
 
 [[menu.main]]
-name = "About Bhutan"
-identifier = "menu.about-bhutan"
-url = "/img/Punakha-dzong.jpg"
-weight = 2
+    name       = "About Bhutan"
+    identifier = "menu.About Bhutan"
+    url        = "/img/Punakha-dzong.jpg"
+    weight     = 3
 
 [[menu.main]]
-name = "Bhutan"
-identifier = "section.bhutan"
-url = "#"
-weight = 1
-parent = "menu.about-bhutan"
+    name       = "Bhutan"
+    identifier = "section.Bhutan"
+    url        = ""
+    weight     = 1
+    parent     = "menu.About Bhutan"
+    post       = 1
 
 [[menu.main]]
-name = "Destinations"
-identifier = "section.destinations"
-url = "#"
-weight = 2
-parent = "menu.about-bhutan"
+    name       = "Destinations"
+    identifier = "section.Destinations"
+    url        = ""
+    weight     = 2
+    parent     = "menu.About Bhutan"
+    post       = 2
 
 [[menu.main]]
-name = "History of Bhutan"
-url = "/history_of_bhutan"
-weight = 1
-parent = "section.bhutan"
+    name       = "History of Bhutan"
+    url        = "/history_of_bhutan"
+    weight     = 1
+    parent     = "section.Bhutan"
 
 [[menu.main]]
-name = "Gross National Happiness (GNH)"
-url = "/gross_national_happiness"
-weight = 2
-parent = "section.bhutan"
+    name       = "Gross National Happiness (GNH)"
+    url        = "/gross_national_happiness"
+    weight     = 2
+    parent     = "section.Bhutan"
 
 [[menu.main]]
-name = "Climate in Bhutan"
-url = "/climate_in_bhutan"
-weight = 3
-parent = "section.bhutan"
+    name       = "Climate in Bhutan"
+    url        = "/climate_in_bhutan"
+    weight     = 3
+    parent     = "section.Bhutan"
 
 [[menu.main]]
-name = "Festivals"
-url = "/festivals"
-weight = 4
-parent = "section.bhutan"
+    name       = "Festivals"
+    url        = "/festivals"
+    weight     = 4
+    parent     = "section.Bhutan"
 
 [[menu.main]]
-name = "Culture & Traditions"
-url = "/culture_and_traditions"
-weight = 5
-parent = "section.bhutan"
+    name       = "Culture & Traditions"
+    url        = "/culture_and_traditions"
+    weight     = 5
+    parent     = "section.Bhutan"
 
 [[menu.main]]
-name = "Bhutan at a glance"
-url = "/bhutan_at_a_glance"
-weight = 6
-parent = "section.bhutan"
+    name       = "Bhutan at a glance"
+    url        = "/bhutan_at_a_glance"
+    weight     = 6
+    parent     = "section.Bhutan"
+    
 
 [[menu.main]]
-name = "Thimphu"
-url = "/thimphu"
-weight = 1
-parent = "section.destinations"
+    name       = "Thimphu"
+    url        = "/thimphu"
+    weight     = 1
+    parent     = "section.Destinations"
 
 [[menu.main]]
-name = "Paro"
-url = "/paro"
-weight = 2
-parent = "section.destinations"
+    name       = "Paro"
+    url        = "/paro"
+    weight     = 2
+    parent     = "section.Destinations"
 
 [[menu.main]]
-name = "Bumthang"
-url = "/bumthang"
-weight = 3
-parent = "section.destinations"
+    name       = "Bumthang"
+    url        = "/bumthang"
+    weight     = 3
+    parent     = "section.Destinations"
+    
+[[menu.main]]
+    name       = "Zhemgang"
+    url        = "/zhemgang"
+    weight     = 4
+    parent     = "section.Destinations"
+    
+[[menu.main]]
+    name       = "Punakha"
+    url        = "/punakha"
+    weight     = 5
+    parent     = "section.Destinations"
+    
+[[menu.main]]
+    name       = "Trongsa"
+    url        = "/trongsa"
+    weight     = 6
+    parent     = "section.Destinations"
+    
+[[menu.main]]
+    name       = "Wangdiphodrang"
+    url        = "/wangdiphodrang"
+    weight     = 7
+    parent     = "section.Destinations"
 
 [[menu.main]]
-name = "Zhemgang"
-url = "/zhemgang"
-weight = 4
-parent = "section.destinations"
+    name       = "Travel Guide"
+    identifier = "menu.Travel Guide"
+    url        = "/img/bhutan-airlines.jpg"
+    weight     = 3
 
 [[menu.main]]
-name = "Punakha"
-url = "/punakha"
-weight = 5
-parent = "section.destinations"
+    name       = "Planning Trip"
+    identifier = "section.Planning Trip"
+    url        = ""
+    weight     = 1
+    parent     = "menu.Travel Guide"
+    post       = 1
 
 [[menu.main]]
-name = "Trongsa"
-url = "/trongsa"
-weight = 6
-parent = "section.destinations"
+    name       = "VISA"
+    url        = "/visa"
+    weight     = 1
+    parent     = "section.Planning Trip"
 
 [[menu.main]]
-name = "Wangdiphodrang"
-url = "/wangdiphodrang"
-weight = 7
-parent = "section.destinations"
+    name       = "Tariff"
+    url        = "/tariff"
+    weight     = 2
+    parent     = "section.Planning Trip"
 
 [[menu.main]]
-name = "Travel Guide"
-identifier = "menu.travel-guide"
-url = "/img/bhutan-airlines.jpg"
-weight = 3
+    name       = "Flight"
+    url        = "/flight"
+    weight     = 3
+    parent     = "section.Planning Trip"
 
 [[menu.main]]
-name = "Planning Trip"
-identifier = "section.planning-trip"
-url = "#"
-weight = 1
-parent = "menu.travel-guide"
-
-[[menu.main]]
-name = "VISA"
-url = "/visa"
-weight = 1
-parent = "section.planning-trip"
-
-[[menu.main]]
-name = "Tariff"
-url = "/tariff"
-weight = 2
-parent = "section.planning-trip"
-
-[[menu.main]]
-name = "Flight"
-url = "/flight"
-weight = 3
-parent = "section.planning-trip"
-
-[[menu.main]]
-name = "Accommodation"
-url = "/accommodation"
-weight = 4
-parent = "section.planning-trip"
+    name       = "Accommodation"
+    url        = "/accommodation"
+    weight     = 4
+    parent     = "section.Planning Trip"
 
 [[menu.main]]
 name = "Tour Packages"

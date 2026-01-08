@@ -9,9 +9,7 @@ min_version = 0.15
 
 [author]
     name = "devcows"
-    homepage = "https://github.com/devcows"
 
 # If Porting existing theme
 [original]
     author =  "bootstrapious"
-    homepage = "http://bootstrapious.com/p/universal-business-e-commerce-template"
