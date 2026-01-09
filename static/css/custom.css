@@ -51,3 +51,157 @@
   color: #ccc; /* adjust color as needed */
   font-size: 14px;
 }
+
+/* -----------------------------------------------------------------------------
+   NAV & RIGHT-COLUMN LISTS: Force black in LIGHT MODE only
+   - Targets nav links, dropdown items, and common widget/list blocks seen in theme
+   - Leaves topbar and footer-contact untouched (they use .topbar-contact/.footer-contact)
+   ----------------------------------------------------------------------------- */
+
+/* 1) If the site toggles dark mode with a class (common): apply when NOT dark */
+body:not(.dark-mode) .navbar-nav > li > a,
+body:not(.dark-mode) .navbar-nav .dropdown-toggle,
+body:not(.dark-mode) .navbar-nav .dropdown-menu > li > a,
+body:not(.dark-mode) .navbar-nav .dropdown-menu li a,
+body:not(.dark-mode) .navbar-nav > li > a:visited {
+  color: #000 !important;
+}
+
+/* keep nav hover/active readable */
+body:not(.dark-mode) .navbar-nav > li > a:hover,
+body:not(.dark-mode) .navbar-nav .dropdown-menu > li > a:hover,
+body:not(.dark-mode) .navbar-nav > li > a:focus {
+  color: #000 !important;
+}
+
+/* active nav item (the blue active background) - keep text visible */
+body:not(.dark-mode) .navbar-nav > .active > a {
+  color: #fff !important;
+}
+
+/* 2) If the theme uses system preference (prefers-color-scheme): apply for light scheme */
+@media (prefers-color-scheme: light) {
+  .navbar-nav > li > a,
+  .navbar-nav .dropdown-toggle,
+  .navbar-nav .dropdown-menu > li > a,
+  .navbar-nav .dropdown-menu li a,
+  .navbar-nav > li > a:visited {
+    color: #000 !important;
+  }
+  .navbar-nav > li > a:hover,
+  .navbar-nav .dropdown-menu > li > a:hover {
+    color: #000 !important;
+  }
+  .navbar-nav > .active > a { color: #fff !important; }
+}
+
+/* 3) Right-column / boxed lists (the green boxes in your screenshots).
+   These selectors include likely classes used by the theme; they are intentionally broad
+   to catch the widget / list markup shown, but scoped to light mode as above.
+*/
+body:not(.dark-mode) .widget .list-unstyled li a,
+body:not(.dark-mode) .widget ul li a,
+body:not(.dark-mode) .list-unstyled li a,
+body:not(.dark-mode) .footer-links li a,
+body:not(.dark-mode) .panel li a,
+body:not(.dark-mode) .sidebar li a,
+body:not(.dark-mode) .widget .item h5,
+body:not(.dark-mode) .widget,
+body:not(.dark-mode) .panel {
+  color: #000 !important;
+}
+
+/* fallback for prefers-color-scheme */
+@media (prefers-color-scheme: light) {
+  .widget .list-unstyled li a,
+  .widget ul li a,
+  .list-unstyled li a,
+  .footer-links li a,
+  .panel li a,
+  .sidebar li a,
+  .widget .item h5,
+  .widget,
+  .panel {
+    color: #000 !important;
+  }
+}
+
+/* keep links inside those boxes black and with normal hover */
+body:not(.dark-mode) .widget a,
+body:not(.dark-mode) .panel a,
+@media (prefers-color-scheme: light) .widget a,
+@media (prefers-color-scheme: light) .panel a {
+  color: #000 !important;
+  text-decoration: none;
+}
+body:not(.dark-mode) .widget a:hover,
+@media (prefers-color-scheme: light) .widget a:hover {
+  color: #222 !important;
+  text-decoration: underline;
+}
+
+/* MOBILE: ensure collapsed nav links remain black in light mode */
+@media (max-width: 767px) {
+  body:not(.dark-mode) .navbar-nav > li > a,
+  @media (prefers-color-scheme: light) .navbar-nav > li > a {
+    color: #000 !important;
+  }
+}
+
+/* ============================
+   COPYRIGHT (RED BOX) → black in LIGHT MODE only
+   ============================ */
+body:not(.dark-mode) .footer-copyright {
+  color: #000 !important;
+}
+
+/* fallback for systems using prefers-color-scheme */
+@media (prefers-color-scheme: light) {
+  .footer-copyright {
+    color: #000 !important;
+  }
+}
+
+/* =========================================================
+   FOOTER GREEN BOX — FORCE TRUE WHITE TEXT (FIX OPACITY BUG)
+   ========================================================= */
+
+/* Remove any opacity / filters applied by theme */
+#footer .container .row > .col-md-4 {
+  opacity: 1 !important;
+  filter: none !important;
+  mix-blend-mode: normal !important;
+}
+
+/* Force all visible text to pure white (except buttons) */
+#footer .container .row > .col-md-4 *:not(.btn):not(.btn *):not(.btn-template-main):not(.btn-small) {
+  color: #ffffff !important;
+  opacity: 1 !important;
+  filter: none !important;
+  text-shadow: none !important;
+}
+
+/* Links (excluding buttons) */
+#footer .container .row > .col-md-4 a:not(.btn):not(.btn-template-main):not(.btn-small) {
+  color: #ffffff !important;
+  opacity: 1 !important;
+}
+
+/* Hover stays white */
+#footer .container .row > .col-md-4 a:not(.btn):hover {
+  color: #ffffff !important;
+}
+
+/* Mobile consistency */
+@media (max-width: 767px) {
+  #footer .container .row > .col-md-4,
+  #footer .container .row > .col-md-4 *:not(.btn):not(.btn *) {
+    opacity: 1 !important;
+    color: #ffffff !important;
+  }
+}
+
+#footer {
+  background-color: #2f2f2f;
+}
+
