@@ -35,3 +35,19 @@
 .bar .testimonial .name-picture p {
   color: #000 !important;
 }
+
+/* Hide template credit text */
+#copyright .pull-right {
+  display: none !important;
+}
+
+/* center copyright and add spacing */
+#copyright {
+  padding: 24px 0;
+  background: transparent; /* or keep current background */
+}
+.footer-copyright {
+  margin: 0;
+  color: #ccc; /* adjust color as needed */
+  font-size: 14px;
+}
