@@ -59,7 +59,7 @@ tags: [Bhutan, Flights, Travel]
 
 <!-- TOP IMAGE (responsive on all devices) -->
 <figure class="hero-figure">
-  <img src="/img/paro-airport.jpg" alt="Paro International Airport in Bhutan" loading="lazy">
+  <img src="/img/paro-airport.JPG" alt="Paro International Airport in Bhutan" loading="lazy">
   <figcaption class="caption">
     Paro International Airport, the main international gateway to Bhutan
   </figcaption>

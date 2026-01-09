@@ -58,7 +58,7 @@ tags: [Bhutan, Special Tours, Adventure]
 </style>
 
 <!-- TOP IMAGE (responsive on all devices) -->
-<figure class="hero-figure">
+<figure class="center-figure">
   <img src="/img/bhutan-adventure-tour.jpg" alt="Special adventure tour in Bhutan" loading="lazy">
   <figcaption class="caption">
     Special tours combining adventure and culture
@@ -138,7 +138,7 @@ Unique Divine Travels designs special tours for travelers seeking adventure comb
 
 <!-- MIDDLE IMAGE (responsive & centered) -->
 <figure class="center-figure">
-  <img src="/img/Paro-taktshang.png" alt="Paro Taktshang - The tiger's nest" loading="lazy">
+  <img src="/img/tigers-nest.jpg" alt="Paro Taktshang - The tiger's nest" loading="lazy">
   <figcaption class="caption">
     Paro Taktshang - The tiger's nest
   </figcaption>

@@ -58,7 +58,7 @@ tags: [Bhutan, Festival Tours, Culture]
 </style>
 
 <!-- TOP IMAGE (responsive on all devices) -->
-<figure class="hero-figure">
+<figure class="center-figure">
   <img src="/img/bhutan-festival-tour.jpg" alt="Festival tour in Bhutan" loading="lazy">
   <figcaption class="caption">
     Festival tours showcasing Bhutanese Tshechus
@@ -97,7 +97,7 @@ Unique Divine Travels curates festival tours centered on Tshechus, scheduled acc
 
 <!-- MIDDLE IMAGE (responsive & centered) -->
 <figure class="center-figure">
-  <img src="/img/maskdance.jpeg" alt="Mask dance" loading="lazy">
+  <img src="/img/mask-dances.jpg" alt="Mask dance" loading="lazy">
   <figcaption class="caption">
     Mask dance performed during Tshechu
   </figcaption>

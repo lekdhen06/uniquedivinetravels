@@ -58,7 +58,7 @@ tags: [Bhutan, Cultural Tours, Travel]
 </style>
 
 <!-- TOP IMAGE (responsive on all devices) -->
-<figure class="hero-figure">
+<figure class="center-figure">
   <img src="/img/bhutan-cultural-tour.jpg" alt="Cultural tour in Bhutan" loading="lazy">
   <figcaption class="caption">
     Cultural tours exploring Bhutan’s heritage and traditions

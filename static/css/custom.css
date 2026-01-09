@@ -18,3 +18,20 @@
     width: auto;
     max-height: 50px;
 }
+
+/* Make the section subtitle and testimonial card text fully black for better contrast */
+.bar .lead,
+.bar .testimonial .text,
+.bar .testimonial .text p {
+  color: #000 !important;
+}
+
+/* Make the card label/title (e.g. "ACCOMODATION") black too */
+.bar .testimonial .name-picture h5 {
+  color: #000 !important;
+}
+
+/* Optional: any small meta text under the title */
+.bar .testimonial .name-picture p {
+  color: #000 !important;
+}
