@@ -38,3 +38,20 @@
         </div>
     </div>
 </footer>
+
+<!-- COPYRIGHT -->
+<div id="copyright">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        {{ if isset .Site.Params "copyright" }}
+          <p class="footer-copyright">
+            {{ .Site.Params.copyright | safeHTML }}
+          </p>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /#copyright -->
+
