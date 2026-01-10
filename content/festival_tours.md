@@ -58,7 +58,7 @@ tags: [Bhutan, Festival Tours, Culture]
 </style>
 
 <!-- TOP IMAGE (responsive on all devices) -->
-<figure class="center-figure">
+<figure class="hero-figure">
   <img src="/img/bhutan-festival-tour.jpg" alt="Festival tour in Bhutan" loading="lazy">
   <figcaption class="caption">
     Festival tours showcasing Bhutanese Tshechus
