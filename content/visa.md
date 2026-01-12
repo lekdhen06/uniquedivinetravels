@@ -81,9 +81,9 @@ Once your itinerary is finalized, we will apply for your Bhutanese visa on your 
 
 <!-- MIDDLE IMAGE (responsive & centered) -->
 <figure class="center-figure">
-  <img src="/img/bhutan-visa-clearance.jpg" alt="Bhutan visa clearance letter" loading="lazy">
+  <img src="/img/visa-app.png" alt="Bhutan visa application form" loading="lazy">
   <figcaption class="caption">
-    Visa clearance letter issued before travel
+    Visa application form
   </figcaption>
 </figure>
 

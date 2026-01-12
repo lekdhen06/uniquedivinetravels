@@ -94,4 +94,4 @@ To travel to Bhutan, you will need a Bhutanese visa, which is typically arranged
 
 ## Flight Schedules
 
-Flight schedules to Bhutan are subject to change, and it's essential to confirm flight details with us and check for any updates or changes closer to your travel date. For booking your flight schedule, please email to us at info@udtravels.com.bt.
+Flight schedules to Bhutan are subject to change, and it's essential to confirm flight details with us and check for any updates or changes closer to your travel date. For booking your flight schedule, please email to us at info@uniquedivinetravels-bt.com.
