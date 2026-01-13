@@ -55,6 +55,61 @@ tags: [Bhutan, Tariff, Tourism]
     padding: 0 1rem;
   }
 }
+
+/* ===== FAQ Dropdown Enhancements ===== */
+details {
+  margin: 1rem 0;
+  padding: 0.4rem 0;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+
+details summary {
+  cursor: pointer;
+  font-weight: 600;
+  position: relative;
+  padding-right: 1.8rem;
+  list-style: none;
+}
+
+/* Hide default marker */
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Arrow icon */
+details summary::after {
+  content: "▸";
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-size: 1.1rem;
+  transition: transform 0.25s ease;
+}
+
+/* Rotate arrow when open */
+details[open] summary::after {
+  transform: rotate(90deg);
+}
+
+/* Answer animation */
+details > *:not(summary) {
+  overflow: hidden;
+  animation: faq-open 0.3s ease;
+  margin-top: 0.6rem;
+  padding-left: 0.3rem;
+}
+
+@keyframes faq-open {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 </style>
 
 <!-- TOP IMAGE (responsive on all devices) -->
@@ -106,7 +161,69 @@ Bhutan's tourism policy focuses on attracting high-value, low-impact tourists wh
 
 ## Sustainable Development Fee
 
-All the international visitors visiting Bhutan will have to pay Sustainable Development Fee of USD 100 per person per night.
-The sustainable development Fee for the Indian nationals is INR 1200 per person per night.
-The Sustainable Development Fee (SDF), however, exempts day tourists (Indian) who do not travel past the first designated location (Border town, Phuntsholing).
-Minors under the age of five is exempted and children between the ages of six and below twelve, pay a 50% sustainable development fund.
+All visitors to Bhutan pay a Sustainable Development Fee (SDF) charged per person, per night.  
+The SDF helps fund national services such as education, healthcare and environmental conservation.  
+Many tour operators include the SDF in the package price and collect it on your behalf — always check your booking invoice.
+
+**Current typical rates:**
+
+- **International visitors:** USD 100 per person per night  
+- **Indian nationals:** INR 1,200 per person per night  
+- **Children (0–5 years):** Exempt  
+- **Children (6–12 years):** 50% of the adult rate  
+
+The SDF is charged for each night spent in Bhutan (arrival night and overnight stays).  
+Indian day tourists who do not travel beyond the first designated border town (for example Phuentsholing) may qualify for exemption or refund under government rules.
+
+---
+
+### Frequently Asked Questions About SDF
+
+<details>
+<summary><strong>What is the SDF and why is it charged?</strong></summary>
+
+The Sustainable Development Fee is a daily charge applied to visitors to support Bhutan’s national development priorities — such as public health, schools, rural development and conservation projects.  
+It is mandatory and separate from your visa, tour cost or hotel bill.
+
+</details>
+
+<details>
+<summary><strong>Who must pay it and how much?</strong></summary>
+
+Non-Indian international visitors typically pay USD 100 per person per night.  
+Indian nationals typically pay INR 1,200 per person per night.  
+Always confirm the latest rate at the time of booking.
+
+</details>
+
+<details>
+<summary><strong>How are children charged?</strong></summary>
+
+Children aged 5 and under are exempt.  
+Children aged 6–12 usually pay 50% of the adult SDF rate.
+
+</details>
+
+<details>
+<summary><strong>Are there short-stay exemptions (day visitors / border towns)?</strong></summary>
+
+Under government SOP, visitors who remain in designated southern border towns and exit within the allowed period may be eligible for a waiver or refund.  
+Receipts and exit stamps may be required.
+
+</details>
+
+<details>
+<summary><strong>How is the SDF collected?</strong></summary>
+
+Licensed tour operators and hotels commonly collect and remit the SDF on behalf of visitors and include it in invoices.  
+Independent travelers should confirm payment procedures with official authorities and keep receipts.
+
+</details>
+
+<details>
+<summary><strong>Can the SDF rate change?</strong></summary>
+
+Yes. The Royal Government sets SDF rates and rules and they may change.  
+Always confirm the applicable SDF at the time of booking.
+
+</details>
