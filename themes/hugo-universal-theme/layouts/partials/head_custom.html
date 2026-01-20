@@ -1,29 +1,33 @@
-<!-- Favicon -->
-<link rel="icon" href="/favicon.ico" sizes="any">
-<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="manifest" href="/site.webmanifest">
+<!-- ===== External CDN favicon + manifest + JSON-LD (paste into head_customs.html) ===== -->
 
-<!-- Organization structured data -->
+<!-- FAVICONS hosted on external CDN (jsDelivr proxy for your GitHub repo) -->
+<link rel="icon" type="image/png" sizes="32x32" href="https://cdn.jsdelivr.net/gh/lekdhen06/uniquedivinetravels@main/static/img/favicon-32x32-v2.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://cdn.jsdelivr.net/gh/lekdhen06/uniquedivinetravels@main/static/img/favicon-16x16-v2.png">
+<link rel="apple-touch-icon" href="https://cdn.jsdelivr.net/gh/lekdhen06/uniquedivinetravels@main/static/img/logo-512.png">
+<link rel="icon" href="https://cdn.jsdelivr.net/gh/lekdhen06/uniquedivinetravels@main/static/img/favicon-32x32-v2.png" sizes="any">
+
+<!-- External manifest (served from CDN) -->
+<link rel="manifest" href="https://cdn.jsdelivr.net/gh/lekdhen06/uniquedivinetravels@main/static/img/site.webmanifest">
+
+<!-- Optional: browser theming -->
+<meta name="theme-color" content="#0b6efd">
+
+<!-- ORGANIZATION structured data (use CDN PNG for logo) -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Unique Divine Travels",
   "url": "https://www.uniquedivinetravels-bt.com/",
-  "logo": {
-    "@type": "ImageObject",
-    "url": "https://www.uniquedivinetravels-bt.com/img/udt-logo.svg",
-    "width": 600,
-    "height": 600
-  }
+  "logo": "https://cdn.jsdelivr.net/gh/lekdhen06/uniquedivinetravels@main/static/img/logo-512.png"
 }
 </script>
 
-<!-- Social preview -->
+<!-- Open Graph / Twitter previews (use CDN PNG) -->
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Unique Divine Travels" />
-<meta property="og:image" content="https://www.uniquedivinetravels-bt.com/img/udt-logo.svg" />
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/lekdhen06/uniquedivinetravels@main/static/img/logo-512.png" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="https://www.uniquedivinetravels-bt.com/img/udt-logo.svg" />
+<meta name="twitter:image" content="https://cdn.jsdelivr.net/gh/lekdhen06/uniquedivinetravels@main/static/img/logo-512.png" />
+
+<!-- ===== end CDN icon+logo block ===== -->
