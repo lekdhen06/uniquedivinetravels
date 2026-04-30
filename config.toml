@@ -4,7 +4,6 @@ theme = "hugo-universal-theme"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 disqusShortname = ""
-googleAnalytics = "G-1P5WZJ90F1"
 summaryLength = 70
 paginate = 10
 pluralizelisttitles = false
