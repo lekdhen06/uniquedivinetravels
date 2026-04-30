@@ -63,13 +63,25 @@ body.dark-mode img {
   filter: brightness(.95) contrast(1.02);
 }
 
-/* Dropdown menu (Bootstrap) */
+/* Dropdown menu (Bootstrap + Mega Menu) */
 body.dark-mode .dropdown-menu {
   background-color: #101214 !important;
   border-color: #222 !important;
 }
-body.dark-mode .dropdown-menu > li > a {
-  color: #d9e6f8 !important;
+
+/* Fix ALL dropdown links (including mega menu) */
+body.dark-mode .dropdown-menu a {
+  color: #e6eef6 !important;
+}
+
+/* Hover */
+body.dark-mode .dropdown-menu a:hover {
+  color: #89b7ff !important;
+}
+
+/* Section headings inside dropdown */
+body.dark-mode .dropdown-menu h5 {
+  color: #ffffff !important;
 }
 
 /* Buttons & forms */
@@ -410,3 +422,4 @@ body.dark-mode .navbar-default .navbar-nav > .active > a:hover {
   color: #ffffff !important;
   background-color: #2a4d7a !important; /* keep your blue tone */
 }
+
