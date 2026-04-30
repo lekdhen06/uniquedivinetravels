@@ -386,3 +386,27 @@ body.dark-mode .bar.background-gray .box-simple svg {
   color: #8ab4f8 !important;
   fill: #8ab4f8 !important;
 }
+
+/* =========================
+   NAVBAR TEXT FIX (FINAL)
+   ========================= */
+
+body.dark-mode .navbar-default .navbar-nav > li > a {
+  color: #ffffff !important;
+}
+
+body.dark-mode .navbar-default .navbar-nav > li > a:hover {
+  color: #89b7ff !important;
+}
+
+/* Fix dropdown caret */
+body.dark-mode .navbar-default .navbar-nav > li > a .caret {
+  border-top-color: #ffffff !important;
+}
+
+/* Fix active menu (HOME button) */
+body.dark-mode .navbar-default .navbar-nav > .active > a,
+body.dark-mode .navbar-default .navbar-nav > .active > a:hover {
+  color: #ffffff !important;
+  background-color: #2a4d7a !important; /* keep your blue tone */
+}
