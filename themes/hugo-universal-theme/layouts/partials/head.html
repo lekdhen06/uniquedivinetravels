@@ -3,6 +3,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ .Title }}</title>
 
+  <!-- Google Analytics -->
+  {{ template "_internal/google_analytics.html" . }}
+
   <!-- Link to your hero CSS -->
   <link rel="stylesheet" href="{{ "/css/hero.css" | relURL }}">
 </head>
